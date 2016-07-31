@@ -1,0 +1,170 @@
+Title: Performance Evaluation of Delay-Tolerant Wireless Friend-to-Friend Networks For Undetectable Communication
+DOI: 10.1109/LCN.2015.7366356
+Keywords: ad hoc networks; delay tolerant networks; delay-tolerant wireless friend-to-friend networks; trust relationships; undetectable communication; Jamming; Peer-to-peer computing; Security; anonymous communication; delay-tolerant; friend-to-friend networks; undetectability; wireless 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7366356&isnumber=7366232
+
+Title: Relay Selection in Wireless Networks for Optimal Delay Anonymity Tradeoff
+DOI: 10.1109/SPAWC.2015.7227060
+Keywords: information retrieval; optimisation; relay networks (telecommunication);telecommunication network routing; telecommunication security; Shannon Entropy; energy detector; information retrieval; optimal delay anonymity tradeoff; optimization; packet transmission timing; relay selection; suboptimal route selection algorithm; wireless network; Bandwidth; Delays; Optimization; Relays; Security; Wireless communication 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7227060&isnumber=7226983
+
+Title: Secure Communication Scheme for Wireless Sensor Networks to Maintain Anonymity
+DOI: 10.1109/ICCNC.2015.7069511
+Keywords: cryptographic protocols; telecommunication security; wireless sensor networks; SACP maintenance; base station; secure anonymity communication protocol; secure communication scheme; symmetric cryptography; wireless sensor network; Base stations; Conferences; Data communication; Peer-to-peer computing; Protocols; Synthetic aperture sonar; Wireless sensor networks; anonimity; identity; security; sensor nodes; wireless 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7069511&isnumber=7069279
+
+Title: Base Station Anonymity Distributed Self-Assessment in Wireless Sensor Networks
+DOI: 10.1109/ISI.2015.7165947
+Keywords: security of data; wireless sensor networks; WSN; anonymity-boosting techniques; anti-traffic analysis technique; base station; base station anonymity distributed self-assessment; conventional security mechanisms; improved BS anonymity; wireless sensor networks; Current measurement; Energy consumption; Entropy; Protocols; Sensors; Wireless sensor networks; anonymity; location privacy; wireless sensor networks 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7165947&isnumber=7165923
+
+Title: Adaptive Packet-Combining to Counter Traffic Analysis in Wireless Sensor Networks
+DOI: 10.1109/IWCMC.2015.7289106
+Keywords: packet radio networks; telecommunication security; telecommunication traffic; wireless sensor networks; BS location anonymity; WSN; adaptive packet-combining; counter traffic analysis; data delivery delay; denial-of-service attacks; evidence theory; packet delivery latency; wireless sensor networks; Cryptography; Delays; Payloads; Routing; Topology; Wireless sensor networks; Anonymity; Location Privacy; Security; Traffic Analysis; Wireless Sensor Network 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7289106&isnumber=7288920
+
+Title: A Cross-Layer Defense Scheme for Countering Traffic Analysis Attacks in Wireless Sensor Networks
+DOI: 10.1109/MILCOM.2015.7357571
+Keywords: cryptographic protocols; telecommunication security; telecommunication traffic; wireless sensor networks; WSN; anonymity-boosting techniques; authentication; base station; central sink; communication protocol; cross-layer defense scheme; encryption; network-layer techniques; physical-layer techniques; single-layer techniques; traffic analysis attacks; traffic analysis techniques; wireless sensor networks; Array signal processing; Computer security; Measurement; Protocols; Sensors; Wireless sensor networks; anonymity; location privacy; wireless sensor networks 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7357571&isnumber=7357245
+
+Title: A Cross-Layer Distributed Beamforming Approach to Increase Base Station Anonymity in Wireless Sensor Networks
+DOI: 10.1109/GLOCOM.2015.7417430
+Keywords: access protocols; array signal processing; wireless sensor networks; MAC protocol; WSN; base station anonymity; central base station; cross-layer distributed beamforming approach; wireless sensor networks; Array signal processing; Media Access Protocol; Schedules; Security; Synchronization; Wireless sensor networks 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417430&isnumber=7416057
+
+Title: Preserving Biosensor Users' Anonymity Over Wireless Cellular Network
+DOI: 10.1109/ICUFN.2015.7182588
+Keywords: biosensors; body area networks; body sensor networks; cellular radio; data privacy; health care; patient monitoring; telecommunication security; telemedicine; WBAN; biosensor users anonymity preservation; mobile e-healthcare monitoring service; privacy issues; privacy-enhanced e-healthcare monitoring scheme; secure data transmission; security issues; wireless body area network; wireless body sensor network; wireless cellular network; Bioinformatics; Cloning; Cloud computing; Medical services; Mobile communication; Smart phones; Wireless communication; Anonymity; E-healthcare; Privacy; Unlinkability; Wireless body area network; Wireless cellular network 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7182588&isnumber=7182475
+
+Title: Clustering-Based Mitigation of Anonymity Attacks in Wireless Sensor Networks
+DOI: 10.1109/GLOCOM.2015.7417501
+Keywords: military communication; telecommunication network routing; telecommunication traffic; wireless sensor networks; WSN nodes; anonymity attacks; clustering-based mitigation; evidence theory; in-situ base-station; military battlefield; security surveillance; wireless sensor networks; Measurement; Optimized production technology; Receivers; Routing; Security; Topology; Wireless sensor networks 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417501&isnumber=7416057
+
+Title: Location Privacy Protecting Based on Anonymous Technology in Wireless Sensor Networks
+DOI: 10.1109/PAAP.2015.50
+Keywords: data privacy; routing protocols; telecommunication network topology; telecommunication security; telecommunication traffic; trees (mathematics);wireless sensor networks; CTP; aggregation node; anonymous technology; collection tree protocol; information sharing network; location privacy protection method; network traffic; packet transmission; routing protocol; routing tree selection; source node; target node; wireless sensor networks; Base stations; Data privacy; Monitoring; Privacy; Routing; Security; Wireless sensor networks; Collection Tree Protocol; Location Privacy; Wireless Sensor Network 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7387330&isnumber=7387279
+
+Title: Achieving Sink Node Anonymity Under Energy Constraints in Tactical Wireless Sensor Networks
+DOI: 10.1109/COGSIMA.2015.7108196
+Keywords: routing protocols; telecommunication power management; telecommunication security; wireless sensor networks; central node; distributed network; energy constraints; network security; node clustering; node energy depletion; region of interest; routing algorithm; sink node anonymity; tactical wireless sensor networks; wireless information gathering; Clustering algorithms; Nominations and elections; Routing; Security; Sensors; Topology; Wireless sensor networks 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7108196&isnumber=7107964
+
+Title: Temporal Privacy Scheme for End-to-End Location Privacy in Wireless Sensor Networks
+DOI: 10.1109/EESCO.2015.7253969
+Keywords: data privacy; telecommunication security; telecommunication traffic; wireless sensor networks; WSN; active attack; anonymity scheme; capture likelihood scheme; data format; end-to-end location privacy; global attack; local attack; multilocal attack; observability scheme; passive attack; safety period scheme; temporal privacy scheme; traffic rate privacy; wireless sensor networks; Correlation; Delays; Monitoring; Privacy; Protocols; Routing; Wireless sensor networks; WSN; sink privacy; source location privacy; temporal privacy; traffic rate privacy 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7253969&isnumber=7253613
+
+Title: Distributed Beamforming Relay Selection to Increase Base Station Anonymity in Wireless Ad Hoc Networks
+DOI: 10.1109/ICCCN.2015.7288399
+Keywords: ad hoc networks; array signal processing; relay networks (telecommunication); telecommunication network management; telecommunication power management; telecommunication security; wireless channels; central base station; commercial community; distributed beamforming relay selection; energy consumption minimization; evidence theory analysis; hostile border; identity protection; industrial control; local wireless channel statistics; military community; traffic analysis technique; wireless ad hoc network security; Array signal processing; Mobile ad hoc networks; Protocols; Relays; Synchronization; Wireless communication 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7288399&isnumber=7288342
+
+Title: Using Fake Sinks and Deceptive Relays to Boost Base-Station Anonymity in Wireless Sensor Network
+DOI: 10.1109/LCN.2015.7366289
+Keywords: relay networks (telecommunication);telecommunication network routing; telecommunication network topology; telecommunication traffic; trees (mathematics); wireless sensor networks; NP-hard; WSN; base-station anonymity boost; data traffic pattern morphing; deceptive relay; dynamic load-balancing tree; optimal fake sink placement; packet routing; wireless sensor network; Frequency selective surfaces; Network topology; Relays; Routing; Topology; Traffic control; Wireless sensor networks; Traffic analysis; anonymity; location privacy; sensor networks 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7366289&isnumber=7366232
+
+Title: Reliable Privacy-Preserving Communications for Wireless Ad Hoc Networks
+DOI: 10.1109/ICC.2015.7249323
+Keywords: ad hoc networks; data privacy; network coding; telecommunication network reliability; telecommunication network routing; telecommunication traffic; contextual privacy; network coding; network performance; opportunistic routing; phantom-receiver-based routing scheme; reliable privacy-preserving communications; source-destination pair; traffic analysis attacks; wireless ad hoc networks; Ad hoc networks; Cryptography; Network coding; Phantoms; Privacy; Receivers; Routing; contextual privacy; global adversary; network coding; opportunistic routing; phantom receiver; traffic analysis 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7249323&isnumber=7248285
+
+Title: Toward a Statistical Framework for Source Anonymity in Sensor Network Using Quantitative Measures
+DOI: 10.1109/ICIIECS.2015.7193169
+Keywords: statistical analysis; telecommunication security; telecommunication traffic; wireless sensor networks; binary hypothesis checking; network traffic; nuisance parameters; quantitative evaluation; quantitative measurement; sensor network; source anonymity; statistical framework; statistical problem; wireless sensor network; Conferences; Energy efficiency; Privacy; Protocols; Technological innovation; Wireless sensor networks; Binary Hypothesis; Interval Indistinguishability; Wireless Sensor Network; residual energy 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7193169&isnumber=7192777
+
+Title: AnonCall: Making Anonymous Cellular Phone Calls
+DOI: 10.1109/ARES.2015.13
+Keywords: Android (operating system);Internet; ad hoc networks; cellular radio; mobile handsets; smart phones; wireless LAN; Android smartphone; AnonCall; Internet privacy; Wi-Fi; ad-hoc network; anonymity schemes; anonymous cellular phone calls; mass surveillance; Cellular phones; Internet; Mobile communication; Mobile handsets; Relays; Wireless networks; Anonymity; Cellular; Privacy 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7299973&isnumber=7299862
+
+Title: An Enhanced Communication Protocol for Anonymity and Location Privacy in WSN
+DOI: 10.1109/WCNCW.2015.7122535
+Keywords: protocols; telecommunication security; wireless sensor networks; WSN; active attacks; anonymity; capture-likelihood; communication protocol enhancement; global adversaries; local adversaries; location privacy; object tracking; observability; passive attacks; safety period; semiglobal adversaries; wireless sensor networks; Conferences; Energy efficiency; Internet of things; Nickel; Privacy; Silicon; Wireless sensor networks; WSN; anonymity; contextual privacy; privacy; sink privacy; source location privacy 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7122535&isnumber=7122513
+
+Title: A Delay-Aware and Secure Data Forwarding Scheme for Urban Sensing Networks
+DOI: 10.1109/ICC.2015.7248784
+Keywords: data communication; electronic messaging; redundancy; security of data; wireless sensor networks; DEAR data forwarding scheme; data confidentiality; data server; delay aware and secure data forwarding scheme; secret sharing scheme; two-phase message forwarding redundancy; urban sensing network; urban sensing paradigm; Cryptography; Delays; Privacy; Sensors; Servers; Wireless communication; Wireless sensor networks 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7248784&isnumber=7248285
+
+Title: Towards Unconditional Tor-Like Anonymity
+DOI: 10.1109/NETCOD.2015.7176791
+Keywords: ad hoc networks; protocols; Tor-like anonymity; Tor-like anonymity network; ad-hoc wireless networks; intrinsic properties; key generation techniques; standard coding techniques; traffic anonymization protocol; wireless networks; Ad hoc networks; Encryption; Protocols; Relays; Uncertainty; Wireless communication 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7176791&isnumber=7176630
+
+Title: A Survey on Techniques for Securing 6LoWPAN
+DOI: 10.1109/CSNT.2015.163
+Keywords: Internet; cryptography; personal area networks; telecommunication security; 6LoWPAN; Internet; baseline reference; cryptography techniques; local network; low power wireless personal area networks; security threats; smart objects; Computer crime; IEEE 802.15 Standard; Internet; Protocols; Routing; Sensors; 6LoWPAN; IDS; IEEE 802.15.4; IPsec; IPv6; Internet of Thing; MT6D 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7279997&isnumber=7279856
+
+Title: Authenticating with Privacy Protection in Opportunistic Networks
+DOI: (not
+Keywords: radio networks; telecommunication security; authenticating protection; authentication mechanism; encryption; opportunistic networks; privacy protection; security attacks; security technologies; security threats; wireless network environment; Authentication; Computers; Cryptography; Electronic mail; Authentication Mechanisms; Opportunistic Network; Privacy Protection 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7332598&isnumber=7332527
+
+Title: SHARP: Secured Hierarchical Anonymous Routing Protocol for MANETs
+DOI: 10.1109/ICCCI.2015.7218121
+Keywords: mobile ad hoc networks; pattern clustering; routing protocols; telecommunication security; telecommunication traffic; MANET; SHARP; cluster routing; communication eavesdropping; data anonymity; data packet; data sharing; decentralized network; malicious attacker; mobile ad-hoc network; resource constraint problem; secured hierarchical anonymous routing protocol; self-organizing property; traffic analysis; wireless network; Ad hoc networks; Cryptography; Mobile computing; Receivers; Routing; Routing protocols; Anonymous routing; Cryptographic techniques; RSA; cluster-based routing; random forwarder 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7218121&isnumber=7218046
+
+Title: The Origin and Trustworthiness of Data in Smart City Applications
+DOI: 10.1109/UCC.2015.60
+Keywords: cloud computing; mobile computing; smart cities; trusted computing; WLAN AP; loud architecture; core service; crowd sensing data trustworthiness; environment-sensing applications; environment-sensing systems; malicious data; mobile devices; reputation system; sensors; smart city applications; wireless local area network access points; Cloud computing; Computer architecture; Intelligent sensors; Mobile handsets; Smart cities; Wireless LAN; cloud; crowd sensing; data origin; smart city applications; trust 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7431435&isnumber=7431374
+
+Title: Pseudonym-Based Anonymity Zone Generation for Mobile Service with Strong Adversary Model
+DOI: 10.1109/CCNC.2015.7157998
+Keywords: authorisation; data privacy; mobile computing; IT market; LBS system architecture; anonymity zone generation; application service provider; dynamic pseudonyms-changing mechanism; geometric transformation algorithm; inference attacks; location-aware mobile devices; location-based services; mobile devices; mobile service; online personalized scheme; pseudonym-based anonymity zone generation; strong-adversary model; strong-trajectory privacy preservation; user data protection; user privacy; user-controlled personalized dummy generation; wireless networking; Computational modeling; Privacy; Quality of service; Anonymity Zone; Design; Geometric; Location-based Services; Pseudonyms; Trajectory Privacy Protection 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7157998&isnumber=7157933
+
+Title: A New Off-Line Electronic Cash Scheme for Bank Delegation
+DOI: 10.1109/ICIST.2015.7288965
+Keywords: bank data processing; cryptography; digital signatures; electronic money; bank delegation; computational Diffie-Hellman assumptions; double spending traceability; e-cash scheme; electronic commerce; honest customer anonymity; off-line electronic cash scheme; proxy blind signature scheme; random oracle model; Business; Forgery; Glands 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7288965&isnumber=7288906
+
+Title: Privacy-Preserving Routing in Delay Tolerant Networks Based on Bloom Filters
+DOI: 10.1109/WoWMoM.2015.7158148
+Keywords: delay tolerant networks; delays; radio networks; telecommunication network routing; telecommunication security; Bloom filters; SimBet algorithm; cryptography based mechanisms;delay tolerant networks; eavesdrop data exchanges; expensive cryptographic operations; malicious nodes; mobile nodes; opportunistic networks; privacy preserving routing algorithm; wireless channel; Cryptography; Measurement; Peer-to-peer computing; Privacy; Protocols; Routing 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7158148&isnumber=7158105
+
+Title: Location Privacy Preserving Techniques for Location Based Services over Road Networks
+DOI: 10.1109/ICCSP.2015.7322723
+Keywords: data privacy; mobile computing; risk management; road traffic; security of data; telecommunication security; vehicular ad hoc networks; VANET; data privacy; extensible location privacy architecture; identity privacy; inference attack; intellectual merits; location privacy preserving techniques; location privacy threats; location-based services; long-term pseudonyms; mix zone model; mobile technologies; personal location information; position correlation attack; privacy breach; privacy risks; road networks; security breach; timing attack; transition attack; vehicle ad-hoc network; wireless technologies; Communication system security; Mobile communication; Mobile computing; Navigation; Privacy; Vehicles; Wireless communication; Location privacy; Location-Based Service; Mix zones; Mobile networks; Path confusion; Pseudonyms; k-anonymity 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322723&isnumber=7322423
+
+Title: Hash-Based Anonymous Secure Routing Protocol in Mobile Ad Hoc Networks
+DOI: 10.1109/AsiaJCIS.2015.27
+Keywords: cryptography; mobile ad hoc networks; mobile computing; mobility management (mobile radio);routing protocols; telecommunication network topology; telecommunication security; DoS attack; HASR protocol; Hash-based anonymous secure routing protocol; MANET; denial of service attack; dynamic network topology; handheld wireless devices ;location-based services; message security; mobile ad hoc networks; mobile users; personal communication Apps; route maintenance attack; wireless communication technologies; wireless mobile devices; Cryptography; Mobile ad hoc networks; Nickel; Routing; Routing protocols; communication anonymity; message security; mobile ad hoc network; routing protocol 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7153936&isnumber=7153836
+
+Title: A Secure Multi-Hops Routing for VANETs
+DOI: 10.1109/WINCOM.2015.7381299
+Keywords: cryptographic protocols; data privacy; intelligent transportation systems; radio networks; telecommunication security; vehicular ad hoc networks; ABS; VANET; attribute based signature; road traffic safety; secure multihop routing; traffic management; vehicle-to-roadside communication; vehicle-to-vehicle communication; vehicular ad-hoc networks; Authentication; Cryptography; Privacy; Safety; Vehicles; Vehicular ad hoc networks; ABS/TABS schemes; Authentication; Privacy; Security; Traceability; VANETs 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7381299&isnumber=7381297
+
+Title: Application of Neural Networks and Friedman Test for User Identification in Tor Networks
+DOI: 10.1109/BWCCA.2015.88
+Keywords: backpropagation; client-server systems; computer network security; neural nets; DDoS; Friedman test; The Onion Router; Tor client; Tor infrastructure; Tor networks; Tor server; Wireshark network analyzer; backpropagation NN; computer security; data browsing; deep Web browser; hackers; identity theft behind Tor; malicious users; neural networks; surface Web browser; surface Web client; user identification; Deep Web; Friedman Test; Hidden Unit; Intrusion Detection; Neural Networks; Tor Networks; User Identification 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424866&isnumber=7424228
+
+Title: Evaluation of an Entropy-Based K-Anonymity Model for Location Based Services
+DOI: 10.1109/ICCNC.2015.7069372
+Keywords: data protection; mobile handsets; mobility management (mobile radio);next generation networks; LBS; cellular telephone; entropy-based k-anonymity model evaluation; location based service; location privacy mechanism; mobile device; mobile user; next generation wireless system; policy based scheme; user information protection; Computational modeling; Conferences; Entropy; Measurement; Mobile communication; privacy; Query processing; Location Based Services (LBS);entropy; k-anonymity; privacy 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7069372&isnumber=7069279
+
+Title: A Longitudinal Approach to Measuring the Impact of Mobility on Low-Latency Anonymity Networks
+DOI: 10.1109/IWCMC.2015.7289066
+Keywords: Internet; mobility management (mobile radio);Internet user mobility; longitudinal approach; low latency anonymity networks; mobile client base recycling connections; mobility impact; network dynamics; network management; real-time network decisions; trigger intervention; Bandwidth; Internet; Measurement; Mobile communication; Mobile computing; Q-factor; Recycling; Anonymity; Privacy-Enhancing Technology; Security Monitoring and Management 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7289066&isnumber=7288920
+
+Title: CommEasy: An Innovative Interactive Communication System for Promoting Communication and Participation
+DOI: 10.1109/FIE.2015.7344129
+Keywords: Internet; computer aided instruction; distance learning; interactive systems; teaching; teleconferencing; video communication; wireless LAN; Apple smart handheld devices; CommEasy; Internet; King Saud University; Wi-Fi technology; distance learning classrooms; education; innovative interactive communication system; teacher-student communication; teaching; video conferencing technology; Education; Handheld computers; IEEE 802.11 Standard; Internet; Streaming media; PRS; communication; distance learning; participations; smart handheld devices 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7344129&isnumber=7344011
+
