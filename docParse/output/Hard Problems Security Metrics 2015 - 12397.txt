@@ -1,0 +1,135 @@
+Title: "Measuring Risk: Computer Security Metrics, Automation, and Learning," 
+DOI: 10.1109/MAHC.2015.30
+Keywords: risk management; security of data; automation; computer security risk management; cybersecurity; organizational learning; risk analysis; risk measurement; Computer security; Government policies; History; Measurement; Risk management; computer security; history of computing; measurement; metrics; policys; risk assessment (ID#: 16-9687) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7116460&isnumber=7116418
+
+Title: "CPIndex: Cyber-Physical Vulnerability Assessment for Power-Grid Infrastructures," 
+DOI: 10.1109/TSG.2014.2372315
+Keywords: Bayes methods; graph theory; power engineering computing; power grids; power system control; power system security; risk management; stochastic processes; CPIndex; cyber-physical critical infrastructures; cyber-physical security indices; cyber-physical vulnerability assessment; cyber-side instrumentation probes ;graph-theoretic power system indexing algorithm; interprocess communications; numerical indices ;operating system assets; power network configuration; power operators; power-grid Infrastructures; power-grid control networks; security assessment techniques; security-oriented stochastic risk management technique; stochastic Bayesian network models; Generators; Indexes; Power measurement; Security; Smart grids; Cyber-physical security metrics; cyber-physical systems; intrusion detection systems; situational awareness (ID#: 16-9688) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6979242&isnumber=7042857
+
+Title: "P ^{2} CySeMoL: Predictive, Probabilistic Cyber Security Modeling Language," 
+DOI: 10.1109/TDSC.2014.2382574
+Keywords: estimation theory; formal languages; graph theory; probability; security of data; software architecture; P2CySeMoL; attack graph tool; cyber security estimation; enterprise architecture; predictive probabilistic cyber security modeling language; Computational modeling; Computer architecture; Computer security; Data models; Predictive models; Probabilistic logic; Computer security; attack graphs; risk management; security metrics (ID#: 16-9689) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6990572&isnumber=7322332
+
+Title: "Location-Based Secure Transmission for Wiretap Channels," 
+DOI: 10.1109/JSAC.2015.2430211
+Keywords: optimisation; radio networks; radio transceivers; telecommunication security; wireless channels; authorized transceivers; eavesdropper location; key security metrics; location based secure transmission; location based secure transmission scheme; location information; physical layer security; quantitative assessment; wireless networks; wiretap channels; Physical layer; Relays; Security; Signal to noise ratio; Synchronization; Location; artificial noise; physical layer security; relay networks; wiretap channel (ID#: 16-9690) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7102687&isnumber=7128777
+
+Title: "Security Enhancement of Cooperative Single Carrier Systems," 
+DOI: 10.1109/TIFS.2014.2360437
+Keywords: cooperative communication; probability; relay networks (telecommunication); telecommunication network reliability; telecommunication security; SNR; asymptotic analysis; asymptotic expression; capacity ceiling; cooperative single carrier system security enhancement; ergodic secrecy rate; frequency selective fading; multiple active eavesdropper; multiple relay selection; opportunistic selection; outage probability; secrecy diversity gain; signal-to-noise ratio; two-stage scheme; Diversity methods; Fading; Receivers; Relays; Security; Signal to noise ratio; Wireless communication; Cooperative transmission; frequency selective fading; physical layer security; secrecy ergodic rate; secrecy outage probability; single carrier transmission (ID#: 16-9691) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6910233&isnumber=6973056
+
+Title: "Intrusion Evaluation of Communication Network Architectures for Power Substations," 
+DOI: 10.1109/TPWRD.2015.2409887
+Keywords: firewalls; investment; local area networks; maintenance engineering; power system planning; safety systems; substation automation; substation protection; automation system; communication network architectures; computer-based boundary protection; cybersystems; electronic elements; firewall-dedicated virtual local-area networks; intrusion attacks; intrusion evaluation; intrusion resilience; power substations; security investment; sensitivity analysis; substation control system; substation maintenance; substation network security; substation planning; unauthorized users; Computer architecture; Modems; Protocols; Security; Servers; Substations; Tin; Cyberinfrastructure; electronic intrusion; network security planning; power substation (ID#: 16-9692) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7054545&isnumber=7110680
+
+Title: "Wireless Physical Layer Authentication via Fingerprint Embedding," 
+DOI: 10.1109/MCOM.2015.7120016
+Keywords: fingerprint identification; message authentication; telecommunication security; fingerprint embedding; low-power fingerprint designs; message authentication; secure communications; wireless physical layer authentication; wireless software-defined radio; Authentication; Bit error rate; Fingerprint recognition; Network security; Physical layer; Receivers; Signal to noise ratio; Wireless networks (ID#: 16-9693) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7120016&isnumber=7120004
+
+Title: "MUCM: Multilevel User Cluster Mining Based on Behavior Profiles for Network Monitoring," 
+DOI: 10.1109/JSYST.2014.2350019
+Keywords: complex networks; computer network management; computer network security; data mining; graph theory; pattern clustering; CERNET; China Education and Research Network; MUCM; behavior clustering; behavior profiles; behavior similarity metrics; bidirectional flow; bipartite graphs; large-scale networks; multilevel user cluster mining; network management; network monitoring; network prefix levels; network traffic characteristics; north-west region center; profiling network traffic patterns; traffic security monitoring; user behavior character; user behavior profiles; user behavior similarity; weight factor; Communities; Feature extraction; IP networks; Monitoring; Ports (Computers);Protocols; Security; Behavior profiles; different prefix levels; regional flow model; user clustering (ID#: 16-9694) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6892980&isnumber=7332994
+
+Title: "Secrecy Transmit Beamforming for Heterogeneous Networks," 
+DOI: 10.1109/JSAC.2015.2416984
+Keywords: array signal processing; cochannel interference; convex programming; cooperative communication; femtocellular radio; interference suppression; matrix algebra; radio spectrum management; telecommunication security; wireless channels; FBS; MBS; QoS constraint; STB-OM; Secrecy Transmit Beamforming; broadcasting; channel state information; cochannel interference elimination ;convex optimization technique; cooperative STB; femtocell base station; heterogeneous network; macrocell base station; optimization problem; orthogonal spectrum allocation strategy; physical-layer security; second-order cone programming; secrecy-oriented nonorthogonal spectrum allocation strategy; secure communication; semidefinite programming; two-tier downlink HetNet; Array signal processing; Femtocells; Interference; Macrocell networks; Quality of service; Resource management; Vectors; Beamforming; femtocell; heterogeneous network; nonconvex optimization; physical-layer security; semidefinite programming (SDP) (ID#: 16-9695) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7070667&isnumber=7108084
+
+Title: "Systematic Poisoning Attacks on and Defenses for Machine Learning in Healthcare," 
+DOI: 10.1109/JBHI.2014.2344095
+Keywords: health care; learning (artificial intelligence);medical computing; pattern classification; security of data; application domains; arbitrary errors; biomedicine; critical decisions; false diagnosis prompt users; false positive classification; health-related applications; healthcare; life-threatening consequences; machine-learning algorithms; malicious data; patient distress; security breach; systematic poisoning attacks; targeted errors; training datasets; Machine learning algorithms; Malware; Security; Training; Healthcare; machine learning; poisoning attacks; security (ID#: 16-9696) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6868201&isnumber=7317613
+
+Title: "Defending Against Collaborative Attacks by Malicious Nodes in MANETs: A Cooperative Bait Detection Approach," 
+DOI: 10.1109/JSYST.2013.2296197
+Keywords: cooperative communication; mobile ad hoc networks; routing protocols; telecommunication security; BFTR protocol; CBDS; DSR; MANET;best-effort fault-tolerant routing protocol; collaborative blackhole attack; cooperative bait detection approach; dynamic source routing; grayhole attack; malevolent nodes; malicious nodes; mobile ad hoc networks; packet delivery ratio; reverse tracing; routing overhead; routing process; serious security concerns; Ad hoc networks; Collaboration; Delays; Mobile computing; Routing; Security; Cooperative bait detection scheme (CBDS);collaborative bait detection; collaborative blackhole attacks; detection mechanism; dynamic source routing (DSR); grayhole attacks; malicious node; mobile ad hoc network (MANET) (ID#: 16-9697) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6708418&isnumber=7053977
+
+Title: "Wireless Network Intrinsic Secrecy," 
+DOI: 10.1109/TNET.2013.2297339
+Keywords: cryptography; interference (signal); radio networks; telecommunication security; aggregate network interference; communication confidentiality; contemporary security system; cryptographic primitive; eavesdropping mitigation; network secrecy metric; node spatial distribution; wireless network intrinsic secrecy; wireless propagation medium; Indexes; Interference; Measurement; Receivers; Transmitters; Wireless networks; Network secrecy; fading channels; interference exploitation; stochastic geometry; wireless networks (ID#: 16-9698) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6732960&isnumber=7041254
+
+Title: "Wireless Network Virtualization: A Survey, Some Research Issues and Challenges," 
+DOI: 10.1109/COMST.2014.2352118
+Keywords: mobility management (mobile radio); radio networks ;telecommunication computing; virtualisation; control signaling; governance regulations; mobility management; network management; nontechnical issues; performance metrics; radio spectrum resources; resource allocation; resource discovery; wireless network deployment; wireless network virtualization; Business; Indium phosphide; Mobile communication; Virtual private networks; Virtualization; Wireless networks; Wireless network virtualization; abstraction and sharing; cloud computing; cognitive radio and networks; isolation (ID#: 16-9699) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6887287&isnumber=7061782
+
+Title: "High-Performance Two-Dimensional Finite Field Multiplication and Exponentiation for Cryptographic Applications," 
+DOI: 10.1109/TCAD.2015.2424928
+Keywords: Galois fields; parallel architectures; public key cryptography; 2D decomposition systolic-oriented algorithms; application-specific integrated circuit platform; cryptographic applications; cryptographic computations; digit-level Gaussian normal basis exponentiation; digit-level Gaussian normal basis multiplication; elliptic curve Diffie-Hellman key agreement scheme; error control coding; exponentiation architectures; finite field arithmetic operations; hardware complexity; high-performance architectures; high-performance structures; high-performance two-dimensional finite field exponentiation; high-performance two-dimensional finite field multiplication; multiplication architectures; systolic structures; Arrays; Complexity theory; Cryptography; Gaussian processes; Hardware; Logic gates; Cryptography; Gaussian normal basis; Gaussian normal basis (GNB);finite field; security; systolic architecture (ID#: 16-9700) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7090958&isnumber=7271134
+
+Title: "Safeguard: User Reauthentication on Smartphones via Behavioral Biometrics," 
+DOI: 10.1109/TCSS.2016.2517648
+Keywords: formal verification; inference mechanisms; learning (artificial intelligence); message authentication; mobile computing; smart phones; support vector machines; SVM; Safeguard; adversary imitation; behavioral biometric; machine learning ;on-screen sliding movement; smart phone; support vector machine; user pattern inference; user reauthentication system; user verification system; Authentication; Biometrics (access control);Machine learning; Security; Smart phones; Support vector machines; Behavioral biometrics; reauthentication; security; smartphone (ID#: 16-9701) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7414441&isnumber=7419212
+
+Title: "Reconstruction-Based Metric Learning for Unconstrained Face Verification," 
+DOI: 10.1109/TIFS.2014.2363792
+Keywords: face recognition; image reconstruction; learning (artificial intelligence); LFW data set; Labelled Faces in the Wild data set; YouTube face data sets; discriminative distance metric; distance metric learning; face recognition; feature descriptor; interclass sparse reconstruction residual; reconstruction-based multimetric learning method; unconstrained face verification; Face; Face recognition; Feature extraction; Image reconstruction; Learning systems; Measurement; Training; Face recognition; metric learning; reconstruction-based learning; unconstrained face verification (ID#: 16-9702) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6926840&isnumber=6973056
+
+Title: "Multiple Gateway Transmit Diversity in Q/V Band Feeder Links," 
+DOI: 10.1109/TCOMM.2014.2385703
+Keywords: electromagnetic wave attenuation; probability; satellite communication; Q/V band feeder links; attenuation model; average outage probability; multibeam satellite communication system; multiple gateway transmit diversity; prediction-based switching; reliable feeder links; Attenuation; Correlation; Logic gates; Rain; Satellites; Signal to noise ratio; Switches; $N+P$ scheme; Feeder Link; Gateway Diversity; Gateway diversity; N +P scheme; Q/V Band; Q/V band; Rain Attenuation; Satellite Communication; feeder link; rain attenuation; satellite communication (ID#: 16-9703) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6995937&isnumber=7060754
+
+Title: "Optimal Placement of Static Compensators for Multi-Objective Voltage Stability Enhancement of Power Systems," 
+DOI: 10.1049/iet-gtd.2015.0070
+Keywords: Pareto optimisation; cost reduction; evolutionary computation; power system dynamic stability; power system economics; power system reliability; power system security; power system transient stability; probability; risk management; stability criteria; static VAr compensators; voltage regulators; MOP model; New England 39-bus test system; Pareto optimal solutions; decomposition-based multiobjective evolutionary algorithm; dynamic reactive power support; investment cost minimisation; multiobjective decision-making; multiobjective programming model; multiobjective voltage stability enhancement; multiple contingencies; optimal static compensators placement; power system; proximity minimisation; risk-based metrics; steady-state voltage collapse; unacceptable transient voltage performance minimisation; voltage stability criteria; voltage stability measures (ID#: 16-9704) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7328457&isnumber=7328433
+
+Title: "Investigating Public-Key Certificate Revocation in Smart Grid," 
+DOI: 10.1109/JIOT.2015.2408597
+Keywords: public key cryptography; smart power grids; PKC; PPKI; pseudonymous public key infrastructure; public key cryptography; public-key certificate revocation; public-private keys; several metrics; smart grid; smart grid applications; vehicles-to-grid communications; Electricity; Measurement; Privacy; Public key; Smart grids; Substations; Certificate revocation schemes; public key cryptography; public key cryptography (PKC);smart grid communication security (ID#: 16-9705) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7054434&isnumber=7331244
+
+Title: "Next Gen PCFG Password Cracking," 
+DOI: 10.1109/TIFS.2015.2428671
+Keywords: context-free grammars; security of data; authentication technique; dictionary based password cracking approaches; keyboard patterns; multiword patterns; next Gen PCFG password cracking; password cracking system; probabilistic context-free grammar; probabilistic password cracking; Dictionaries; Grammar; Keyboards; Probabilistic logic; Shape; Smoothing methods; Training; Authentication; Dictionaries; Keyboard patterns; Multiwords; Password cracking; Probabilistic grammars; authentication; dictionaries; multiwords; password cracking; probabilistic grammars (ID#: 16-9706) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7098389&isnumber=7127092
+
+Title: "On the Secrecy of Interference-Limited Networks under Composite Fading Channels," 
+DOI: 10.1109/LSP.2015.2398514
+Keywords: Nakagami channels; fading channels; log normal distribution; radio receivers; radio transmitters; stochastic processes; telecommunication security; Nakagami-m fading; channel model; composite fading channels; eavesdropper; higher-order statistics; interference-limited networks secrecy; interference-limited regime; nonzero secrecy capacity; path-loss log-normal shadowing; point Poisson process; radio channel; receiver; secrecy capacity; secrecy outage probability; stochastic geometry; transmitter; Capacity planning; Fading; Receivers; Security; Transmitters; Wireless networks;Composite channel; secrecy capacity; secrecy outage probability; stochastic geometry (ID#: 16-9707) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7027802&isnumber=7017605
+
+Title: "Ranking Radically Influential Web Forum Users," 
+DOI: 10.1109/TIFS.2015.2407313
+Keywords: Internet; data mining; social networking (online);ISI-KDD'12 workshop; UserRank algorithm; collocation metrics; collocation theory; customized PageRank algorithm; infectious threads; online community; online social media ;radical threads; radically influential Web forum user ranking; temporal similarity-based measures; textual similarity-based measures; user radicalness; Blogs; Communities; Equations; Mathematical model; Measurement; Media; Message systems; Radical user identification; Security informatics; Social media analysis; Users collocation analysis; radical user identification; security informatics; users collocation analysis (ID#: 16-9708) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7050292&isnumber=7084215
+
+Title: "ENTVis: A Visual Analytic Tool for Entropy-Based Network Traffic Anomaly Detection," 
+DOI: 10.1109/MCG.2015.97
+Keywords: data visualisation; entropy; pattern clustering; security of data; ENTVis; anomaly clustering; entropy-based network traffic anomaly detection; traffic distribution characteristic; visual analytic tool; Data visualization; Entropy; Human computer interaction; IP networks; Ports (Computers);Telecommunication traffic; Visual analytics; anomaly detection; computer graphics; cybersecurity; entropy; visual analytics (ID#: 16-9709) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7274260&isnumber=7331155
+
+Title: "Fool Me If You Can: Mimicking Attacks and Anti-Attacks in Cyberspace," 
+DOI: 10.1109/TC.2013.191
+Keywords: Markov processes; Web sites; computer network security; entropy; invasive software; online front-ends; statistical analysis; Web browsing behavior; Web sites; active bots; active legitimate users; anomaly detection; antiattack mimicking; attack mimicking; attacking botnet; botnet owners; correntropy metrics; cyberspace; flash crowds; legitimate cyber behavior mimicking; malicious actions; malicious activities; second-order statistical metrics; semiMarkov model; Ash; IP networks; Internet; Mathematical model; Measurement; Web pages; Mimicking; detection; flash crowd attack; second order metrics (ID#: 16-9710) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6601602&isnumber=6980145
+
+Title: "Leveraging the Potential of Cloud Security Service-Level Agreements through Standards," 
+DOI: 10.1109/MCC.2015.52
+Keywords: cloud computing; contracts; risk management; security of data ;small-to-medium enterprises; software standards; standardisation; SME; cloud computing; risk management; secSLA; security in cloud service-level agreement; security requirement; small and medium enterprise; standardization; Cloud computing; Computer security; Interoperability; Measurement; Monitoring; NIST; SLA; cloud; metrics; risk management; security assessment; standards (ID#: 16-9711) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7158967&isnumber=7158963
+
+Title: "An Attack-Resistant Trust Model Based on Multidimensional Trust Metrics in Underwater Acoustic Sensor Network," 
+DOI: 10.1109/TMC.2015.2402120
+Keywords: mobility management (mobile radio);telecommunication network reliability; telecommunication security; underwater acoustic communication; wireless channels; wireless sensor networks; ARTMM; TWSN; UASN; attack-resistant trust model; data trust; energy efficient trust evaluation; link trust; mobile network environment; monitoring tasks; multidimensional trust metrics; node trust; sensor nodes; terrestrial wireless sensor networks; trust calculation process; underwater acoustic sensor network; unreliable underwater communication channel; Bit error rate; Computational modeling; Mathematical model; Packet loss; Predictive models; Multidimensional trust Metrics; Trust Model; Underwater Acoustic Sensor Networks; Underwater acoustic sensor networks; multidimensional trust metrics; trust model (ID#: 16-9712) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7038144&isnumber=7314996
+
+Title: "Evaluation Theory and Practice Applied to Cybersecurity Education," 
+DOI: 10.1109/MSP.2015.27
+Keywords: educational institutions; security of data; cybersecurity education programs; cybersecurity environment; evaluation theory; schools; Computer security; Design methodology; Game theory; Performance evaluation; Program logic; Reliability; cybersecurity; evaluation design; evaluation theory; formative evaluation; measurement; metrics; program logic; reliability; summative evaluation; validity (ID#: 16-9713) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7085972&isnumber=7085640
+

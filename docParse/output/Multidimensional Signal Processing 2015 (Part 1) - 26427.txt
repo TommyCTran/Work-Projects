@@ -1,0 +1,240 @@
+Title: "Multithreaded Signal-to-Memory Mapping Algorithm for Embedded Multidimensional Signal Processing," 
+DOI: 10.1109/CSCS.2015.22
+Keywords: multi-threading; signal processing; storage management; embedded multidimensional signal processing; high-level programming language; memory allocation; memory management algorithm; memory sharing; multidimensional signal mapping; multilayer memory hierarchy; multimedia domain; multithreaded signal-to-memory mapping algorithm; telecommunication domain; Arrays; Hardware; Indexes; Lattices; Memory management; Signal processing algorithms; dynamic multithreading; memory management; memory mapping; multidimensional signal processing (ID#: 16-9760) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168439&isnumber=7168393
+
+Title: "Optimization of Memory Banking in Embedded Multidimensional Signal Processing Applications," 
+DOI: 10.1109/ISCAS.2015.7169288
+Keywords: DRAM chips; cache storage; dynamic programming; signal processing; computation speed; die area; dynamic programming approach; embedded multidimensional signal processing applications; embedded systems; energy consumption reduction; frequently-accessed data assignment; hierarchical memory organizations; low memory hierarchy levels; memory banking optimization; memory size; off-chip DRAM; on-chip SPM; performance improvement; storage access trace; time complexity; Arrays; Banking ;Dynamic programming; Energy consumption; Lattices; Memory management; Signal processing algorithms (ID#: 16-9761) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169288&isnumber=7168553
+
+Title: "Recent Advances in Multidimensional Systems and Signal Processing: An Overview," 
+DOI: 10.1109/ISCAS.2015.7169159
+Keywords: IIR filters; image processing; microwave antenna arrays; millimetre wave antenna arrays; notch filters; ISCAS 2015;MD IIR digital filters; MD Kirchhoff circuit realizations; MD signal processing; image processing scenarios; microwave antenna array processing; mm-wave antenna array processing; multidimensional systems; visual tomography-based imaging systems (ID#: 16-9762) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169159&isnumber=7168553
+
+Title: "An Overview of Multi-Dimensional RF Signal Processing for Array Receivers," 
+DOI: 10.1109/MERCon.2015.7112355
+Keywords: IIR filters; antenna phased arrays; antenna radiation patterns; array signal processing; directive antennas; multidimensional signal processing; radio receivers; radiofrequency interference; recursive filters; signal flow graphs; spatiotemporal phenomena; IIR; MD network-resonant beamforming filter; MD spatiotemporal signal processing ;RF antenna array based receiver; analog signal processing; digital signal processing; highly-directional radio frequency antenna array; infinite impulse response; interference rejection capability; multidimensional RF signal processing; recursive spatio-temporal signal flow graph; side-lobe performance; transfer function; Array signal processing; Arrays; Frequency response; Passband; Radio frequency; Receivers; Transfer functions; Multidimensional Signal Processing; Phased Arrays (ID#: 16-9763) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7112355&isnumber=7112293
+
+Title: "Aperture-Array Directional Sensing Using 2-D Beam Digital Filters with Doppler-Radar Front-Ends," 
+DOI: 10.1109/MERCon.2015.7112357
+Keywords: Doppler radar; IIR filters; UHF antennas; UHF filters; antenna arrays; aperture antennas; array signal processing; band-pass filters; directive antennas; radar antennas; radar signal processing; spatial filters; spectral analysis; two-dimensional digital filters;2D IIR spatially band-pass filter;2D beam digital filter; Doppler radar front-end; aperture-array directional sensing; array broadside; down conversion; scatterer direction; Arrays; Doppler radar; Radar antennas; Radio frequency; Receivers; Sensors; 2-D IIR digital filters; Multidimensional signal processing; cyberphysical systems; directional sensing; doppler; radar (ID#: 16-9764) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7112357&isnumber=7112293
+
+Title: "Memory Efficient Spectral Estimation on Parallel Computing Architectures," 
+DOI: 10.1109/DSP-SPE.2015.7369576
+Keywords: Z transforms; estimation theory; fast Fourier transforms; parallel architectures; RELAX algorithm; fast Fourier transform; memory efficient spectral estimation; multidimensional extensions; multidimensional spectral estimation; multiple Chirp-Z transforms; multiple scattering centers; parallel computing architecture; Chirp; Estimation; Memory management; Signal processing algorithms; Transforms; Yttrium; Multidimensional signal processing; harmonic analysis; parallel algorithms; parameter estimation (ID#: 16-9765) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7369576&isnumber=7369513
+
+Title: "Asymptotically Efficient Estimators for Multidimensional Harmonic Retrieval Based on the Geometry of the Stiefel Manifold," 
+DOI: 10.1109/ACSSC.2015.7421437
+Keywords: maximum likelihood estimation; multidimensional signal processing; singular value decomposition; F/B averaging; R-dimensional problem; R-dimensional subspace; SVD; asymptotically efficient estimators; geometric constraint; harmonic signal structure; intrinsic subspace CRB; likelihood function; maximum likelihood criterion; modified complex Stiefel manifold; multidimensional harmonic retrieval; quadratic ML criterion; regular arrays; shift-invariance condition; signal processing; singular value decomposition; stand-alone estimation; subspace estimation; Covariance matrices; Geometry; Harmonic analysis; Manifolds; Maximum likelihood estimation; Niobium (ID#: 16-9766) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7421437&isnumber=7421038
+
+Title: "Joint Estimation of Spatial and Motional Radar Target Parameters by Multidimensional Spectral Analysis," 
+DOI: 10.1109/IRS.2015.7226282
+Keywords: military radar; multidimensional signal processing; parameter estimation; radar resolution; search radar; high signal dynamics; high-resolution spectral analysis technique; military C-band surveillance radar; multidimensional spectral analysis; multitone capacity; spatial and motional radar target parameter joint estimation; spectral resolution; superresolution spectral analysis technique; Benchmark testing; Discrete Fourier transforms; Multiple signal classification; Signal resolution; Signal to noise ratio; Spectral analysis (ID#: 16-9767) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226282&isnumber=7226207
+
+Title: "Investigating Bias in Non-Parametric Mutual Information Estimation," 
+DOI: 10.1109/ICASSP.2015.7178716
+Keywords: entropy; multidimensional signal processing; nonparametric statistics; series (mathematics);bias accumulation control; multidimensional Taylor series expansion; nearest neighbors nonparametric approach; nonparametric mutual information estimation; plug-in entropy estimator; Approximation methods; Entropy; Estimation; Joints; Mutual information; Random variables; Entropy estimation; bias reduction; independence test; mutual information (ID#: 16-9768) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178716&isnumber=7177909
+
+Title: "Multi-Dimensional Real-Time Spectrum Analysis for High-Resolution Signal Processing," 
+DOI: 10.1109/ICEAA.2015.7297351
+Keywords: antenna arrays; leaky wave antennas; multidimensional signal processing; spectral analysis;2D frequency scan; 2D spectral decomposition; LWA; broadband electromagnetic signal; dispersive metasurface; high-resolution signal processing; Incident wave; leaky-wave antenna; multidimensional real-time spectrum analysis; natural frequency scanning; purely spatial system; Arrays; Broadband antennas; Broadband communication; Dispersion; Leaky wave antennas; Real-time systems; Spectral analysis (ID#: 16-9769) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7297351&isnumber=7296849
+
+Title: "Blind Calibration of Multi-Channel Samplers Using Sparse Recovery," 
+DOI: 10.1109/CAMSAP.2015.7383729
+Keywords: Fourier transforms; analogue-digital conversion; calibration; compressed sensing; image resolution; multidimensional signal processing; signal sampling; CoSaMP algorithm; blind calibration; complex harmonics; discrete-time Fourier transforms; image superresolution; linear equations; multichannel analog-to-digital converters; multichannel samplers; multidimensional signals; sensor networks; sparse recovery problem; subspace-based rank condition; Calibration; Conferences; Discrete Fourier transforms; Harmonic analysis; Image resolution; Signal resolution; Yttrium; CoSaMP; blind calibration; multi-channel sampling; sparse recovery (ID#: 16-9770) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7383729&isnumber=7383717
+
+Title: "Total Generalized Variation for Graph Signals," 
+DOI: 10.1109/ICASSP.2015.7179014
+Keywords: graph theory; multidimensional signal processing; piecewise constant techniques; smoothing methods; 3D mesh smoothing; G-TGV; graph TGV; graph signal processing; piecewise-smooth graph signal inpainting; second-order discrete total generalized variation; Convex functions; Graph theory; Optimization; Signal processing; Smoothing methods;T V; Three-dimensional displays; Graph signal processing; proximal splitting; total generalized variation (TGV) (ID#: 16-9771) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7179014&isnumber=7177909
+
+Title: "Multi-Dimensional Continuous Phase Modulation in Uplink of MIMO Systems," 
+DOI: 10.1109/EUSIPCO.2015.7362824
+Keywords: Gaussian channels; MIMO communication; antenna arrays; continuous phase modulation; low-pass filters; multidimensional signal processing; receiving antennas; transmitting antennas; CPMH; Cartesian filter; MIMO systems; channel state information; continuous time signal; hypersphere;i.i.d. Gaussian channel; multidimensional continuous phase modulation; mutual information; receive antennas; spectral properties; spherical domain; spherical low pass filter; spherical spectral shaping method; transmit antennas; MIMO; Mutual information; Peak to average power ratio; Pulse shaping methods; Radio transmitters; Receiving antennas; Phase modulation; continuous phase modulation (CPM); multiple-input multiple-output (MIMO) systems; peak-to-average power ratio (PAPR); single-RF transmitters; spherical filtering (ID#: 16-9772) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7362824&isnumber=7362087
+
+Title: "Multidimensional Approaches for Noise Cancellation of ECG Signal," 
+DOI: 10.1109/ICCSP.2015.7322569
+Keywords: electrocardiography; medical signal processing; multidimensional signal processing; signal denoising; wavelet transforms; ECG signal; FIR; ambulatory conditions; electrocardiogram; filtering techniques; low-pass butter; multidimensional approaches; noise cancellation; physiological process; signal processing; stationary wavelet transform; strenuous conditions; weighted moving average; Discrete wavelet transforms; Finite impulse response filters; Noise measurement; Active noise reduction; Electrocardiography; Filters; Noise cancellation (ID#: 16-9773) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322569&isnumber=7322423
+
+Title: "Relax and Unfold: Microphone Localization with Euclidean Distance Matrices," 
+DOI: 10.1109/EUSIPCO.2015.7362386
+Keywords: acoustic generators; acoustic signal processing; calibration; mathematical programming; matrix algebra; microphone arrays; multidimensional signal processing; source separation; EDM completion; Euclidean distance matrices; Euclidean geometry; MDU; ad hoc arrays; flexible localization algorithm; localization performance improvement; microphone localization; microphone position calibration; missing pairwise distance information handling; multidimensional unfolding; psychometrics; semidefinite relaxation; sound sources; Calibration; Euclidean distance; Europe; Geometry; Microphones; Noise measurement; Symmetric matrices; Euclidean distance matrix; Microphone localization; array calibration; microphone array; multidimensional unfolding; semidefinite relaxation (ID#: 16-9774) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7362386&isnumber=7362087
+
+Title: "Multivariate Lattices for Encrypted Image Processing," 
+DOI: 10.1109/ICASSP.2015.7178262
+Keywords: cryptography; image processing; telecommunication security; cryptographic hard problem; encrypted image processing; lattice cryptosystem; m-RLWE; multidimensional signal processing; multivariate lattice; multivariate ring learning with error; privacy-preserving solution; Ciphers; Encryption; Image processing; Lattices; Polynomials; Homomorphic Processing; Image Encryption; Lattice Cryptography; Security (ID#: 16-9775) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178262&isnumber=7177909
+
+Title: "Keynote Address: Multi-Dimensional RF Signal-Processing and Analog/Digital Circuits," 
+DOI: 10.1109/MERCon.2015.7112306
+Keywords: (not provided) (ID#: 16-9776) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7112306&isnumber=7112293
+
+Title: "Research Progress on Multidimensional Space Joint-Observation SAR," 
+DOI: 10.1109/IRMMW-THz.2015.7327714
+Keywords: decomposition; image fusion; radar imaging; radar polarimetry; spaceborne radar; synthetic aperture radar; Chinese Academy of Sciences Institute of Electronics; Kronecker product decomposition; MITL-IECAS; MSJosSAR imaging; National Key Lab of Microwave Imaging Technology; PolinSAR technique; anisotropic scattering mechanisms; circular SAR technique; cuverture SAR technique ;instantaneous time-variant target; multidimensional space joint-observation SAR imaging; multidirectional observation; multilayer material; polarimetry; signal processing; sphere cluster cordinate system; synthetic aperture radar imaging; target scattering mechanism; time series; Aerospace electronics; Microwave imaging; Microwave theory and techniques; Radar imaging; Scattering; Synthetic aperture radar (ID#: 16-9777) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7327714&isnumber=7327382
+
+Title: "Multiple Antenna Wireless Communication Signal Blind Recovery Based on PARAFAC Decomposition," 
+DOI: 10.1109/ICNISC.2015.13
+Keywords: MIMO communication; OFDM modulation; antenna arrays; array signal processing; decomposition; radio networks; tensors; wireless channels; CFO; CSI; MIMO-OFDM wireless communication system; PARAFAC-based tensor decomposition method; SNR; carrier frequency offset; channel state information; multiple antenna wireless communication signal blind recovery; multiple dimension array signal; MIMO; OFDM; Receiving antennas; Tensile stress; Transmitting antennas; Wireless communication; PARAFAC decomposition; blind recovery; multiple antenna; wireless communication (ID#: 16-9778) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7311854&isnumber=7311794
+
+Title: "2-D Signal Theoretic Investigation of Background Elimination in Visual Tomographic Reconstruction for Safety and Enabling Health Applications," 
+DOI: 10.1109/ISCAS.2015.7169162
+Keywords: computerised tomography; image reconstruction; mathematical analysis; medical image processing; 2D signal theoretic investigation;3D scene reconstruction; background elimination; classical medical tomography applications; elderly people; filtering techniques; health applications; mathematical description; medical tomography; multidimensional spectra; physical disabilities; reconstruction process; reconstruction quality; visual tomographic reconstruction; Biomedical imaging; Cameras; Image reconstruction; Legged locomotion; Radio frequency; Tomography; Visualization (ID#: 16-9779) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169162&isnumber=7168553
+
+Title: "Multidimensional Aspects of Ultra High Speed Optical Networking," 
+DOI: 10.1109/ICTON.2015.7193472
+Keywords: channel capacity; multiplexing; optical fibre networks; optical information processing; optical modulation; spectral analysis; dynamic networking; elastic networking; information capacity; multidimensional approach; multiplexing scheme; optical channel construction; optical channel parallelization; optical modulation; optical signal processing; optical transmission link spectral efficiency; ultra high speed optical networking; Modulation; OFDM; Optical fiber networks; Optical fibers; Optical polarization; Optical signal processing (ID#: 16-9780) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7193472&isnumber=7193279
+
+Title: "Improved HISS Technique for Multidimensional Harmonic Retrieval Problems," 
+DOI: 10.1109/ChinaSIP.2015.7230372
+Keywords: filtering theory; matrix algebra; source separation; HISS technique; MHR problem; SNR; constrained filtering; hierarchical signal separation; multidimensional harmonic retrieval problem; projection matrix; signal-to-noise ratio; Manganese; Nickel; Silicon (ID#: 16-9781) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7230372&isnumber=7230339
+
+Title: "Extract Before Detect, Coherent Extraction Based on Gridless Compressed Sensing," 
+DOI: 10.1109/CoSeRa.2015.7330287
+Keywords: array signal processing; compressed sensing; iterative methods; matched filters; pulse compression; radar clutter; radar detection; radar signal processing; signal representation; time-frequency analysis; Doppler filters; dictionary matrix; digital beam forming; gridless OMP; gridless compressed sensing; matched filters; multidimensional input signals; multidimensional target domain; noise-clutter estimation; noncoherent extraction; orthogonal matching pursuit; pulse compression; radar processing chain; sparse representation; target echoes; Coherence;Compressed sensing; Conferences; Matching pursuit algorithms; Radar remote sensing; OMP; ambiguity solving; block; complex; compressed sensing; extract before detect; extraction; gridless; off the grid; radar (ID#: 16-9782) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7330287&isnumber=7330246
+
+Title: "Analysis and Visualization of Complex Phenomena," 
+DOI: 10.1109/CINTI.2015.7382909
+Keywords: data analysis; data visualisation; pattern clustering ;signal processing; time series; complex phenomena visualization; data analysis; data clustering; fractional calculus; generalized fractional Jensen-Shannon divergence; man-made complex phenomena; multidimensional scaling; natural complex phenomena; signal processing; system dynamics; time series; visualization tools; Data visualization; Economic indicators; Electrocardiography; Entropy;IP networks; Indium tin oxide; Internet (ID#: 16-9783) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7382909&isnumber=7382894
+
+Title: "EEG-based Hybrid BCIs and Their Applications," 
+DOI: 10.1109/IWW-BCI.2015.7073035
+Keywords: brain-computer interfaces; electroencephalography ;feature extraction; medical signal processing; signal classification; visual evoked potentials;2D cursor control; BCI controlled computer mouse; BCI mouse; EEG-based hybrid BCI; EEG-based multidimensional control; internet browser; MI; P300; SSVEP; classification performance improvement; clinical applications; consciousness disorder patients; covert awareness detection; horizontal movement control; hybrid brain computer interfaces; hybrid feature extraction; mail client; motor imagery; multiple independent control signals; noisy EEG data; residual cognitive function detection; steady state visual evoked potential; target position; target-of-interest selection; target-of-no-interest rejection; vertical movement control; virtual car;virtual wheelchair; Accuracy; Brain-computer interfaces; Browsers; Control systems; Mice; Postal services; Wheelchairs; Hybrid BCIs; Multidimentional control; P300; Steady state visual evoked potential; awareness detection; motor imagery (ID#: 16-9784) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7073035&isnumber=7073013
+
+Title: "Compressive Sensing for Power Spectrum Estimation of Multi-Dimensional Processes under Missing Data," 
+DOI: 10.1109/IWSSIP.2015.7314202
+Keywords: compressed sensing; spectral analysis; stochastic processes; adaptive basis reweighting procedure; compressive sensing; missing data; multidimensional process; multidimensional stochastic fields; multidimensional stochastic process; one-dimensional vector process; power spectrum estimation; Compressed sensing; Estimation; Frequency-domain analysis; Sensors; Sparse matrices; Spectral analysis; Stochastic processes; Compressive Sensing; Missing Data; Power Spectrum; Stochastic Process (ID#: 16-9785) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7314202&isnumber=7313917
+
+Title: "Efficient design of quadrature mirror filter bank for audio signal processing using Craziness based Particle Swarm Optimization Technique," 
+DOI: 10.1109/IC4.2015.7375563
+Keywords: audio signal processing; channel bank filters; particle swarm optimisation; CRPSO algorithm; QMF Bank; audio signal processing; cognitive components; craziness based particle swarm optimization technique; craziness probability; global optimal solution; multidimensional search space; pass band ripple; quadrature mirror filter bank; social components; standard PSO; stop band attenuation; two-channel quadrature mirror filter bank; Filter banks; Finite impulse response filters; IIR filters; Mirrors; Particle swarm optimization; Power filters; CRPSO; FIR; PSO; QMF (ID#: 16-9786) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7375563&isnumber=7374772
+
+Title: "Application Specific Stability of 3-D Roesser-like Model Realizations," 
+DOI: 10.1109/NDS.2015.7332651
+Keywords: discrete systems; stability; state-space methods; 3D Roesser-like model realization; discrete 3D system realization; multidimensional k-D system stability; state space description; Computational modeling; Electronic mail; MIMO; Mathematical model; Solid modeling; Stability criteria (ID#: 16-9787) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7332651&isnumber=7332630
+
+Title: "Specificities of the Design of Input Signals for Models Gaussian Linear Systems," 
+DOI: 10.1109/SIBCON.2015.7147271
+Keywords: Gaussian processes; covariance analysis; discrete systems; stochastic processes; Fisher information matrix; Gaussian linear systems; continuous-discrete systems; covariance matrices; design input signals; mathematical models; measurement noise; multidimensional stochastic linear discrete systems; process noise; state space models; Covariance matrices; Kalman filters; Linear systems; Mathematical model; Noise; Noise measurement; Stochastic processes; Fisher information matrix; continuous - discrete system; discrete system; experiment design (ID#: 16-9788) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7147271&isnumber=7146959
+
+Title: "Multidimensional Signal Constellation Design for Channel Dominated with Nonlinear Phase Noise," 
+DOI: 10.1109/TELSKS.2015.7357754
+Keywords: optimisation; phase noise; signal processing; cumulative log likelihood function; multidimensional signal constellation; nonlinear phase noise; optimization criterion; polarization switched QPSK; sphere packing constellations; Algorithm design and analysis; Constellation diagram; Optical fiber communication; Optical fiber polarization; Parity check codes; Phase noise; Fiber optics and optical communications; Forward error correction; Low-density parity-check codes; Modulations; Optimal signal constellation design (ID#: 16-9789) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7357754&isnumber=7357713
+
+Title: "Decomposing Time Series Data by a Non-Negative Matrix Factorization Algorithm with Temporally Constrained Coefficients," 
+DOI: 10.1109/EMBC.2015.7319146
+Keywords: electromyography; matrix decomposition; medical signal processing; numerical analysis; time series; vectors; Akaike Information Criterion; NMF update rules; coefficient temporal constraint; human upper limb; independently distributed data dimensions; independently distributed data samples; multidimensional electromyographic data sets; muscle synergy identification; nonnegative basis vectors; nonnegative matrix factorization algorithm; temporal correlations; temporally constrained coefficients; time series data analysis; time series data decomposition; vector coefficient; Data mining; Data models; Distributed databases; Electromyography; Matrix decomposition; Muscles; Time series analysis (ID#: 16-9790) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7319146&isnumber=7318236
+
+Title: "Photoplethysmography Technology and Its Feature Visualization for Cognitive Stimulation Assessment," 
+DOI: 10.1109/ICIT.2015.7125348
+Keywords: cognition; data visualisation; feature extraction; medical disorders; medical signal processing; patient care; patient treatment; photoplethysmography; PPG signals; alternative cognitive stimulation; care-giver; cognitive stimulation assessment; communication effect; communication signals; dementia; feature visualization; largest Lyapunov exponents; mental disorders; multidimensional scaling; photoplethysmography technology; signal dissimilarity; signal similarity; therapeutic communication; therapeutic treatments; visual assessment; Data visualization; Dementia; Feature extraction; Mathematical model; Senior citizens; Synchronization; Data visualization; Largest Lyapunov exponent; Mental health; Multidimensional scaling; Photoplethysmography; Synchronized signal processing (ID#: 16-9791) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7125348&isnumber=7125066
+
+Title: "An Efficient Pipeline Inspection on Heterogeneous Relay Nodes in Wireless Sensor Networks," 
+DOI: 10.1109/ICCSP.2015.7322586
+Keywords: channel allocation; computerised monitoring; inspection; pipelines; relay networks (telecommunication);signal detection; underground communication; wireless channels; wireless sensor networks; WSN; channel allocation; gas pipeline; heterogeneous relay node; multidimensional application; oil pipeline; pipeline inspection; signal detection; signal propagation; underground pipeline communication; water pipeline; wireless sensor network; Delays; Media; Monitoring; Pipelines; Relays; Reliability; Wireless sensor networks; Wireless sensor networks; heterogeneous; leak detection; pipelines (ID#: 16-9792) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322586&isnumber=7322423
+
+Title: "Delineation of Infarct Lesions by Multi-Dimensional Fuzzy C-Means of Acute Ischemic Stroke Patients," 
+DOI: 10.1109/EESCO.2015.7253655
+Keywords: biodiffusion; biological tissues; biomedical MRI; brain; fuzzy set theory; image segmentation; medical image processing; DWI MR images; FCM; acute ischemic stroke patients; brain images; diffusion weighted imaging; healthy tissues; hyper-intense signals; hypointense signals; infarct lesions; lesion segmentation; lesion size; magnetic resonance images; manual delineation; multidimensional fuzzy C-means; nonenhancing brain lesion; segmentation process; stroke lesion; Brain; Clustering algorithms; Image segmentation; Lesions; Magnetic resonance imaging; Visualization; DWI; FCM; Lesion; Magnetic resonance imaging; ischemic stroke (ID#: 16-9793) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7253655&isnumber=7253613
+
+Title: "Online Sketching for Big Data Subspace Learning," 
+DOI: 10.1109/EUSIPCO.2015.7362837
+Keywords: Big Data; data acquisition; learning (artificial intelligence); tensors; Big Data analytics; Big Data subspace learning; PARAFAC decomposition; data acquisition process; data processing; importance score; latent subspace; online subspace updates; randomization scheme; realtime sketching scheme; Big data; Europe; Magnetic resonance imaging; Matrix decomposition; Real-time systems; Signal processing; Tensile stress; Tensor; randomization; streaming data; subspace learning (ID#: 16-9794) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7362837&isnumber=7362087
+
+Title: "Channel Scaling for Rounding Noise Reduction in Minimum Lifting 3D Wavelet Transform," 
+DOI: 10.1109/APSIPA.2015.7415398
+Keywords: channel coding; data compression; rate distortion theory; signal denoising; signal reconstruction; wavelet transforms; backward transform; channel scaling; data compression; input signal reconstruction; integer transform; lossless-lossy coding; minimum lifting 3D wavelet transform; multidimensional memory access; rate distortion curve; rounding noise reduction; upper bound; Bit rate; Decision support systems (ID#: 16-9795) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7415398&isnumber=7415286
+
+Title: "Radar Signal Recognition Based on Time-Frequency Representations and Multidimensional Probability Density Function Estimator," 
+DOI: 10.1109/SPS.2015.7168292
+Keywords: Wigner distribution; probability; radar signal processing; Wigner-Ville distribution; multidimensional probability density function estimator; noise reduction; radar signal recognition; statistical classifier; time-frequency representations; two-dimensional denoising filter; Algorithm design and analysis; Feature extraction; Noise; Noise reduction; Radar; Signal processing algorithms; Time-frequency analysis; Wigner-Ville Distribution; radar signal recognition; time-frequency analysis (ID#: 16-9796) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168292&isnumber=7168254
+
+Title: "Velocity-Assisted Multidimensional Scaling," 
+DOI: 10.1109/SPAWC.2015.7227102
+Keywords: cooperative communication; mobile communication; cooperative localization; mobile networks; node locations; pairwise distance measurements; relative velocity measurements; velocity-assisted multidimensional scaling; Accuracy; Doppler effect; Measurement uncertainty; Noise measurement; Stress; Velocity measurement; Wireless sensor networks; Localization; iterative majorization-minimization; mobile sensor networks; multidimensional scaling (MDS) (ID#: 16-9797) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7227102&isnumber=7226983
+
+Title: "Investigation of Some Parameters of a Neuro-Fuzzy Approach for Dynamic Sound Fields Visualization," 
+DOI: 10.1109/INISTA.2015.7276769
+Keywords: acoustic signal processing; data visualisation; feature extraction; fuzzy neural nets; microphone arrays;2D projection; ESN reservoir; MT neuron; acoustic camera; direction selective cell; dynamic sound field visualization; dynamic sound fields visualization; feature extraction; microphone array; multidimensional data clustering; neuro-fuzzy approach; original multidimensional data; photo camera; raw data; selection criteria; sound source; static sound picture; wheel antenna; Acoustics; Cameras; Feature extraction; Heuristic algorithms; Microphones; Neurons; Reservoirs; Echo state networks (ESN);Fuzzy C-means (FCM) clustering; acoustic camera; direction selective cells (MT neurons) (ID#: 16-9798) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7276769&isnumber=7276713
+
+Title: "Multimodal Data Classification Using Signal Quality Indices and Empirical Similarity-Based Reasoning," 
+DOI: 10.1109/CIC.2015.7411131
+Keywords: electrocardiography; haemodynamics; inference mechanisms; medical signal processing; patient care; photoplethysmography; signal classification; ECG wavefonns; ICU; Intensive Care Unit; PPG; PhysioNet/CinC 2015 Challenge; RR interval features; SQI; arterial blood pressure; bedside monitors; case-based reasoning classifier; electrocardiography; empirical similarity-based reasoning; interactive classifier; multidimensional attributes; multimodal data classification; photoplethysmography; signal quality Indices; signal quality indices; Chlorine; Classification algorithms; Physiology; Robustness (ID#: 16-9799) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7411131&isnumber=7408562
+
+Title: "Simplified Multiuser Detection for SCMA with Sum-Product Algorithm," 
+DOI: 10.1109/WCSP.2015.7341328
+Keywords: communication complexity; error statistics; message passing; multi-access systems; multiuser detection; statistical analysis; AMI; Max-Log approximation method; SCMA detector algorithm; average mutual information; computational complexity; message passing algorithm; multidimensional codeword; non-orthogonal multiple access technique; simplified multiuser detection algorithm; sparse code multiple access technique; statistical method; sum-product algorithm; Approximation algorithms; Complexity theory; Detectors; Least squares approximations; Message passing; Multiuser detection; Sum product algorithm (ID#: 16-9800) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7341328&isnumber=7340966
+
+Title: "MMOSPA Estimation with Unknown Number of Objects," 
+DOI: 10.1109/ChinaSIP.2015.7230496
+Keywords: Gaussian processes; estimation theory; minimisation; object tracking; MMOSPA estimation; OSPA metric minimization; RFS; minimum mean OSPA; nonGaussian posterior density; optimal subpattern assignment metric; particle-based algorithm; random finite set; unordered object estimation; Conferences; Cost function; Estimation; Radar tracking; Signal processing algorithms; Target tracking; Minimum mean OSPA (MMOSPA) estimate; Multi-object filtering; Multi-object systems; Multitarget tracking; Optimal sub-pattern assignment (OSPA);Point processes; Random finite sets (RFS); Wasserstein distance (ID#: 16-9801) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7230496&isnumber=7230339
+
+Title: "A Maximum Correntropy Criterion for Robust Multidimensional Scaling," 
+DOI: 10.1109/ICASSP.2015.7178302
+Keywords: entropy; quadratic programming; MHQMDS; REE; RMDS; SMACOF; Welsch M-estimator; correntropy criterion maximization; dimensionality reduction technique; half-quadratic optimization; maximum correntropy criterion; multiplicative formulation; multiplicative half-quadratic MDS robust Euclidean embedding; robust MDS; robust multidimensional scaling; scaling by majorizing a complicated function; Computer integrated manufacturing; Kernel; Minimization; Optimization; Robustness; Signal processing; Stress; M-estimators; Multidimensional scaling; correntropy; half-quadratic optimization; robustness (ID#: 16-9802) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178302&isnumber=7177909
+
+Title: "An Improved Anomaly Detection in Mobile Networks by using Incremental Time-Aware Clustering," 
+DOI: 10.1109/INM.2015.7140483
+Keywords: mobile communication; mobile computing; mobility management (mobile radio); pattern clustering; anomaly detection; cell failure mitigation process; incremental time-aware clustering; learning model; mobile network cell; mobile network complexity; mobile network management; multidimensional space; network troubleshooting; Clustering algorithms; Mobile communication; Mobile computing; Quantization (signal); Sun; Testing; Training (ID#: 16-9803) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7140483&isnumber=7140257
+
+Title: "A Fast Multidimensional Scaling Algorithm," 
+DOI: 10.1109/ROBIO.2015.7419726
+Keywords: data visualisation; CMDS; classical multidimensional scaling; data visualization; dimensionality reduction; divide-and-conquer based MDS; isometric transformation; multidimensional scaling algorithm; Algorithm design and analysis; Euclidean distance; Matrix decomposition; Nickel; Niobium; Principal component analysis; Signal processing algorithms (ID#: 16-9804) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7419726&isnumber=7407009
+
+Title: "Efficient Multidimensional Statistical Modeling of High Speed Interconnects in SPICE via Stochastic Collocation using Stroud Cubature," 
+DOI: 10.1109/EMCSI.2015.7107713
+Keywords: SPICE; integrated circuit design; integrated circuit interconnections; stochastic processes; SPICE; Stroud cubature rules; collocation nodes; high speed interconnect; multidimensional statistical modeling; sparse grid location; statistical moment quantification; stochastic collocation; Algorithm design and analysis; Computational modeling; Integrated circuit interconnections; Numerical models; Polynomials; SPICE; Stochastic processes; Cubature rules; interconnect networks; statistical moments; stochastic collocation; transient analysis (ID#: 16-9805) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7107713&isnumber=7107640
+
+Title: "Attributing Modelling Errors in HMM Synthesis by Stepping Gradually from Natural to Modelled Speech," 
+DOI: 10.1109/ICASSP.2015.7178766
+Keywords: hidden Markov models; speech synthesis; vocoders; voice equipment; HMM synthesis; Mel-Cepstra pairs; Mel-Line Spectral pairs; hidden Markov model; modelled speech; modelling errors; natural speech; speech naturalness; speech synthesis systems; vocoded speech; Hidden Markov models; Lead; Smoothing methods; Speech; hidden Markov modelling; speech synthesis; vocoding (ID#: 16-9806) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178766&isnumber=7177909
+
+Title: "Wideband 32-element 200-MHz 2-D IIR beam filters using ROACH-2 Virtex-6 sx475t FPGA," 
+DOI: 10.1109/NDS.2015.7332641
+Keywords: IIR filters; array signal processing; field programmable gate arrays;ultra wideband communication; 2D IIR beam forming; ROACH-2 Virtex-6 sx475t FPGA;UWB radio frequency; directional sensing; frequency 200 MHz; radio astronomy; ultra wideband radio frequency; wideband 32-element 2-D IIR beam filters; Antenna arrays; Array signal processing; Computer architecture; Field programmable gate arrays; Hardware; Radio frequency; Real-time systems; Analog; arrays; beamfilter; beamforming (ID#: 16-9807) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7332641&isnumber=7332630
+

@@ -1,0 +1,339 @@
+A. Barroso and M. Hollick, "Performance Evaluation of Delay-Tolerant Wireless Friend-to-Friend Networks For Undetectable Communication," Local Computer Networks (LCN), 2015 IEEE 40th Conference on, Clearwater Beach, FL, 2015, pp. 474-477. doi: 10.1109/LCN.2015.7366356
+
+Abstract: Anonymous communication systems have recently increased in popularity in wired networks, but there are no adequate equivalent systems for wireless networks under strong surveillance. In this work we evaluate the performance of delay-tolerant friend-to-friend networking, which can allow anonymous communication in a wireless medium under strong surveillance by relying on trust relationships between the network's users. Since strong anonymity properties incur in performance penalties, a good understanding of performance under various conditions is crucial for the successful deployment of such a system. We simulate a delay-tolerant friend-to-friend network in several scenarios using real-world mobility data, analyze the trade-offs of network-related parameters and offer a preliminary throughput estimation.
+
+Keywords: ad hoc networks; delay tolerant networks; delay-tolerant wireless friend-to-friend networks; trust relationships; undetectable communication; Jamming; Peer-to-peer computing; Security; anonymous communication; delay-tolerant; friend-to-friend networks; undetectability; wireless (ID#: 16-11153)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7366356&isnumber=7366232
+
+ 
+
+O. Javidbakht and P. Venkitasubramaniam, "Relay Selection in Wireless Networks for Optimal Delay Anonymity Tradeoff," Signal Processing Advances in Wireless Communications (SPAWC), 2015 IEEE 16th International Workshop on, Stockholm, 2015, pp. 360-364. doi: 10.1109/SPAWC.2015.7227060
+
+Abstract: Wireless networks are susceptible to eavesdropping by unauthorized intruders who aim to extract information about the networked exchanges. Even when packets are encrypted, unsophisticated energy detectors can be used to identify the source destination pairs using the packet transmission timing on the wireless medium. Anonymous network protocols aim to prevent this information retrieval through the use of special intermediate relays that add artificial delays so as to confuse the eavesdropper. Previous studies have demonstrated that a tradeoff exists between the anonymity- secrecy of source destination pairs from timing analysis- provided by such relays and the latency incurred. The focus of this work is the tradeoff between anonymity and delay when a network of such relays are employed, as in practical anonymous systems such as Tor. Specifically, the problem of best route selection in anonymous networks that optimally trades off delay for anonymity has been investigated in this work. Using Shannon Entropy as the metric of anonymity, sufficient conditions on network parameters to achieve maximum anonymity are derived. The optimal route selection algorithm to obtain a desired tradeoff is shown to be computationally impractical, and a suboptimal route selection algorithm that effectively balances delay and anonymity has been proposed which has a negligible gap to the optimal solution, but requires far less computational resources. An incremental optimization which allows for real time addition of new users to the anonymous system is investigated and the performance compared with the centralized schemes.
+
+Keywords: information retrieval; optimisation; relay networks (telecommunication);telecommunication network routing; telecommunication security; Shannon Entropy; energy detector; information retrieval; optimal delay anonymity tradeoff; optimization; packet transmission timing; relay selection; suboptimal route selection algorithm; wireless network; Bandwidth; Delays; Optimization; Relays; Security; Wireless communication (ID#: 16-11154)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7227060&isnumber=7226983
+
+ 
+
+K. K. Gagneja, "Secure Communication Scheme for Wireless Sensor Networks to Maintain Anonymity," Computing, Networking and Communications (ICNC), 2015 International Conference on, Garden Grove, CA, 2015, pp. 1142-1147. doi: 10.1109/ICCNC.2015.7069511
+
+Abstract: In wireless sensor networks it is becoming more and more important for sensor nodes to maintain anonymity while communicating data because of security reasons. Anonymous communication among sensor nodes is important, because sensor nodes want to conceal their identities either being a base station or being a source node. Anonymous communication in wireless sensor networks includes numerous important aspects, for instance base station anonymity, communication association anonymity, and source node anonymity. From the literature, we can observe that existing anonymity schemes for wireless sensor networks either cannot realize the complete anonymities, or they are suffering from various overheads such as enormous memory usage, complex computation, and long communications. This paper is presenting an efficient secure anonymity communication protocol (SACP) for wireless sensor networks that can realize complete anonymities offering minimal overheads with respect to storage, computation and communication costs. The given secure anonymity communication protocol is compared with various existing anonymity protocols, and the performance analysis shows that our protocol accomplishes all three anonymities: sender node anonymity, base station anonymity, and communication association anonymity while using little memory, low communication cost, and small computation costs.
+
+Keywords: cryptographic protocols; telecommunication security; wireless sensor networks; SACP maintenance; base station; secure anonymity communication protocol; secure communication scheme; symmetric cryptography; wireless sensor network; Base stations; Conferences; Data communication; Peer-to-peer computing; Protocols; Synthetic aperture sonar; Wireless sensor networks; anonimity; identity; security; sensor nodes; wireless (ID#: 16-11155)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7069511&isnumber=7069279
+
+ 
+
+J. R. Ward and M. Younis, "Base Station Anonymity Distributed Self-Assessment in Wireless Sensor Networks," Intelligence and Security Informatics (ISI), 2015 IEEE International Conference on, Baltimore, MD, 2015, pp. 103-108. doi: 10.1109/ISI.2015.7165947
+
+Abstract: In recent years, Wireless Sensor Networks (WSNs) have become valuable assets to both the commercial and military communities with applications ranging from industrial control on a factory floor to reconnaissance of a hostile border. In most applications, the sensors act as data sources and forward information generated by event triggers to a central sink or base station (BS). The unique role of the BS makes it a natural target for an adversary that desires to achieve the most impactful attack possible against a WSN with the least amount of effort. Even if a WSN employs conventional security mechanisms such as encryption and authentication, an adversary may apply traffic analysis techniques to identify the BS. This motivates a significant need for improved BS anonymity to protect the identity, role, and location of the BS. Previous work has proposed anonymity-boosting techniques to improve the BS's anonymity posture, but all require some amount of overhead such as increased energy consumption, increased latency, or decreased throughput. If the BS understood its own anonymity posture, then it could evaluate whether the benefits of employing an anti-traffic analysis technique are worth the associated overhead. In this paper we propose two distributed approaches to allow a BS to assess its own anonymity and correspondingly employ anonymity-boosting techniques only when needed. Our approaches allow a WSN to increase its anonymity on demand, based on real-time measurements, and therefore conserve resources. The simulation results confirm the effectiveness of our approaches.
+
+Keywords: security of data; wireless sensor networks; WSN; anonymity-boosting techniques; anti-traffic analysis technique; base station; base station anonymity distributed self-assessment; conventional security mechanisms; improved BS anonymity; wireless sensor networks; Current measurement; Energy consumption; Entropy; Protocols; Sensors; Wireless sensor networks; anonymity; location privacy; wireless sensor networks (ID#: 16-11156)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7165947&isnumber=7165923
+
+ 
+
+S. Alsemairi and M. Younis, "Adaptive Packet-Combining to Counter Traffic Analysis in Wireless Sensor Networks," Wireless Communications and Mobile Computing Conference (IWCMC), 2015 International, Dubrovnik, 2015, pp. 337-342. doi: 10.1109/IWCMC.2015.7289106
+
+Abstract: Wireless Sensor Networks (WSNs) have become an attractive choice for many applications that serve in hostile setup. The operation model of a WSN makes it possible for an adversary to determine the location of the base-station (BS) in the network by intercepting transmissions and employing traffic analysis techniques such as Evidence Theory. By locating the BS, the adversary can then target it with denial-of-service attacks. This paper promotes a novel strategy for countering such an attack by adaptively combining packet payloads. The idea is to trade off packet delivery latency for BS location anonymity. Basically, a node on a data route will delay the forwarding of a packet until one or multiple additional packets arrive and the payloads are then combined in a single packet. Such an approach decreases the number of evidences that an adversary will collect and makes the traffic analysis inclusive in implicating the BS position. Given the data delivery delay that will be imposed, the proposed technique is to be adaptively applied when the BS anonymity needs a boost. The simulation results confirm the effectiveness of the proposed technique.
+
+Keywords: packet radio networks; telecommunication security; telecommunication traffic; wireless sensor networks; BS location anonymity; WSN; adaptive packet-combining; counter traffic analysis; data delivery delay; denial-of-service attacks; evidence theory; packet delivery latency; wireless sensor networks; Cryptography; Delays; Payloads; Routing; Topology; Wireless sensor networks; Anonymity; Location Privacy; Security; Traffic Analysis; Wireless Sensor Network (ID#: 16-11157)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7289106&isnumber=7288920
+
+ 
+
+J. R. Ward and M. Younis, "A Cross-Layer Defense Scheme for Countering Traffic Analysis Attacks in Wireless Sensor Networks," Military Communications Conference, MILCOM 2015 - 2015 IEEE, Tampa, FL, 2015, pp. 972-977. doi: 10.1109/MILCOM.2015.7357571
+
+Abstract: In most Wireless Sensor Network (WSN) applications the sensors forward their readings to a central sink or base station (BS). The unique role of the BS makes it a natural target for an adversary's attack. Even if a WSN employs conventional security mechanisms such as encryption and authentication, an adversary may apply traffic analysis techniques to locate the BS. This motivates a significant need for improved BS anonymity to protect the identity, role, and location of the BS. Published anonymity-boosting techniques mainly focus on a single layer of the communication protocol stack and assume that changes in the protocol operation will not be detectable. In fact, existing single-layer techniques may not be able to protect the network if the adversary could guess what anonymity measure is being applied by identifying which layer is being exploited. In this paper we propose combining physical-layer and network-layer techniques to boost the network resilience to anonymity attacks. Our cross-layer approach avoids the shortcomings of the individual single-layer schemes and allows a WSN to effectively mask its behavior and simultaneously misdirect the adversary's attention away from the BS's location. We confirm the effectiveness of our cross-layer anti-traffic analysis measure using simulation.
+
+Keywords: cryptographic protocols; telecommunication security; telecommunication traffic; wireless sensor networks; WSN; anonymity-boosting techniques; authentication; base station; central sink; communication protocol; cross-layer defense scheme; encryption; network-layer techniques; physical-layer techniques; single-layer techniques; traffic analysis attacks; traffic analysis techniques; wireless sensor networks; Array signal processing; Computer security; Measurement; Protocols; Sensors; Wireless sensor networks; anonymity; location privacy; wireless sensor networks (ID#: 16-11158)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7357571&isnumber=7357245
+
+ 
+
+J. R. Ward and M. Younis, "A Cross-Layer Distributed Beamforming Approach to Increase Base Station Anonymity in Wireless Sensor Networks," 2015 IEEE Global Communications Conference (GLOBECOM), San Diego, CA, 2015, pp. 1-7. doi: 10.1109/GLOCOM.2015.7417430
+
+Abstract: In most applications of wireless sensor networks (WSNs), nodes act as data sources and forward measurements to a central base station (BS) that may also perform network management tasks. The critical role of the BS makes it a target for an adversary's attack. Even if a WSN employs conventional security primitives such as encryption and authentication, an adversary can apply traffic analysis techniques to find the BS. Therefore, the BS should be kept anonymous to protect its identity, role, and location. Previous work has demonstrated distributed beamforming to be an effective technique to boost BS anonymity in WSNs; however, the implementation of distributed beamforming requires significant coordination messaging that increases transmission activities and alerts the adversary to the possibility of deceptive activities. In this paper we present a novel, cross-layer design that exploits the integration of the control traffic of distributed beamforming with the MAC protocol in order to boost the BS anonymity while keeping the rate of node transmission at a normal rate. The advantages of our proposed approach include minimizing the overhead of anonymity measures and lowering the transmission power throughout the network which leads to increased spectrum efficiency and reduced energy consumption. The simulation results confirm the effectiveness our cross-layer design.
+
+Keywords: access protocols; array signal processing; wireless sensor networks; MAC protocol; WSN; base station anonymity; central base station; cross-layer distributed beamforming approach; wireless sensor networks; Array signal processing; Media Access Protocol; Schedules; Security; Synchronization; Wireless sensor networks (ID#: 16-11159)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417430&isnumber=7416057
+
+ 
+
+Seungsoo Baek, Seung-Hyun Seo and Seungjoo Kim, "Preserving Biosensor Users' Anonymity Over Wireless Cellular Network," Ubiquitous and Future Networks (ICUFN), 2015 Seventh International Conference on, Sapporo, 2015, pp. 470-475. doi: 10.1109/ICUFN.2015.7182588
+
+Abstract: A wireless body sensor network takes a significant part in mobile E-healthcare monitoring service. Major concerns for patient's sensitive information are related to secure data transmission and preserving anonymity. So far, most researchers have only focused on security or privacy issues related to wireless body area network (WBAN) without considering all the communication vulnerabilities. However, since bio data sensed by biosensors travel over both WBAN and the cellular network, it is required to study about a privacy-enhanced scheme that covers all the secure communications. In this paper, we first point out the weaknesses of previous work in [9]. Then, we propose a novel privacy-enhanced E-healthcare monitoring scheme in wireless cellular network. Our proposed scheme provides anonymous communication between a patient and a doctor in a wireless cellular network satisfying security requirements.
+
+Keywords: biosensors; body area networks; body sensor networks; cellular radio; data privacy; health care; patient monitoring; telecommunication security; telemedicine; WBAN; biosensor users anonymity preservation; mobile e-healthcare monitoring service; privacy issues; privacy-enhanced e-healthcare monitoring scheme; secure data transmission; security issues; wireless body area network; wireless body sensor network; wireless cellular network; Bioinformatics; Cloning; Cloud computing; Medical services; Mobile communication; Smart phones; Wireless communication; Anonymity; E-healthcare; Privacy; Unlinkability; Wireless body area network; Wireless cellular network (ID#: 16-11160)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7182588&isnumber=7182475
+
+ 
+
+S. Alsemairi and M. Younis, "Clustering-Based Mitigation of Anonymity Attacks in Wireless Sensor Networks," 2015 IEEE Global Communications Conference (GLOBECOM), San Diego, CA, 2015, pp. 1-7. doi: 10.1109/GLOCOM.2015.7417501
+
+Abstract: The use of wireless sensor networks (WSNs) can be advantageous in applications that serve in hostile environments such as security surveillance and military battlefield. The operation of a WSN typically involves collection of sensor measurements at an in-situ Base-Station (BS) that further processes the data and either takes action or reports findings to a remote command center. Thus the BS plays a vital role and is usually guarded by concealing its identity and location. However, the BS can be susceptible to traffic analysis attack. Given the limited communication range of the individual sensors and the objective of conserving their energy supply, the sensor readings are forwarded to the BS over multi-hop paths. Such a routing topology allows an adversary to correlate intercepted transmissions, even without being able to decode them, and apply attack models such as Evidence Theory (ET) in order to determine the position of the BS. This paper proposes a technique to counter such an attack by reshaping the routing topology. Basically, the nodes in a WSN are grouped in unevenly-sized clusters and each cluster has a designated aggregation node (cluster head). An inter-cluster head routes are then formed so that the BS experiences low traffic volume and does not become distinguishable among the WSN nodes. The simulation results confirm the effectiveness of the proposed technique in boosting the anonymity of the BS.
+
+Keywords: military communication; telecommunication network routing; telecommunication traffic; wireless sensor networks; WSN nodes; anonymity attacks; clustering-based mitigation; evidence theory; in-situ base-station; military battlefield; security surveillance; wireless sensor networks; Measurement; Optimized production technology; Receivers; Routing; Security; Topology; Wireless sensor networks (ID#: 16-11161)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417501&isnumber=7416057
+
+ 
+
+X. Wang, L. Dong, C. Xu and P. Li, "Location Privacy Protecting Based on Anonymous Technology in Wireless Sensor Networks," Parallel Architectures, Algorithms and Programming (PAAP), 2015 Seventh International Symposium on, Nanjing, 2015, pp. 229-235. doi: 10.1109/PAAP.2015.50
+
+Abstract: Wireless sensor network is a type of information sharing network, where the attacker can monitor the network traffic or trace the transmission of packets to infer the position of the target node. Particularly, the target node mainly refers to the source node and the aggregation node. Firstly, we discuss the privacy protection method which is based on the anonymous location to prevent from the location privacy problems. Then, we suggest at least n anonymous nodes distributing near the target node, and select one of the fake nodes by routing protocol to replace the real one to carry out the location of the data communication. Finally, in order to improve the security of nodes and increase the difficulty of the attacker tracking, we select the routing tree which is generated via Collection Tree Protocol (CTP) to build the anonymous group and verified by simulation. Experiments show that anonymity of the proposed treatment increases the difficulty of the attackers significantly.
+
+Keywords: data privacy; routing protocols; telecommunication network topology; telecommunication security; telecommunication traffic; trees (mathematics);wireless sensor networks; CTP; aggregation node; anonymous technology; collection tree protocol; information sharing network; location privacy protection method; network traffic; packet transmission; routing protocol; routing tree selection; source node; target node; wireless sensor networks; Base stations; Data privacy; Monitoring; Privacy; Routing; Security; Wireless sensor networks; Collection Tree Protocol; Location Privacy; Wireless Sensor Network (ID#: 16-11162)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7387330&isnumber=7387279
+
+ 
+
+A. F. Callanan and P. Thulasiraman, "Achieving Sink Node Anonymity Under Energy Constraints in Tactical Wireless Sensor Networks," Cognitive Methods in Situation Awareness and Decision Support (CogSIMA), 2015 IEEE International Inter-Disciplinary Conference on, Orlando, FL, 2015, pp. 186-192. doi: 10.1109/COGSIMA.2015.7108196
+
+Abstract: A wireless sensor network (WSN) is a distributed network that facilitates wireless information gathering within a region of interest. The information collected by sensors is aggregated at a central node know as the sink node. Two challenges in the deployment of WSNs are limited battery power of each sensor node and sink node anonymity. The role played by the sink node raises its profile as a high value target for attack, thus its anonymity is crucial to the security of a WSN. In order to improve network security, we must implement a protocol that conceals the sink node's location while being cognizant of energy resource constraints. In this paper we develop a routing algorithm based on node clustering to improve sink node anonymity while simultaneously limiting node energy depletion. Via MATLAB simulations, we analyze the effectiveness of this algorithm in obfuscating the sink node's location in the WSN while preserving node energy. We show that the anonymity of the sink node is independent of traffic volume and that the average energy consumed by a node remains consistent across topological variations.
+
+Keywords: routing protocols; telecommunication power management; telecommunication security; wireless sensor networks; central node; distributed network; energy constraints; network security; node clustering; node energy depletion; region of interest; routing algorithm; sink node anonymity; tactical wireless sensor networks; wireless information gathering; Clustering algorithms; Nominations and elections; Routing; Security; Sensors; Topology; Wireless sensor networks (ID#: 16-11163)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7108196&isnumber=7107964
+
+ 
+
+A. s. Abuzneid, T. Sobh and M. Faezipour, "Temporal Privacy Scheme for End-to-End Location Privacy in Wireless Sensor Networks," Electrical, Electronics, Signals, Communication and Optimization (EESCO), 2015 International Conference on, Visakhapatnam, 2015, pp. 1-6. doi: 10.1109/EESCO.2015.7253969
+
+Abstract: Wireless sensor network (WSN) is built of hosts called sensors which can sense a phenomenon such as motion, temperature, and humidity. Sensors represent what they sense in data format. Providing an efficient end-to-end privacy solution would be a challenging task due to the open nature of the WSN. The key schemes needed for end-to-end location privacy are anonymity, observability, capture likelihood and safety period. On top of that, having temporal privacy is crucial to attain. We extend this work to provide a solution against global adversaries. We present a network model that is protected against passive/active and local/multi-local/global attacks. This work provides a solution for temporal privacy to attain end-to-end anonymity and location privacy.
+
+Keywords: data privacy; telecommunication security; telecommunication traffic; wireless sensor networks; WSN; active attack; anonymity scheme; capture likelihood scheme; data format; end-to-end location privacy; global attack; local attack; multilocal attack; observability scheme; passive attack; safety period scheme; temporal privacy scheme; traffic rate privacy; wireless sensor networks; Correlation; Delays; Monitoring; Privacy; Protocols; Routing; Wireless sensor networks; WSN; sink privacy; source location privacy; temporal privacy; traffic rate privacy (ID#: 16-11164)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7253969&isnumber=7253613
+
+ 
+
+J. R. Ward and M. Younis, "Distributed Beamforming Relay Selection to Increase Base Station Anonymity in Wireless Ad Hoc Networks," Computer Communication and Networks (ICCCN), 2015 24th International Conference on, Las Vegas, NV, 2015, pp. 1-8. doi: 10.1109/ICCCN.2015.7288399
+
+Abstract: Wireless ad hoc networks have become valuable assets to both the commercial and military communities with applications ranging from industrial control on a factory floor to reconnaissance of a hostile border. In most applications, nodes act as data sources and forward information to a central base station (BS) that may also perform network management tasks. The critical role of the BS makes it a target for an adversary's attack. Even if an ad hoc network employs conventional security primitives such as encryption and authentication, an adversary can apply traffic analysis techniques to find the BS. Therefore, the BS should be kept anonymous to protect its identity, role, and location. Previous work has demonstrated distributed beamforming to be an effective technique to boost BS anonymity in wireless ad hoc networks; however, the increased anonymity and corresponding energy consumption depend on the quality and quantity of selected helper relays. In this paper we present a novel, distributed approach for determining a set of relays per hop that boosts BS anonymity using evidence theory analysis while minimizing energy consumption. The identified relay set is further prioritized using local wireless channel statistics. The simulation results demonstrate the effectiveness our approach.
+
+Keywords: ad hoc networks; array signal processing; relay networks (telecommunication); telecommunication network management; telecommunication power management; telecommunication security; wireless channels; central base station; commercial community; distributed beamforming relay selection; energy consumption minimization; evidence theory analysis; hostile border; identity protection; industrial control; local wireless channel statistics; military community; traffic analysis technique; wireless ad hoc network security; Array signal processing; Mobile ad hoc networks; Protocols; Relays; Synchronization; Wireless communication (ID#: 16-11165)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7288399&isnumber=7288342
+
+ 
+
+N. Baroutis and M. Younis, "Using Fake Sinks and Deceptive Relays to Boost Base-Station Anonymity in Wireless Sensor Network," Local Computer Networks (LCN), 2015 IEEE 40th Conference on, Clearwater Beach, FL, 2015, pp. 109-116. doi: 10.1109/LCN.2015.7366289
+
+Abstract: In applications of wireless Sensor Networks (WSNs), the base-station (BS) acts as a sink for all data traffic. The continuous flow of packets toward the BS enables the adversary to analyze the traffic and uncover the BS position. In this paper we present a technique to counter such an attack by morphing the traffic pattern in the WSN. Our approach introduces multiple fake sinks and deceptive relays so that nodes other than the BS are implicated as the destination of all data traffic. Since the problem of the optimal fake sink's placement is NP-hard, we employ a heuristic to determine the most suitable fake sink count and placement for a network. Dynamic load-balancing trees are formed to identify relay nodes and adapt the topology to route packets to the faked (and real) sinks while extending the network lifetime. The simulation results confirm the effectiveness of the proposed technique.
+
+Keywords: relay networks (telecommunication);telecommunication network routing; telecommunication network topology; telecommunication traffic; trees (mathematics); wireless sensor networks; NP-hard; WSN; base-station anonymity boost; data traffic pattern morphing; deceptive relay; dynamic load-balancing tree; optimal fake sink placement; packet routing; wireless sensor network; Frequency selective surfaces; Network topology; Relays; Routing; Topology; Traffic control; Wireless sensor networks; Traffic analysis; anonymity; location privacy; sensor networks (ID#: 16-11166)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7366289&isnumber=7366232
+
+ 
+
+J. Y. Koh, J. C. M. Teo, D. Leong and W. C. Wong, "Reliable Privacy-Preserving Communications for Wireless Ad Hoc Networks," Communications (ICC), 2015 IEEE International Conference on, London, 2015, pp. 6271-6276. doi: 10.1109/ICC.2015.7249323
+
+Abstract: We present a phantom-receiver-based routing scheme to enhance the anonymity of each source-destination pair (or contextual privacy) while using an adjustable amount of overhead. We also study how traditional network coding and opportunistic routing can leak contextual privacy. We then incorporated both network coding and opportunistic routing into our scheme for better network performance and show how we mitigate its vulnerability. Contrary to prior works, we allow the destination to anonymously submit an acknowledgment to the source for enhanced reliability. Performance analysis and simulations are used to demonstrate the efficacy of the proposed scheme against commonly considered traffic analysis attacks.
+
+Keywords: ad hoc networks; data privacy; network coding; telecommunication network reliability; telecommunication network routing; telecommunication traffic; contextual privacy; network coding; network performance; opportunistic routing; phantom-receiver-based routing scheme; reliable privacy-preserving communications; source-destination pair; traffic analysis attacks; wireless ad hoc networks; Ad hoc networks; Cryptography; Network coding; Phantoms; Privacy; Receivers; Routing; contextual privacy; global adversary; network coding; opportunistic routing; phantom receiver; traffic analysis (ID#: 16-11167)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7249323&isnumber=7248285
+
+ 
+
+M. Chaudhari and S. Dharawath, "Toward a Statistical Framework for Source Anonymity in Sensor Network Using Quantitative Measures," Innovations in Information, Embedded and Communication Systems (ICIIECS), 2015 International Conference on, Coimbatore, 2015, pp. 1-5. doi: 10.1109/ICIIECS.2015.7193169
+
+Abstract: In some applications in sensor network the location and privacy of certain events must remain anonymous or undetected even by analyzing the network traffic. In this paper the framework for modeling, investigating and evaluating the sensor network is suggested and results are charted. Suggested two folded structure introduces the notion of “interval indistinguishability” which gives a quantitative evaluation to form anonymity in sensor network and secondly it charts source anonymity to statistical problem of binary hypothesis checking with nuisance parameters. The system is made energy efficient by enhancing the available techniques for choosing cluster head. The energy efficiency of the sensor network is charted.
+
+Keywords: statistical analysis; telecommunication security; telecommunication traffic; wireless sensor networks; binary hypothesis checking; network traffic; nuisance parameters; quantitative evaluation; quantitative measurement; sensor network; source anonymity; statistical framework; statistical problem; wireless sensor network; Conferences; Energy efficiency; Privacy; Protocols; Technological innovation; Wireless sensor networks; Binary Hypothesis; Interval Indistinguishability; Wireless Sensor Network; residual energy (ID#: 16-11168)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7193169&isnumber=7192777
+
+ 
+
+E. Chan-Tin, "AnonCall: Making Anonymous Cellular Phone Calls," Availability, Reliability and Security (ARES), 2015 10th International Conference on, Toulouse, 2015, pp. 626-631. doi: 10.1109/ARES.2015.13
+
+Abstract: The threat of mass surveillance and the need for privacy have become mainstream recently. Most of the anonymity schemes have focused on Internet privacy. We propose an anonymity scheme for cellular phone calls. The cellular phones form an ad-hoc network relaying phone conversations through direct wifi connections. A proof-of-concept implementation on an Android smartphone is completed and shown to work with minimal delay in communications.
+
+Keywords: Android (operating system);Internet; ad hoc networks; cellular radio; mobile handsets; smart phones; wireless LAN; Android smartphone; AnonCall; Internet privacy; Wi-Fi; ad-hoc network; anonymity schemes; anonymous cellular phone calls; mass surveillance; Cellular phones; Internet; Mobile communication; Mobile handsets; Relays; Wireless networks; Anonymity; Cellular; Privacy (ID#: 16-11169)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7299973&isnumber=7299862
+
+ 
+
+A. s. Abuzneid, T. Sobh and M. Faezipour, "An Enhanced Communication Protocol for Anonymity and Location Privacy in WSN," Wireless Communications and Networking Conference Workshops (WCNCW), 2015 IEEE, New Orleans, LA, 2015, pp. 91-96. doi: 10.1109/WCNCW.2015.7122535
+
+Abstract: Wireless sensor networks (WSNs) consist of many sensors working as hosts. These sensors can sense a phenomenon and represent it in a form of data. There are many applications for WSNs such as object tracking and monitoring where the objects need protection. Providing an efficient location privacy solution would be challenging to achieve due to the exposed nature of the WSN. The communication protocol needs to provide location privacy measured by anonymity, observability, capture- likelihood and safety period. We extend this work to allow for countermeasures against semi-global and global adversaries. We present a network model that is protected against a sophisticated passive and active attack using local, semi-global, and global adversaries.
+
+Keywords: protocols; telecommunication security; wireless sensor networks; WSN; active attacks; anonymity; capture-likelihood; communication protocol enhancement; global adversaries; local adversaries; location privacy; object tracking; observability; passive attacks; safety period; semiglobal adversaries; wireless sensor networks; Conferences; Energy efficiency; Internet of things; Nickel; Privacy; Silicon; Wireless sensor networks; WSN; anonymity; contextual privacy; privacy; sink privacy; source location privacy (ID#: 16-11170)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7122535&isnumber=7122513
+
+ 
+
+D. Tang and J. Ren, "A Delay-Aware and Secure Data Forwarding Scheme for Urban Sensing Networks," Communications (ICC), 2015 IEEE International Conference on, London, 2015, pp. 3003-3007. doi: 10.1109/ICC.2015.7248784
+
+Abstract: People-centric urban sensing is envisioned as a novel urban sensing paradigm. Communication delay and security are two important design issues in urban sensing network. To address these two issues concurrently, we propose a novel DElay-Aware secuRe (DEAR) forwarding scheme by combining secret sharing and two-phase message forward. In DEAR scheme, the collected data is first split into pieces. Each piece is being relayed to the application data server through a randomly selected delivery node. The combination of secret sharing scheme and two-phase message forward ensures confidentiality of the collected data and anonymity of the participating users. It also makes it infeasible for the application data server to estimate the source node identity. Moreover, DEAR provides redundancy in message forwarding to achieve high message delivery ratio. This design makes the trade-off between security and communication delay adjustable based on selection of the (k, n) scheme.
+
+Keywords: data communication; electronic messaging; redundancy; security of data; wireless sensor networks; DEAR data forwarding scheme; data confidentiality; data server; delay aware and secure data forwarding scheme; secret sharing scheme; two-phase message forwarding redundancy; urban sensing network; urban sensing paradigm; Cryptography; Delays; Privacy; Sensors; Servers; Wireless communication; Wireless sensor networks (ID#: 16-11171)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7248784&isnumber=7248285
+
+ 
+
+I. Safaka, L. Czap, K. Argyraki and C. Fragouli, "Towards Unconditional Tor-Like Anonymity," Network Coding (NetCod), 2015 International Symposium on, Sydney, NSW, 2015, pp. 66-70. doi: 10.1109/NETCOD.2015.7176791
+
+Abstract: We design and evaluate a traffic anonymization protocol for wireless networks, aiming to protect against computationally powerful adversaries. Our protocol builds on recent key-generation techniques that leverage intrinsic properties of the wireless together with standard coding techniques. We show how to exploit the security properties of such keys to design a Tor-like anonymity network, without making any assumptions about the computational capabilities of an adversary. Our analysis and evaluation on simulated ad-hoc wireless networks, shows that our protocol achieves a level of anonymity comparable to the level of the Tor network.
+
+Keywords: ad hoc networks; protocols; Tor-like anonymity; Tor-like anonymity network; ad-hoc wireless networks; intrinsic properties; key generation techniques; standard coding techniques; traffic anonymization protocol; wireless networks; Ad hoc networks; Encryption; Protocols; Relays; Uncertainty; Wireless communication (ID#: 16-11172)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7176791&isnumber=7176630
+
+ 
+
+S. Vohra and R. Srivastava, "A Survey on Techniques for Securing 6LoWPAN," Communication Systems and Network Technologies (CSNT), 2015 Fifth International Conference on, Gwalior, 2015, pp. 643-647. doi: 10.1109/CSNT.2015.163
+
+Abstract: The integration of low power wireless personal area networks (LoWPANs) with the Internet allows the vast number of smart objects to harvest data and information through the Internet. Such devices will also be open to many security threats from Internet as well as local network itself. To provide security from both, along with Cryptography techniques, there also requires certain mechanism which provides anonymity & privacy to the communicating parties in the network in addition to providing Confidentiality & Integrity. This paper provides survey on techniques used for securing 6LoWPAN from different attacks and aims to assist the researchers and application developers to provide baseline reference to further carry out their research in this field.
+
+Keywords: Internet; cryptography; personal area networks; telecommunication security; 6LoWPAN; Internet; baseline reference; cryptography techniques; local network; low power wireless personal area networks; security threats; smart objects; Computer crime; IEEE 802.15 Standard; Internet; Protocols; Routing; Sensors; 6LoWPAN; IDS; IEEE 802.15.4; IPsec; IPv6; Internet of Thing; MT6D (ID#: 16-11173)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7279997&isnumber=7279856
+
+ 
+
+Ming-Huang Guo, Horng-Twu Liaw, Meng-Yu Chiu and Li-Ping Tsai, "Authenticating with Privacy Protection in Opportunistic Networks," Heterogeneous Networking for Quality, Reliability, Security and Robustness (QSHINE), 2015 11th International Conference on, Taipei, 2015, pp. 375-380. Doi:  (not provided)
+
+Abstract: In this study, we propose an authentication mechanism with privacy protection for opportunistic networks. It is applied for the short-term and limited-time wireless network environment, and a super node is set to manage node registration. The proposal implements some encryption and security technologies to against security threats and attacks. In the analysis, the proposed mechanism finishes the authentication with less data, and provides anonymity and user privacy in the network.
+
+Keywords: radio networks; telecommunication security; authenticating protection; authentication mechanism; encryption; opportunistic networks; privacy protection; security attacks; security technologies; security threats; wireless network environment; Authentication; Computers; Cryptography; Electronic mail; Authentication Mechanisms; Opportunistic Network; Privacy Protection (ID#: 16-11174)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7332598&isnumber=7332527
+
+ 
+
+Remya S and Lakshmi K S, "SHARP: Secured Hierarchical Anonymous Routing Protocol for MANETs," Computer Communication and Informatics (ICCCI), 2015 International Conference on, Coimbatore, 2015, pp. 1-6. doi: 10.1109/ICCCI.2015.7218121
+
+Abstract: Mobile ad-hoc network (MANET) is one of the developing fields for research and development of wireless network. MANETs are self-organizing, infrastructure less, independent, dynamic topology based, open and decentralized networks. This is an ideal choice for uses such as communication and data sharing. Due to the open and decentralized nature of the network the nodes can join or leave the network as they wish. There is no centralized authority to maintain the membership of nodes in the network. In MANETs security is the major concern in applications such as communication and data sharing. These are so many chances of different types of attacks due to self- organizing property of MANETs. Malicious attacker may try to attack the data packets by tracing the route. They may try to find the source and destination through different types attacks. MANETs are vulnerable to malicious attackers that target to damage and analyze data and traffic analysis by communication eavesdropping or attacking routing protocols. Anonymous routing protocols are used by MANETs that hides the identity of nodes as well as routes from outside observers. In MANETs anonymity means identity and location anonymity of data sources and destinations as well as route anonymity. However existing anonymous routing protocols have significantly high cost, which worsens the resource constraint problem in MANETs. This paper proposes Secured Hierarchical Anonymous Routing Protocol (SHARP) based on cluster routing. SHARP offers anonymity to source, destination, and routes. Theoretically SHARP achieves better anonymity protection compared to other anonymous routing protocols.
+
+Keywords: mobile ad hoc networks; pattern clustering; routing protocols; telecommunication security; telecommunication traffic; MANET; SHARP; cluster routing; communication eavesdropping; data anonymity; data packet; data sharing; decentralized network; malicious attacker; mobile ad-hoc network; resource constraint problem; secured hierarchical anonymous routing protocol; self-organizing property; traffic analysis; wireless network; Ad hoc networks; Cryptography; Mobile computing; Receivers; Routing; Routing protocols; Anonymous routing; Cryptographic techniques; RSA; cluster-based routing; random forwarder (ID#: 16-11175)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7218121&isnumber=7218046
+
+ 
+
+A. Alkhelaiwi and D. Grigoras, "The Origin and Trustworthiness of Data in Smart City Applications," 2015 IEEE/ACM 8th International Conference on Utility and Cloud Computing (UCC), Limassol, 2015, pp. 376-382. doi: 10.1109/UCC.2015.60
+
+Abstract: Mobile devices and their sensors facilitate the development of a large range of environment-sensing applications and systems. Crowd sensing is used to feed smart city applications with anonymous but still relevant data. The quality and success of smart city applications depend on several aspects of user involvement, such as data trust and information about data origin. However, with the anonymity and openness of crowd sensing, smart city applications are exposed to untrustworthy and malicious data that can lead to poor decisions. In this paper, we propose a cloud architecture for smart city applications that includes, as a core service, a reputation system for evaluating the trustworthiness of crowd sensing data. This service will run locally, as close to the crowd as possible, for example, on wireless local area network (WLAN) access points (AP). Additionally, data stored in the cloud is traceable by its origin information.
+
+Keywords: cloud computing; mobile computing; smart cities; trusted computing; WLAN AP; loud architecture; core service; crowd sensing data trustworthiness; environment-sensing applications; environment-sensing systems; malicious data; mobile devices; reputation system; sensors; smart city applications; wireless local area network access points; Cloud computing; Computer architecture; Intelligent sensors; Mobile handsets; Smart cities; Wireless LAN; cloud; crowd sensing; data origin; smart city applications; trust (ID#: 16-11176)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7431435&isnumber=7431374
+
+ 
+
+M. Guo, N. Pissinou and S. S. Iyengar, "Pseudonym-Based Anonymity Zone Generation for Mobile Service with Strong Adversary Model," Consumer Communications and Networking Conference (CCNC), 2015 12th Annual IEEE, Las Vegas, NV, 2015, pp. 335-340. doi: 10.1109/CCNC.2015.7157998
+
+Abstract: The popularity of location-aware mobile devices and the advances of wireless networking have seriously pushed location-based services into the IT market. However, moving users need to report their coordinates to an application service provider to utilize interested services that may compromise user privacy. In this paper, we propose an online personalized scheme for generating anonymity zones to protect users with mobile devices while on the move. We also introduce a strong adversary model, which can conduct inference attacks in the system. Our design combines a geometric transformation algorithm with a dynamic pseudonyms-changing mechanism and user-controlled personalized dummy generation to achieve strong trajectory privacy preservation. Our proposal does not involve any trusted third-party and will not affect the existing LBS system architecture. Simulations are performed to show the effectiveness and efficiency of our approach.
+
+Keywords: authorisation; data privacy; mobile computing; IT market; LBS system architecture; anonymity zone generation; application service provider; dynamic pseudonyms-changing mechanism; geometric transformation algorithm; inference attacks; location-aware mobile devices; location-based services; mobile devices; mobile service; online personalized scheme; pseudonym-based anonymity zone generation; strong-adversary model; strong-trajectory privacy preservation; user data protection; user privacy; user-controlled personalized dummy generation; wireless networking; Computational modeling; Privacy; Quality of service; Anonymity Zone; Design; Geometric; Location-based Services; Pseudonyms; Trajectory Privacy Protection (ID#: 16-11177)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7157998&isnumber=7157933
+
+ 
+
+J. Liu and Y. Hu, "A New Off-Line Electronic Cash Scheme for Bank Delegation," Information Science and Technology (ICIST), 2015 5th International Conference on, Changsha, 2015, pp. 186-191. doi: 10.1109/ICIST.2015.7288965
+
+Abstract: Due to the high-speed, low-cost ubiquity of the internet and wireless networks access, the electronic commerce has attracted extensive attention from both academia and industry in the past decade. Electronic cash(e-cash) is a popular billing mechanism for electronic transactions since it can fully protect the anonymity and identity privacy of customers in various electronic transactions. To support withdrawing and storing money from all levels of the bank for the customers in the real world, in this paper, we propose a proxy blind signature scheme and an e-cash scheme based on the new proxy blind signature scheme. The proxy blind signature scheme is proved secure in the Random Oracle Model under the chosen-target computational Diffie-Hellman assumptions, and the e-cash scheme can provide unforgeability of e-cash, anonymity of honest customers and efficient traceability of double spending.
+
+Keywords: bank data processing; cryptography; digital signatures; electronic money; bank delegation; computational Diffie-Hellman assumptions; double spending traceability; e-cash scheme; electronic commerce; honest customer anonymity; off-line electronic cash scheme; proxy blind signature scheme; random oracle model; Business; Forgery; Glands (ID#: 16-11178)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7288965&isnumber=7288906
+
+ 
+
+E. Papapetrou, V. F. Bourgos and A. G. Voyiatzis, "Privacy-Preserving Routing in Delay Tolerant Networks Based on Bloom Filters," World of Wireless, Mobile and Multimedia Networks (WoWMoM), 2015 IEEE 16th International Symposium on a, Boston, MA, 2015, pp. 1-9. doi: 10.1109/WoWMoM.2015.7158148
+
+Abstract: Privacy preservation in opportunistic networks, such as disruption and delay tolerant networks, constitutes a very challenging area of research. The wireless channel is vulnerable to malicious nodes that can eavesdrop data exchanges. Moreover, all nodes in an opportunistic network can act as routers and thus, gain access to sensitive information while forwarding data. Node anonymity and data protection can be achieved using encryption. However, cryptography-based mechanisms are complex to handle and computationally expensive for the participating (mobile) nodes. We propose SimBet-BF, a privacy-preserving routing algorithm for opportunistic networks. The proposed algorithm builds atop the SimBet algorithm and uses Bloom filters so as to represent routing as well as other sensitive information included in data packets. SimBet-BF provides anonymous communication and avoids expensive cryptographic operations, while the functionality of the SimBet algorithm is not significantly affected. In fact, we show that the required security level can be achieved with a negligible routing performance trade-off.
+
+Keywords: delay tolerant networks; delays; radio networks; telecommunication network routing; telecommunication security; Bloom filters; SimBet algorithm; cryptography based mechanisms;delay tolerant networks; eavesdrop data exchanges; expensive cryptographic operations; malicious nodes; mobile nodes; opportunistic networks; privacy preserving routing algorithm; wireless channel; Cryptography; Measurement; Peer-to-peer computing; Privacy; Protocols; Routing (ID#: 16-11179)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7158148&isnumber=7158105
+
+ 
+
+A. K. Tyagi and N. Sreenath, "Location Privacy Preserving Techniques for Location Based Services over Road Networks," Communications and Signal Processing (ICCSP), 2015 International Conference on, Melmaruvathur, 2015, pp. 1319-1326. doi: 10.1109/ICCSP.2015.7322723
+
+Abstract: With the rapid development of wireless and mobile technologies (LBS, Privacy of personal location information in location-based services of a vehicle ad-hoc network (VANET) users is becoming an increasingly important issue. LBSs provide enhanced functionalities, they open up new vulnerabilities that can be exploited to cause security and privacy breaches. During communication in LBSs, individuals (vehicle users) face privacy risks (for example location privacy, identity privacy, data privacy etc.) when providing personal location data to potentially untrusted LBSs. However, as vehicle users with mobile (or wireless) devices are highly autonomous and heterogeneous, it is challenging to design generic location privacy protection techniques with desired level of protection. Location privacy is an important issue in vehicular networks since knowledge of a vehicle's location can result in leakage of sensitive information. This paper focuses and discussed on both potential location privacy threats and preserving mechanisms in LBSs over road networks. The proposed research in this paper carries significant intellectual merits and potential broader impacts i.e. a) investigate the impact of inferential attacks (for example inference attack, position co-relation attack, transition attack and timing attack etc.) in LBSs for vehicular ad-hoc networks (VANET) users, and proves the vulnerability of using long-term pseudonyms (or other approaches like silent period, random encryption period etc.) for camouflaging users' real identities. b) An effective and extensible location privacy architecture based on the one approach like mix zone model with other approaches to protect location privacy are discussed. c) This paper addresses the location privacy preservation problems in details from a novel angle and provides a solid foundation for future research to protecting user's location information.
+
+Keywords: data privacy; mobile computing; risk management; road traffic; security of data; telecommunication security; vehicular ad hoc networks; VANET; data privacy; extensible location privacy architecture; identity privacy; inference attack; intellectual merits; location privacy preserving techniques; location privacy threats; location-based services; long-term pseudonyms; mix zone model; mobile technologies; personal location information; position correlation attack; privacy breach; privacy risks; road networks; security breach; timing attack; transition attack; vehicle ad-hoc network; wireless technologies; Communication system security; Mobile communication; Mobile computing; Navigation; Privacy; Vehicles; Wireless communication; Location privacy; Location-Based Service; Mix zones; Mobile networks; Path confusion; Pseudonyms; k-anonymity (ID#: 16-11180)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322723&isnumber=7322423
+
+ 
+
+N. W. Lo, M. C. Chiang and C. Y. Hsu, "Hash-Based Anonymous Secure Routing Protocol in Mobile Ad Hoc Networks," Information Security (AsiaJCIS), 2015 10th Asia Joint Conference on, Kaohsiung, 2015, pp. 55-62. doi: 10.1109/AsiaJCIS.2015.27
+
+Abstract: A mobile ad hoc network (MANET) is composed of multiple wireless mobile devices in which an infrastructure less network with dynamic topology is built based on wireless communication technologies. Novel applications such as location-based services and personal communication Apps used by mobile users with handheld wireless devices utilize MANET environments. In consequence, communication anonymity and message security have become critical issues for MANET environments. In this study, a novel secure routing protocol with communication anonymity, named as Hash-based Anonymous Secure Routing (HASR) protocol, is proposed to support identity anonymity, location anonymity and route anonymity, and defend against major security threats such as replay attack, spoofing, route maintenance attack, and denial of service (DoS) attack. Security analyses show that HASR can achieve both communication anonymity and message security with efficient performance in MANET environments.
+
+Keywords: cryptography; mobile ad hoc networks; mobile computing; mobility management (mobile radio);routing protocols; telecommunication network topology; telecommunication security; DoS attack; HASR protocol; Hash-based anonymous secure routing protocol; MANET; denial of service attack; dynamic network topology; handheld wireless devices ;location-based services; message security; mobile ad hoc networks; mobile users; personal communication Apps; route maintenance attack; wireless communication technologies; wireless mobile devices; Cryptography; Mobile ad hoc networks; Nickel; Routing; Routing protocols; communication anonymity; message security; mobile ad hoc network; routing protocol (ID#: 16-11181)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7153936&isnumber=7153836
+
+ 
+
+K. Mrabet, F. E. Bouanani and H. Ben-Azza, "A Secure Multi-Hops Routing for VANETs," Wireless Networks and Mobile Communications (WINCOM), 2015 International Conference on, Marrakech, 2015, pp. 1-5. doi: 10.1109/WINCOM.2015.7381299
+
+Abstract: Vehicular ad-hoc networks (VANETs) are a promising communication technology. they offers many applications, which will improve traffic management and safety. Nevertheless, those applications have stringent security requirements, as they affect road traffic safety. Security requirement like authentication, privacy and Integrity are crucial to VANETs, as they avoid attacks against vehicle-to-vehicle and vehicle-to-roadside communication. In this paper, we investigate the authentication and privacy issues in VANETs. We explore the Attribute Based Signature (ABS) primitive and its variants. We then select among existing ABS literature, an efficient scheme (the best known) that achieve both traceability and user-privacy (anonymity). Finally, we propose a protocol for VANETs that uses traceable ABS in general context of multi-hop routing.
+
+Keywords: cryptographic protocols; data privacy; intelligent transportation systems; radio networks; telecommunication security; vehicular ad hoc networks; ABS; VANET; attribute based signature; road traffic safety; secure multihop routing; traffic management; vehicle-to-roadside communication; vehicle-to-vehicle communication; vehicular ad-hoc networks; Authentication; Cryptography; Privacy; Safety; Vehicles; Vehicular ad hoc networks; ABS/TABS schemes; Authentication; Privacy; Security; Traceability; VANETs (ID#: 16-11182)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7381299&isnumber=7381297
+
+ 
+
+T. Ishitaki, T. Oda and L. Barolli, "Application of Neural Networks and Friedman Test for User Identification in Tor Networks," 2015 10th International Conference on Broadband and Wireless Computing, Communication and Applications (BWCCA), Krakow, 2015, pp. 448-454. doi: 10.1109/BWCCA.2015.88
+
+Abstract: Due to the amount of anonymity afforded to users of the Tor infrastructure, Tor has become a useful tool for malicious users. With Tor, the users are able to compromise the non-repudiation principle of computer security. Also, the potentially hackers may launch attacks such as DDoS or identity theft behind Tor. For this reason, there are needed new systems and models to detect or identify the bad behavior users in Tor networks. In this paper, we present the application of Neural Networks (NNs) and Friedman test for user identification in Tor networks. We used the Back-propagation NN and constructed a Tor server, a Deep Web browser (Tor client) and a Surface Web browser. Then, the client sends the data browsing to the Tor server using the Tor network. We used Wireshark Network Analyzer to get the data and then used the Back-propagation NN to make the approximation. We present many simulation results for different number of hidden units considering Tor client and Surface Web client. The simulation results show that our simulation system has a good approximation and can be used for user identification in Tor networks.
+
+Keywords: backpropagation; client-server systems; computer network security; neural nets; DDoS; Friedman test; The Onion Router; Tor client; Tor infrastructure; Tor networks; Tor server; Wireshark network analyzer; backpropagation NN; computer security; data browsing; deep Web browser; hackers; identity theft behind Tor; malicious users; neural networks; surface Web browser; surface Web client; user identification; Deep Web; Friedman Test; Hidden Unit; Intrusion Detection; Neural Networks; Tor Networks; User Identification (ID#: 16-11183)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424866&isnumber=7424228
+
+ 
+
+V. Sharma and C. C. Shen, "Evaluation of an Entropy-Based K-Anonymity Model for Location Based Services," Computing, Networking and Communications (ICNC), 2015 International Conference on, Garden Grove, CA, 2015, pp. 374-378. doi: 10.1109/ICCNC.2015.7069372
+
+Abstract: As the market for cellular telephones, and other mobile devices, keeps growing, the demand for new services arises to attract the end users. Location Based Services (LBS) are becoming important to the success and attractiveness of next generation wireless systems. To access location-based services, mobile users have to disclose their location information to service providers and third party applications. This raises privacy concerns, which have hampered the widespread use of LBS. Location privacy mechanisms include Anonymization, Obfuscation, Policy Based Scheme, k-anonymity and Adding Fake Events. However most existing solutions adopt the k-anonymity principle. We propose an entropy based location privacy mechanism to protect user information against attackers. We look at the effectiveness of the technique in a continuous LBS scenarios, i.e., where users are moving and recurrently requesting for Location Based Services, we also evaluate the overall performance of the system with its drawbacks.
+
+Keywords: data protection; mobile handsets; mobility management (mobile radio);next generation networks; LBS; cellular telephone; entropy-based k-anonymity model evaluation; location based service; location privacy mechanism; mobile device; mobile user; next generation wireless system; policy based scheme; user information protection; Computational modeling; Conferences; Entropy; Measurement; Mobile communication; privacy; Query processing; Location Based Services (LBS);entropy; k-anonymity; privacy (ID#: 16-11184)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7069372&isnumber=7069279
+
+
+
+ 
+
+S. Doswell, D. Kendall, N. Aslam and G. Sexton, "A Longitudinal Approach to Measuring the Impact of Mobility on Low-Latency Anonymity Networks," Wireless Communications and Mobile Computing Conference (IWCMC), 2015 International, Dubrovnik, 2015, pp. 108-113. doi: 10.1109/IWCMC.2015.7289066
+
+Abstract: The increasing mobility of Internet users is becoming an emerging issue for low-latency anonymity networks such as Tor. The increase in network churn, generated by a growing mobile client base recycling connections, could impact maintaining the critical balance between anonymity and performance. New combinatorial approaches for measuring both anonymity and performance need to be developed in order to identify critical changes to the network dynamics, and trigger intervention if and when required. We present q-factor, a novel longitudinal approach to measuring anonymity and performance within highly dynamic environments. By modelling q-factor, we show that the impact of mobility, over time, on anonymity is significant. However, by using q-factor, we are able to anticipate and significantly reduce the number of these critical events occurring. In order to make more effective strategic design and/or real-time network decisions in the future, low-latency anonymity networks will be required to adopt an even more proactive approach to network management. The potential impact from increasing mobile usage needs to be considered, as what may initially be perceived as a good solution, may in fact degrade, or in the worst case could destroy the anonymity of users over time.
+
+Keywords: Internet; mobility management (mobile radio);Internet user mobility; longitudinal approach; low latency anonymity networks; mobile client base recycling connections; mobility impact; network dynamics; network management; real-time network decisions; trigger intervention; Bandwidth; Internet; Measurement; Mobile communication; Mobile computing; Q-factor; Recycling; Anonymity; Privacy-Enhancing Technology; Security Monitoring and Management (ID#: 16-11186)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7289066&isnumber=7288920
+
+ 
+
+A. Algarni and L. Burd, "CommEasy: An Innovative Interactive Communication System for Promoting Communication and Participation," Frontiers in Education Conference (FIE), 2015. 32614 2015. IEEE, El Paso, TX, 2015, pp. 1-7. doi: 10.1109/FIE.2015.7344129
+
+Abstract: The advancements made in handheld devices and the widespread use of these devices among users all over the world has opened up new avenues for the use of these devices in education. Many applications have been developed to work on these devices to support the teaching and learning process in all its dimensions. CommEasy is an innovative, interactive communication system for smart handheld devices based on Internet and WiFi technology. This system has been developed mainly to enhance communication and participation in distance-learning classrooms that use video-conferencing technology. It allows students to pose questions for the instructors using their own Apple smart handheld devices, guarantees them complete anonymity and allows the instructors to respond to their students. It also enables instructors to evaluate the learning of their students by posing questions with multiple answers to which students can respond through their devices. This paper concentrates on the role of CommEasy in enhancing teacher-student communication and interaction. The hypothesis to be tested is that CommEasy will increase the level of student participation in the distance-learning classroom. According to the results of the experiment conducted in King Saud University, the null hypothesis is rejected, and the experimental hypothesis mentioned above is accepted.
+
+Keywords: Internet; computer aided instruction; distance learning; interactive systems; teaching; teleconferencing; video communication; wireless LAN; Apple smart handheld devices; CommEasy; Internet; King Saud University; Wi-Fi technology; distance learning classrooms; education; innovative interactive communication system; teacher-student communication; teaching; video conferencing technology; Education; Handheld computers; IEEE 802.11 Standard; Internet; Streaming media; PRS; communication; distance learning; participations; smart handheld devices (ID#: 16-11187)
+
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7344129&isnumber=7344011

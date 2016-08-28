@@ -1,0 +1,190 @@
+Title: "Deception is in the Eye of the Communicator: Investigating Pupil Diameter Variations in Automated Deception Detection Interviews," 
+DOI: 10.1109/ISI.2015.7165946
+Keywords: behavioural sciences computing; gaze tracking; image sensors; object detection; automated deception detection interviews; communicator eye; deception detection interaction; deception detection system; eye behavior variations; eye stimuli; eye tracker; human deception judgments; information systems; latent growth curve modeling; pupil diameter variations; sensor; Accuracy; Analytical models; Information systems; Interviews; Organizations; Sensors; deception detection systems; eye tracking; latent growth curve modeling; pupil diameter (ID#: 16-9649) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7165946&isnumber=7165923
+
+Title: "Investigation into Google Play Security Mechanisms via Experimental Botnet," 
+DOI: 10.1109/ISSPIT.2015.7394406
+Keywords: computer network security; invasive software; mobile handsets; Google Play security mechanism; malicious behavior; malware application; mobile botnet client; mobile device; publishing applications; security verification; security weaknesses; testing application; Google; Malware; Mobile communication; Servers; Smart phones; Android; C&C server; Google Pay; bot; botmaster; mobile botnet; mobile devices (ID#: 16-9650) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7394406&isnumber=7394243
+
+Title: "Towards Trustworthy Participants in Social Participatory Networks," 
+DOI: 10.1109/CSCloud.2015.55
+Keywords: cloud computing; data mining; social networking (online);trusted computing; ubiquitous computing; CRCS; classroom cloud system; cloud resource; data mining algorithm; entropy-weight method; malicious attack; online social network; participatory sensing system; social participatory network; trust evaluation framework; trustworthy participant; Computer crime; Data mining; Prototypes; Sensors; System performance; Training; Training data; CRCS; Data Mining; Entropy-weight; Social Participatory Network; Trust Evaluation Framework (ID#: 16-9651) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7371480&isnumber=7371418
+
+Title: "Image Processing Techniques for Object Tracking in Video Surveillance- A Survey," 
+DOI: 10.1109/PERVASIVE.2015.7087180
+Keywords: cameras; image classification; object detection; object tracking; video surveillance; active contour based tracking; camera; classification; image processing technique; moving object detection; object tracking; region based tracking; target tracking; video surveillance; video tracking; Computer vision; Feature extraction; Image color analysis; Object tracking; Shape; Video surveillance; Motion segmentation; object detection; object representation; object tracking; video surveillance (ID#: 16-9652) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7087180&isnumber=7086957
+
+Title: "Power Grid Adequacy Evaluation Involving Substation Cybersecurity Issues," 
+DOI: 10.1109/ISGT.2015.7131815
+Keywords: Markov processes; failure analysis; game theory; power grids; power system faults; power system reliability; power system security; security of data; substation protection; Markov game; cyber failure; cyber network; cyber-physical power grid adequacy evaluation; intelligent attack behavior; intelligent defense behavior; overall power system adequacy evaluation; physical failure; power system adequacy assessment; representative reliability test system; static game; substation cybersecurity issues; temporal behavior pattern simulation; Computer security; Game theory; Games; Markov processes; Power system dynamics; Substations; Adequacy assessment; cyber security; cyber-physical systems; game theory; human dynamics (ID#: 16-9653) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7131815&isnumber=7131775
+
+Title: "Physically Unclonable Digital ID," 
+DOI: 10.1109/MobServ.2015.24
+Keywords: authorisation; cryptography; random number generation; PUF; Q-PUDID; center for strategic and international studies; clonable static information; cryptanalysis; descrambler-hardware authentication; device authentication; digital identity thefts; dynamic human identity ;encryption keys; hash functions; physically unclonable digital ID; physically unclonable function; quasi-PUDID; random number generation; two-factor authentication; Authentication; Cryptography; Immune system; Optical imaging; Optical sensors; Servers; PUF; access control; authentication; biometrics; cloning; computer security; cyber security; digital signatures; identification of persons; identity management systems; mobile hardware security (ID#: 16-9654) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226678&isnumber=7226653
+
+Title: "Electronic Health Record Error Prevention Approach Using Ontology in Big Data," 
+DOI: 10.1109/HPCC-CSS-ICESS.2015.168
+Keywords: Big Data; decision making; electronic health records; health care; ontologies (artificial intelligence); Big data; EHR system; EPAA; OEHR-EPM; electronic health record error prevention approach; error prevention adjustment algorithm; healthcare information; knowledge-based ontology; medical decision making; medical diagnosis; ontology-based EHR error prevention model; Algorithm design and analysis; Big data; Diseases; Electronic medical records; Medical diagnostic imaging; Ontologies; Electronic health records; big data; cloud computing; error prevention; ontology (ID#: 16-9655) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7336248&isnumber=7336120
+
+Title: "Evolving Spiking Neural Networks: A Novel Growth Algorithm Corrects the Teacher," 
+DOI: 10.1109/CISDA.2015.7208630
+Keywords: brain; genetic algorithms; genetics; neural nets; topology; Neumann machine; SNN; algorithm grow O(n);brains; central pattern generator; evolutionary computation; gene-driven network growth algorithm; genetic algorithm; genome length; network topology; robust spike bursting behavior; sequence detector; spiking neural network; Algorithm design and analysis; Bioinformatics; Biological neural networks; Buildings; Design methodology; Genomics; Robustness; Genetic algorithms; noise robustness; sequence detector; spiking neural networks; tonic burster; topology growth algorithm (ID#: 16-9656) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7208630&isnumber=7208613
+
+Title: "Visual Surveillance Using Absolute Difference Motion Detection," 
+DOI: 10.1109/ICTSD.2015.7095848
+Keywords: cellular radio; disc drives; electronic messaging; hard discs; image motion analysis; image recognition; image sensors; modems; object detection; object tracking; security; video surveillance; GSM modem; Global System for Mobile Communication; HDD; OpenCV; SMS notification; absolute difference motion detection technique; hard disc drives; security system; short message service; video surveillance; visual device; visual surveillance; Cameras; GSM; Modems; Motion detection; Noise; Surveillance; Tracking; GSM system; Motion detection methods; Visual surveillance; Web Cam/ External camera (ID#: 16-9657) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7095848&isnumber=7095833
+
+Title: "Caught In The Act of an Insider Attack: Detection and Assessment of Insider Threat," 
+DOI: 10.1109/THS.2015.7446229
+Keywords: Analytical models; Business; Electronic mail; Feature extraction; Libraries; Measurement; Media (ID#: 16-9658) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7446229&isnumber=7190491
+
+Title: "Releasing Energy of Compromised Nodes in a Secured Heterogeneous Ad-Hoc Network(MANETs)," 
+DOI: 10.1109/ICACCS.2015.7324103
+Keywords: mobile ad hoc networks; resource allocation; telecommunication power management; telecommunication security; Border Monitoring; CPU speed; MANET; battery life; constrained resources; fraud-malicious nodes; heterogeneous nodes; mobile ad hoc network; secured heterogeneous ad-hoc network; security algorithms; Ad hoc networks; Batteries; Mathematical model; Mobile computing Receivers; Routing; Security; MANET; genuine node; invalidating; malicious node (ID#: 16-9659) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7324103&isnumber=7324014
+
+Title: "Fast Mining of Large-Scale Logs for Botnet Detection: A Field Study," 
+DOI: 10.1109/CIT/IUCC/DASC/PICOM.2015.295
+Keywords: cloud computing; computer network security; data mining; digital signatures; invasive software; AGD; C and C Servers; Internet; abnormal data streams; algorithmically generated domains; botnet detection methods; botnet life cycle; computer network behavioral analysis; feature pattern; information quality; information quantity; large-scale proxy log mining; malwares; network-based attack; normal data streams; workstations; Cloud computing; Data mining; Feature extraction; Malware; Servers; AGD; botnet; heuristics; logs; mining; proxy (ID#: 16-9660) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7363341&isnumber=7362962
+
+Title: "System Approach to Study of Traffic Accidents With Hazardous Substances Presence," 
+DOI: 10.1109/SCSP.2015.7181553
+Keywords: accidents; design engineering; hazards; road safety; road traffic; transportation; Czech Republic; hazardous substances; human protection; integral safety concept; rail roads; roadway design; system approach; traffic accidents; traffic speed; transportation; vehicle design; Accidents; Contamination; Indexes; Pediatrics; Roads; critical infrastructure; hazardous substances; human security; impacts; safety; traffic accidents (ID#: 16-9661) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7181553&isnumber=7181533
+
+Title: "Evaluation of Background Subtraction Algorithms for Object Extraction," 
+DOI: 10.1109/PERVASIVE.2015.7087065
+Keywords: object detection; video surveillance; IVS system; background subtraction algorithms; foreground estimation; intelligent video surveillance; object extraction; Algorithm design and analysis; Brightness; Discrete cosine transforms; Estimation; Indexes; Measurement; Standards; Background Estimation; Background Subtraction; Object Segmentation; Video Surveillance (ID#: 16-9662) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7087065&isnumber=7086957
+
+Title: "Big RF for Homeland Security Applications," 
+DOI: 10.1109/THS.2015.7225294
+Keywords: Big Data; cognitive radio; national security; Big Data problems; Big RF applications; cognitive radio; first responders; homeland security applications; homeland security network deployments; network managers; warfighters; Databases; Electromagnetics; Facebook; NASA; Radio frequency; Big Data; Big RF; Cognitive Radio; Homeland Security; REM (ID#: 16-9663) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7225294&isnumber=7190491
+
+Title: "Evolvement of Information Security Research on Employees' Behavior: A Systematic Review and Future Direction," 
+DOI: 10.1109/HICSS.2015.508
+Keywords: educational administrative data processing; personnel; publishing; security of data; academic journals; employee behavior; information security; Ethics; Human factors; Information security; Organizations; Systematics (ID#: 16-9664) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7070327&isnumber=7069647
+
+Title: "Energy Book for Buildings: Occupants Incorporation in Energy Efficiency of Buildings," 
+DOI: (not
+Keywords: air pollution; building management systems; buildings (structures); energy conservation; energy consumption; energy management systems; smart cities; bottom-up approach; building energy efficiency; building energy management; carbon footprint; energy booking; energy consumption cost; energy usage; future smart cities; human comfort; occupant incorporation; smart citizens; Buildings; Energy consumption; Energy management; Monitoring; Security; Software; Temperature measurement; BEMS; Building Energy Management System; HBI; Human-Building Interactions; Human-Building Interface; Smart Buildings; Smart Cities; Smart Occupants (ID#: 16-9665) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7297959&isnumber=7297901
+
+Title: "Modelling Emotional Attachment: An Integrative Framework for Architectures and Scenarios," 
+DOI: 10.1109/IJCNN.2015.7280431
+Keywords: psychology; CogAff schema; agent-based model; agent-based modelling toolkit; architectural design; attachment security; attachment theory; computational modelling; emotional security; integrative modelling approach; phylogenetic development; robotic attachment simulation; Bioinformatics; Biological system modeling; Computer architecture; Genomics; Phylogeny; Robots (ID#: 16-9666) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7280431&isnumber=7280295
+
+Title: "An Investigation on Touch Biometrics: Behavioral Factors on Screen Size, Physical Context and Application Context," 
+DOI: 10.1109/THS.2015.7225318
+Keywords: behavioural sciences; biometrics (access control);data privacy; human computer interaction; mobile computing; social aspects of automation; touch sensitive screens; application context; behavioral biometric solutions; behavioral factors; context-aware mobile user recognition method; contextual behavior factors; contextual behavior information; mobile devices; physical activity context; privacy concerns; security demands; smartphone device screen size; touch based user recognition; touch biometrics; touch screen usage behavior; user identification performance; Authentication; Biometrics (access control); Context; Feature extraction; Mobile communication; Mobile handsets; Performance evaluation (ID#: 16-9667) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7225318&isnumber=7190491
+
+Title: "Iris Recognition Based on Human-Interpretable Features," 
+DOI: 10.1109/ISBA.2015.7126352
+Keywords: feature extraction; image capture; image matching; iris recognition; object detection; topology; biometrics; equal error rate; forensics; hit rate; human recognition; human-in-the-loop iris recognition system; human-interpretable features; iris crypt detection; iris crypt matching; iris crypts capture; topological changes; Cryptography; Feature extraction; Forensics; Gray-scale; Image segmentation; Iris; Iris recognition (ID#: 16-9668) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7126352&isnumber=7126341
+
+Title: "Mobile Usage Patterns and Privacy Implications," 
+DOI: 10.1109/PERCOMW.2015.7134081
+Keywords: data privacy; human factors; mobile computing; operating systems (computers); Craigslist; Florida State University; empirical data; mobile applications; mobile computing environments; mobile usage patterns; operating systems; permission requests; privacy threats; security community; user computing behavior; users privacy behavior; Encryption; IEEE 802.11 Standards; Mobile communication; Mobile computing; Mobile handsets; Portable computers; Privacy; human factors; mobile computing; privacy; security (ID#: 16-9669) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7134081&isnumber=7133953
+
+Title: "Online Anomaly Detection on E-Commerce Based on Variable-Length Behavior Sequence," 
+DOI: 10.1049/cp.2015.0757
+Keywords: electronic commerce; human computer interaction; security of data; e-commerce; online anomaly detection method; system security; variable-length behavior sequence; Anomaly Detection; Electronic Commerce; IDF; User Behavior; Variable-Length Sequence (ID#: 16-9670) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7446889&isnumber=7386275
+
+Title: "Expanding the Human-Biometric Sensor Interaction Model to Identity Claim Scenarios," 
+DOI: 10.1109/ISBA.2015.7126362
+Keywords: biometrics (access control); sensors; HBSI model; ID cards; attack presentations; behavioral characteristics; biometric technologies; digital identity solutions; false claims; governmental agencies; human-biometric sensor interaction model; identity claim scenarios; individual authentication; individual identification; passports; physiological characteristics; security task; token; Adaptation models; Authentication; Biological system modeling; Fingerprint recognition; Measurement; Usability (ID#: 16-9671) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7126362&isnumber=7126341
+
+Title: "Cybercrime Profiling: Decision-Tree Induction, Examining Perceptions of Internet Risk and Cybercrime Victimisation," 
+DOI: 10.1109/Trustcom.2015.534
+Keywords: Internet; computer crime; data mining; decision trees; human computer interaction; law; Internet risk perceptions; Jordan; computer victimisation; cybercrime profiling; cybercrime victimisation; data-mining technique; decision-tree induction; law perception; online behaviour; Additives; Complexity theory; Computer crime; Decision trees; Electronic mail; Internet; Classification tree; Cybercrime profiling; Data mining; Digital forensics (ID#: 16-9672) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7345442&isnumber=7345233
+
+Title: "Smartphone Continuous Authentication Based on Keystroke and Gesture Profiling," 
+DOI: 10.1109/CCST.2015.7389681
+Keywords: gesture recognition; human computer interaction; message authentication; pattern classification; smart phones; touch sensitive screens; GS; gesture profiling; gesture segment; keystroke profiling; one-touch motion; smart phone continuous authentication; touch screen; user identity classification; user interaction; Authentication; Feature extraction; Iris recognition; Mobile communication; Mobile handsets; data leakage prevention; keystroke profiling; machine learning; sensitive data protection; smartphone movement behavior (ID#: 16-9673) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7389681&isnumber=7389647
+
+Title: "Investigating the Correlation between Intention and Action in the Context of Social Engineering in Two Different National Cultures," 
+DOI: 10.1109/HICSS.2015.422
+Keywords: behavioural sciences computing; cultural aspects; human factors; personnel; security of data; social sciences computing; statistical analysis; Sweden; Swedish employees; US employees; USA; employee intention; employee social engineering security actions; external behavioral information security threats; information security field; intention-action correlation; intention-action relationship; national cultures; phishing experiment; self-reported action; self-reported behavior; statistical analysis; Context; Correlation; Cultural differences; Information security; Organizations; Resists (ID#: 16-9674) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7070237&isnumber=7069647
+
+Title: "Locality Preserving Discriminant Projection," 
+DOI: 10.1109/ISBA.2015.7126365
+Keywords: biometrics (access control); face recognition; geometry; visual databases; LPDP; LPP; benchmark databases; contemporary approach; data point local geometry; face image; face recognition; human recognition system; locality preserving discriminant projection; subspace based method; Benchmark testing; Databases; Error analysis; Face; Face recognition; Lighting; Training (ID#: 16-9675) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7126365&isnumber=7126341
+
+Title: "Information Security Awareness in Educational Institution: An Analysis of Students' Individual Factors," 
+DOI: 10.1109/Trustcom.2015.394
+Keywords: age issues; educational administrative data processing; educational institutions; gender issues; human factors; security of data; statistical analysis; training; ISA training factor; age factor; area-of-living factor; education level factor; educational institution; field-of-study factor; gender factor; information assets; information security awareness; nationality factor; statistical significant correlation; students individual factors analysis; working experience factor; Context; Correlation; Information security; Information technology; Training; Age; Behavior; Demographic Factors; Educational Disciplines; Gender; Information Security Awareness; Knowledge; Miscellaneous Security Issues; Security; Threats (ID#: 16-9676) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7345302&isnumber=7345233
+
+Title: "Event-Driven Implicit Authentication for Mobile Access Control," 
+DOI: 10.1109/NGMAST.2015.47
+Keywords: authorisation; data privacy; human computer interaction; message authentication; mobile computing; mobile radio; moving average processes; telecommunication security; trusted computing; EWMA; abnormal activity detection; aggregate score; event-driven implicit authentication scheme; explicitly authenticated access control; exponentially weighted moving average based algorithms; legitimate user behavior recognition; mobile access control; mobile devices; standard deviation; threshold computation; trust level; user interaction; user privacy protection; user recognition rate; Aggregates; Authentication; Browsers; Context; History; Mobile handsets; Training; behavior-based authentication; implict authentication; mobile access control (ID#: 16-9677) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7373251&isnumber=7373199
+
+Title: "Opportunities and Challenges of Internet-Based Health Interventions in the Future Internet," 
+DOI: 10.1109/ITNG.2015.95
+Keywords: Internet; health care; human factors; Internet-based health interventions; behavioral treatments; future Internet; psychological barriers; social barriers; technology acceptance; Data mining; Diseases; Internet; Mobile communication; Privacy; Psychology; Future Internet; Internet of Everything; Internet of Things; Internet-based health interventions; Psychological and Social Barriers; eHealth (ID#: 16-9678) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7113533&isnumber=7113432
+
+Title: "Watch Your Mobile Payment: An Empirical Study of Privacy Disclosure," 
+DOI: 10.1109/Trustcom.2015.467
+Keywords: Internet; data privacy; human factors; mobile commerce; near-field communication; regression analysis; risk analysis; smart phones; electronic wallets; financial transaction details; m-payment; mobile payments; mobile shopping applications ;near field communication; payment device; privacy disclosure; privacy threat; regression values; risk perception; smartphone; structural equation modelling ;technology characteristics; user acceptance; user privacy concerns; Context; Data privacy; Mobile communication; Mobile handsets; Privacy; Security; Software; m-payment; privacy concerns; privacy disclosure; privacy perception; privacy policies; structural equation modeling (ID#: 16-9679) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7345375&isnumber=7345233
+
+Title: "Cardiac Radar for Biometric Identification Using Nearest Neighbour of Continuous Wavelet Transform Peaks," 
+DOI: 10.1109/ISBA.2015.7126356
+Keywords: biometrics (access control); electrocardiography ;medical signal processing; time-frequency analysis; wavelet transforms; ECG; biometric identification; biometric identification tool; cardiac radar system; continuous wavelet transform; continuous wavelet transform peaks; nearest neighbour; radar system; time reference; time-frequency analysis; Accuracy; Continuous wavelet transforms; Electrocardiography; Feature extraction; Radar (ID#: 16-9680) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7126356&isnumber=7126341
+
+Title: "What they do in Shadows: Twitter Underground Follower Market," 
+DOI: 10.1109/PST.2015.7232959
+Keywords: human factors; learning (artificial intelligence); oligopoly; social networking (online);Facebook likes; Instagram comments; OSN users; Twitter followers; Yelp reviews; customers; fraudulent network; incentivized freemium schemes; market hierarchy; market leaders; merchant popularity; oligopoly structure; online profile; online social networks; operational structure; perceived social popularity; perceived social reputation; phony followers; premium monetary scheme; quality of service; social presence; supervised learning model; suspicious following behaviour prediction; underground follower market; Business; Data collection; Facebook; Measurement; Media; Quality of service; Twitter (ID#: 16-9681) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7232959&isnumber=7232940
+
+Title: "Orientation Invariant Gait Matching Algorithm Based on the Kabsch Alignment," 
+DOI: 10.1109/ISBA.2015.7126347
+Keywords: accelerometers; gait analysis; gyroscopes; image matching; smart phones; Kabsch alignment; McGill dataset; OU-ISIR data; accelerometer; cycle splitting; gait signal comparison; gyroscope sensors; human gait dynamics; identity authentication measures; orientation alignment; orientation invariant gait matching algorithm; smart phones; Acceleration; Gravity; Gyroscopes; Intelligent sensors; Legged locomotion; Probes; Distribution Statement A: Approved for Public release; Distribution Unlimited (ID#: 16-9682) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7126347&isnumber=7126341
+
+Title: "Improving Performance of Classification Intrusion Detection Model by Weighted Extreme Learning Using Behavior Analysis of the Attack," 
+DOI: 10.1109/ICSEC.2015.7401431
+Keywords: learning (artificial intelligence);pattern classification; security of data; RBF kernel activation function; SVM+GA; behavior analysis; classification intrusion detection model; probing attack; weighted ELM; weighted extreme learning method; High definition video; Intrusion Detection; Trade-off Constant C; Weighted ELM; behavior analysis (ID#: 16-9683) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7401431&isnumber=7401392
+
+Title: "Effect of IT Trading Platform on Financial Risk-Taking and Portfolio Performance," 
+DOI: 10.1109/HICSS.2015.398
+Keywords: electronic commerce; human factors; investment; risk management; IT trading platform; financial returns; financial risk-taking; information technology; online trading; perceived usefulness category; professional investors; risk-taking groups; satisfaction category; stock portfolio performance; trading risk-taking behavior; Biological system modeling; Computers; Customer satisfaction; Finance; Portfolios; Security (ID#: 16-9684) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7070213&isnumber=7069647
+
+Title: "Improvement of Human Identification Accuracy by Wavelet of Peak-Aligned ECG," 
+DOI: 10.1109/ISBA.2015.7126358
+Keywords: electrocardiography; feature extraction; medical signal processing; signal classification; wavelet transforms; P wave time interval; Q wave time interval; R wave time interval; RR interval normalization; S wave time interval; classification accuracy improvement; dry electrodes; electrocardiogram; feature vector; human identification accuracy; normalized signal; peak-aligned ECG wavelets; unaligned R wave; wavelet coefficients; wavelet transform; Accuracy; Electrocardiography; Electrodes; Feature extraction; Time measurement; Wavelet transforms (ID#: 16-9685) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7126358&isnumber=7126341
+
+Title: "Intelligent Display Auto-Lock Scheme for Mobile Devices," 
+DOI: 10.1109/AsiaJCIS.2015.30
+Keywords: authorisation; data protection; display devices; human factors; mobile computing; smart phones; authentication mechanisms; data security; energy saving; intelligent display auto-lock scheme; intelligent mobile devices; mobile users; personal services; screen auto-lock schemes; smart handheld devices; smart phones; tablets; unlock time period; user behaviors; user convenience; user privacy protection; user security; work efficiency improvement; Authentication; IEEE 802.11 Standards; Mathematical model; Smart phones; Time-frequency analysis; Android platform; display auto-lock; smartphone (ID#: 16-9686) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7153935&isnumber=7153836
+

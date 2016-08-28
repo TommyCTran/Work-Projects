@@ -1,0 +1,175 @@
+Title: "Cyber Security Education as a Tool for Trust-Building in Cross-Border Public Protection and Disaster Relief Operations," 
+DOI: 10.1109/EDUCON.2015.7095999
+Keywords: computer aided instruction; computer science education; emergency management; trusted computing; PPDR operation; PSC; cross-border public protection operation; cyber security education; cybersecurity-as-a-barrier perspective; cybersecurity-as-an-enabler perspective; disaster relief operation; information exchange; multiagency PPDR cooperation; public safety communications; resiliency theme; security management theme; security technology theme; situation awareness theme; trust building; Computer security; Education; Europe; Organizations; Safety; Standards organizations; cyber security; education; public protection and disaster relief; trust-building (ID#: 16-9574) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7095999&isnumber=7095933
+
+Title: "Studying Resilient Cyber Incident Management from Large-Scale Cyber Security Training," 
+DOI: 10.1109/ASCC.2015.7244713
+Keywords: human factors; risk management; security of data; ENCS; European Network for Cyber Security; NL; The Hague; cyber crisis management; cyber incident management; cyber resilience; cyber security risk management human-factor; large-scale cyber security hands-on training; resilience-engineering framework; Computer security; Games; Monitoring; Organizations; Resilience; Training; critical infrastructure; cyber security; management; resilience engineering (ID#: 16-9575) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7244713&isnumber=7244373
+
+Title: "Security Issues in WSNs with Cooperative Communication," 
+DOI: 10.1109/CSCloud.2015.78
+Keywords: cooperative communication; protocols; telecommunication network reliability; telecommunication security; wireless sensor networks; WSN; application layer; cooperative communication; cyber-attack; data link layer; network layer; physical layer; security issue; service layer; wireless sensor network reliability; Cooperative communication; Jamming; Protocols; Relays; Security; Sensors; Wireless sensor networks; Cooperative Communication; Security attacks; WSN; resiliency (ID#: 16-9576) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7371521&isnumber=7371418
+
+Title: "Security of ONS Service for Applications of the Internet of Things And Their Pilot Implementation in Academic Network," 
+DOI: 10.1109/CarpathianCC.2015.7145087
+Keywords: Internet of Things; radiofrequency identification; telecommunication security; Internet of Things; ONS service; RFID; academic network; object name services; radio-frequency identification; Operating systems; Protocols; Radiofrequency identification; Security; Servers; Standards; Virtual private networks; IPv6; Internet of Things; ONS; RFID; security hardening (ID#: 16-9577) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7145087&isnumber=7145033
+
+Title: "A SDN-Based Network Architecture for Cloud Resiliency," 
+DOI: 10.1109/CCNC.2015.7158022
+Keywords: cloud computing; computer network security; quality of service; software defined networking; telecommunication network routing; telecommunication traffic; CSP; Internet service providers; SDN based network architecture; cloud network architecture; cloud network infrastructures; cloud networks configurations; cloud resiliency; cloud service providers; cloud services; data centers; data security; fiber cut; network failure; remote data centers; rerouting strategy; routing strategy; software defined networking; traffic QoS requirement; Computer architecture; Internet; Multiprotocol label switching; Peer-to-peer computing; Routing; Routing protocols; Servers; Overlay; Resiliency; Segment Routing; Software-Defined Networks (ID#: 16-9578) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7158022&isnumber=7157933
+
+Title: "Data Security in Smart Grid with Hardware Implementation against DoS attacks," 
+DOI: 10.1109/ICCPCT.2015.7159274
+Keywords: Internet; computer network security; power engineering computing; smart power grids; DoS attacks; LPC1768 processor; SYN flooding; cybersecurity; data security; denial of service attack; secure Web server algorithm; smart grid; smart resources; Computer crime; Computers; Floods; IP networks; Protocols; Servers; ARM Processor; DoS; Hardware Implementation; SYNflooding; Smart Grid (ID#: 16-9579) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7159274&isnumber=7159156
+
+Title: "On the Security of Software-Defined Networks," 
+DOI: 10.1109/EWSDN.2015.70
+Keywords: computer network security; software defined networking; SDNs; software-defined network security; Computer crime; Fabrication; Network topology; Switches; Topology; Resiliency; SDN; Security; Software-defined Networks (ID#: 16-9580) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7313625&isnumber=7313575
+
+Title: "Optimizing Resiliency of Distributed Video Surveillance System for Safer City," 
+DOI: 10.1109/ISSREW.2015.7392029
+Keywords: distributed processing; queueing theory; video signal processing; video surveillance; virtual machines; distributed computing platform; distributed video surveillance system; information and communications technology; queueing model; resilient video surveillance system; socio-ICT model; system dynamics; video analysis; virtual machines; Cities and towns; Computational modeling; Face; Streaming media; System dynamics; Video surveillance; distributed system; resiliency; socio-ICT model; system dynamics; video surveillance (ID#: 16-9581) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7392029&isnumber=7392022
+
+Title: "Sub-Band Precoded OFDM for Enhanced Physical Layer Resiliency in Wireless Communication Systems," 
+DOI: 10.1109/BlackSeaCom.2015.7185074
+Keywords: OFDM modulation; fading channels; radiofrequency interference; telecommunication security; broadband wireless systems; fading channels; jamming attacks; modulation scheme; orthogonal frequency division multiplexing; physical layer resiliency; physical layer security; subband precoded OFDM; uncorrelated interference; wireless communication systems; Bandwidth; Bit error rate; Discrete Fourier transforms; Jamming; OFDM; Physical layer; Wireless communication; OFDM; jamming environment; physical layer security; precoding (ID#: 16-9582) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7185074&isnumber=7185069
+
+Title: "Identity Considerations for Public Sector Hybrid Cloud Computing Solutions," 
+DOI: 10.1109/ICCCI.2015.7218091
+Keywords: cloud computing; security of data; combined public-private cloud solution; cost savings; defense security missions; disaster response; homeland security missions; identity management; identity management architectural model; information technology service delivery; mission critical continuity; mission critical operations; mission support operations; national security; public sector cloud security; public sector hybrid cloud computing solutions; resilience balancing; security balancing; service availability criticality; service provisioning; Cloud computing; Computational modeling; Government; Mission critical systems; Mobile communication; Security; availability; cloud computing; confidentiality; hybrid cloud; identity management; information security management systems; integrity; public sector; security (ID#: 16-9583) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7218091&isnumber=7218046
+
+Title: "Digital PUF Using Intentional Faults," 
+DOI: 10.1109/ISQED.2015.7085467
+Keywords: copy protection; integrated circuit design; logic design; fault based digital PUF; hardware security primitive; high risk synthesis; induced circuit defect; intentional fault; operational variation; physical unclonable function; process variation; standard array multiplier module; Adders; Bridge circuits; Circuit faults; Hamming distance; Logic gates; Security; Wires; Intentional Faults; Physical Unclonable Function (PUF); Security; Testing (ID#: 16-9584) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7085467&isnumber=7085355
+
+Title: "Critical Infrastructure Protection: Towards a Design Theory for Resilient Software-Intensive Systems," 
+DOI: 10.1109/EISIC.2015.32
+Keywords: critical infrastructures; data protection; safety-critical software; security of data; software fault tolerance; DT; SIS; critical infrastructure protection; critical software-intensive information system; design theory; software-intensive system resiliency; Computer security; Information security; Privacy; Software; Systematics; critical infrastructure protection; cyber security; design theory; software-intensive systems; trust-building (ID#: 16-9585) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7379753&isnumber=7379706
+
+Title: "Resilience Engineering: A Report on the Needs of the Stakeholder Communities and the Prospects for Responsive Educational Programs," 
+DOI: 10.1109/ICL.2015.7318113
+Keywords: education; social sciences; National Center for Maritime Security; Stevens Institute of Technology; all hazards approach; coastal communities; community resilience; hazard mitigation; hazard resiliency; resilience engineering; responsive educational programs; stakeholder communities; Conferences; Education; Hazards; Hurricanes; Industries; Resilience; Stakeholders;community;curriculum;engineering;hazards;infrastructure; resiliency; systems (ID#: 16-9586) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7318113&isnumber=7317975
+
+Title: "A Taxonomy of Key Management Schemes of Wireless Sensor Networks," 
+DOI: 10.1109/ACCT.2015.109
+Keywords: public key cryptography; telecommunication security; wireless sensor networks; WSN; network metrics; public key cryptography; resource limitation; secure communication; secure key management Schemes; security metrics; sensor nodes; wireless sensor networks; Authentication; Cryptography; Peer-to-peer computing; Polynomials; Protocols; Wireless sensor networks; Key distribution; Key management; Resiliency; Security; Wireless sensor networks (ID#: 16-9587) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7079167&isnumber=7079031
+
+Title: "Impact of Hurricanes on Gulf Coast Electric Grid Islanding of Industrial Plants," 
+DOI: 10.1109/PSC.2015.7101692
+Keywords: distributed power generation; industrial plants; power distribution faults; storms; Louisiana; electric grid islanding; geographical area; gulf coast; industrial plants; resilient transmission system; seasonal hurricanes; tropical storms; Biological system modeling; Hurricanes; Industrial plants; Power transmission lines; Storms; Tropical cyclones; Wind speed; power system analysis; power system resiliency; power system security and reliability; transmission system hardening (ID#: 16-9588) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7101692&isnumber=7101673
+
+Title: "An Evolutionary Strategy for Resilient Cyber Defense," 
+DOI: 10.1109/GLOCOM.2015.7417814
+Keywords: Internet; Linux; evolutionary computation; security of data; RedHat Linux Apache web-servers; adaptive behavior; configuration complexity; configuration management approach;cyber attacks; evolutionary algorithm; evolutionary strategy; resilient cyber defense; security threats; Biological cells; Computers; Guidelines; Security; Sociology; Software; Statistics (ID#: 16-9589) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7417814&isnumber=7416057
+
+Title: "A Distributed Monitoring and Reconfiguration Approach for Adaptive Network Computing," 
+DOI: 10.1109/SRDSW.2015.16
+Keywords: cloud computing; quality of service; security of data; software fault tolerance; software prototyping; agile network computing; cloud computing; distributed service monitoring; dynamic service composition model; greedy dynamic service composition algorithm; quality of service; security requirement; service orchestration reconfiguration; Cloud computing; Context; Heuristic algorithms; Mobile communication; Monitoring; Quality of service; Security; adaptability; agile computing; monitoring; resilience; service-oriented computing (ID#: 16-9590) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7371438&isnumber=7371403
+
+Title: "Response and Reconfiguration of Cyber-Physical Control Systems: A Survey," 
+DOI: 10.1109/CCAC.2015.7345181
+Keywords: embedded systems; game theory; redundancy; security of data; attack protection; cyber-physical control system; detection mechanism; distributed embedded computing; embedded computer; game theory; isolation mechanism; redundancy; reliability; security mechanism; Actuators; Game theory; Games; Security; Sensor systems (ID#: 16-9591) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7345181&isnumber=7345173
+
+Title: "Designing Virus-Resistant Networks: A Game-Formation Approach," 
+DOI: 10.1109/CDC.2015.7402216
+Keywords: computer network security; computer viruses; game theory; telecommunication network topology; Internet; Nash equilibria; autonomous system; decentralized fashion; game-formation approach; global optimum; optimal network topology; price of anarchy; virus resiliency; virus security; virus-resistant network design; worst-case Nash equilibrium; Games; Nash equilibrium; Network topology; Peer-to-peer computing; Security; Stability analysis; Viruses (medical) (ID#: 16-9592) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7402216&isnumber=7402066
+
+Title: "Resilient Cumulant Game Control for Cyber-Physical Systems," 
+DOI: 10.1109/RWEEK.2015.7287422
+Keywords: Markov processes; game theory; optimisation; security of data; HJB equation; Hamilton-Jacobi-Bellman equation; Nash game; control feedback gain variation; cumulant game control resiliency; cyber-physical system; full-state feedback; linear Markovian system; linear hybrid stochastic system; quadratic cost function optimization; security vulnerability; Cost function; Cyber-physical systems; Games; Mathematical model; Nash equilibrium; Trajectory (ID#: 16-9593) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7287422&isnumber=7287407
+
+Title: "An Intrusion-Resilient Distributed Optimization Algorithm for Modal Estimation in Power Systems," 
+DOI: 10.1109/CDC.2015.7402084
+Keywords: optimisation; phasor measurement; power engineering computing; power system state estimation; security of data; D-ADMM; IEEE 68-bus power system; centralized Prony method; cross-verification step; cyber-attacks; distributed variant of alternating direction method of multipliers; electro-mechanical oscillation modes; intrusion-resilient distributed optimization algorithm; large power system; modal estimation; power systems; synchrophasor measurements; Computer architecture; Damping; Distributed databases; Estimation; Handheld computers; Phasor measurement units; Power systems (ID#: 16-9594) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7402084&isnumber=7402066
+
+Title: "Distributed StealthNet (D-SN): Creating a Live, Virtual, Constructive (LVC) Environment for Simulating Cyber-attacks for Test and Evaluation (T&E)," 
+DOI: 10.1109/MILCOM.2015.7357622
+Keywords: command and control systems; computer network security; military communication; wide area networks; C2 hardware; Command and Control hardware; D-SN; LVC environment; T&E; TRMC; cyberattack simulation; cybervulnerable network context; department of defense test resource management center; distributed stealthnet; live, virtual, constructive environment; tactical network; test and evaluation; Computational modeling; Computer architecture; Computers; Hardware; Ports (Computers); Real-time systems; Wide area networks (ID#: 16-9595) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7357622&isnumber=7357245
+
+Title: "Trust-Based Task Assignment in Autonomous Service-Oriented Ad Hoc Networks," 
+DOI: 10.1109/ISADS.2015.19
+Keywords: access protocols; mobile ad hoc networks; optimisation; telecommunication security; autonomous service-oriented mobile ad hoc networks MANET; blacklisting techniques; dynamic node-to-task assignment; linear runtime complexity; malicious nodes; multiobjective optimization problem; opportunistic service attacks; service providers; service requesters; slandering attacks; trust management protocol; trust-based heuristic algorithm; trust-based task assignment; Ad hoc networks; Heuristic algorithms; Mobile computing; Peer-to-peer computing; Protocols; Reliability; Runtime; multi-objective optimization; performance analysis; service-oriented mobile ad hoc networks; task assignment; trust (ID#: 16-9596) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7098240&isnumber=7098213
+
+Title: "Message Authentication and Wormhole Detection Mechanism in Wireless Sensor Network," 
+DOI: 10.1109/ISCO.2015.7282382
+Keywords: polynomials; telecommunication security; wireless sensor networks; MES scheme; SAMA; adaptive chosen message attacks; black hole attacks; corrupted message; elliptic curves; gray hole attacks; message authentication; modified Elgamal signature; node compromise attacks; polynomial based scheme; random oracle model; source anonymous message authentication; unauthorized message; unlimited number; wireless sensor network; wormhole detection mechanism; Computational modeling; Cryptography; Scalability; Terminology; Hop-by-hop authentication; public-key cryptosystem; source privacy (ID#: 16-9597) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282382&isnumber=7282219
+
+Title: "Evaluating Defence Schemes Against Jamming in Vehicle Platoon Networks," 
+DOI: 10.1109/ITSC.2015.348
+Keywords: intelligent transportation systems; jamming; radiofrequency interference; telecommunication security; vehicular ad hoc networks; ITS; VANET; data redundancy; defence methods; denial of service attacks; evaluating defence schemes; intelligent transportation systems; interference reduction; jamming attacks; malicious interference; on-board vehicle sensors; vehicle platoon networks; vehicular ad hoc networks; warning systems; wireless communication; Array signal processing; Global Positioning System; Interference; Jamming; Sensors; Vehicles; Wireless communication (ID#: 16-9598) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7313440&isnumber=7312804
+
+Title: "Secure and Robust State Estimation Under Sensor Attacks, Measurement Noises, and Process Disturbances: Observer-Based Combinatorial Approach," 
+DOI: 10.1109/ECC.2015.7330811
+Keywords: continuous time systems; error correction; linear systems; observers; redundancy; robust control; security; Luenberger observer; bounded estimation error; continuous-time linear dynamical system; error correction technique; observer-based combinatorial approach; robust state estimation; search space; secure state estimation; sensor attack; Indexes; Minimization; Noise measurement; Observers; Redundancy; Robustness (ID#: 16-9599) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7330811&isnumber=7330515
+
+Title: "vDNS Closed-Loop Control: A Framework for an Elastic Control Plane Service," 
+DOI: 10.1109/NFV-SDN.2015.7387423
+Keywords: cloud computing; computer network security; software defined networking; virtualisation; AT&T; DDoS event; SDN; SDN controller-based flow redirection; VNF clouds; distributed denial-of-service attacks; dynamic virtual machine instantiation; elastic control plane service; large-scale operational instantiation; malicious network traffic; network function virtualization; network traffic conditions; network transformation; reaction time; recursion rates; site failures; software-defined networking; transactional efficiency; vDNS closed-loop control; vDNS resolvers; virtual domain name system; virtual network functions; Computer crime; Conferences; Hardware; Servers; Software defined networking; Telemetry (ID#: 16-9600) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7387423&isnumber=7387384
+
+Title: "Measurement of Locality Specific Resilience," 
+DOI: 10.1109/THS.2015.7225332
+Keywords: emergency management; social sciences; community operational capability; functional resilience measurement; locality specific resilience measurement; quantitative measurement; resiliency capability; resiliency indicators; resiliency metrics; systematic gap analysis; Economics; Emergency services; Hazards; Measurement; Resilience; Standards; Training; AHP; community resilience; operational resilience modeling; resilience capability metrics (ID#: 16-9601) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7225332&isnumber=7190491
+
+Title: "Tapping into Social Media and Digital Humanitarians for Building Disaster Resilience in Canada," 
+DOI: 10.1109/IHTC.2015.7274444
+Keywords: emergency management; social networking (online); CAUSE III; Canada-US enhanced resiliency experiment; UNOCHA; United Nations Office for the Coordination of Humanitarian Affairs; community level; digital humanitarians; disaster management organizations; disaster resilience; information overload; national level; recovery outcomes; situational awareness; social media information; social networking; Collaboration; Disaster management; Media; Organizations; Safety; Twitter; disaster management; resilience; social media; social network analysis (ID#: 16-9602) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7274444&isnumber=7238033
+
+Title: "Hypergraph-Cover Diversity for Maximally-Resilient Reconfigurable Systems," 
+DOI: 10.1109/HPCC-CSS-ICESS.2015.294
+Keywords: data compression; embedded systems; field programmable gate arrays; graph theory; image coding; motion estimation; reconfigurable architectures; HCD; Motion-JPEG image compression core; RH; Xilinx 7-series-based FPGA hardware platform; area efficiency; dependability-critical embedded applications; design flexibility; execution time;fault tolerance; hypergraph-cover diversity; in-field reconfigurability; maximally-resilient reconfigurable systems; preemptive design technique; reconfigurable hardware; reconfigurable resource partitioning; reconfiguration-based resilience; resiliency costs; routing phases; runtime placement; separable resource subsets; set theoretic approach; statistical analysis; synthesized application netlist; union-free hypergraphs; Circuit faults; Embedded systems; Fault tolerance; Fault tolerant systems; Field programmable gate arrays; Hardware; Runtime; Area Efficiency; Design Diversity; FPGAs; Fault Tolerance; Hypergraphs; Reconfigurable Systems; Reliability (ID#: 16-9603) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7336313&isnumber=7336120
+
+Title: "A Cost and Contention Conscious Scheduling for Recovery in Cloud Environment," 
+DOI: 10.1109/HPCC-CSS-ICESS.2015.325
+Keywords: DP industry; cloud computing; costing; genetic algorithms; scheduling; system recovery; CC model; cloud computing model; cloud environment; computational resources; contemporary IT industry; contention conscious scheduling; cost; failure recovery; genetic algorithm; Arrays; Cloud computing; Genetic algorithms; Processor scheduling; Program processors; Schedules; Servers; Task scheduling; parallel computing; recovery time; big data; cloud computing (ID#: 16-9604) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7336139&isnumber=7336120
+
+Title: "Self-aware Cyber-Physical Systems-on-Chip," 
+DOI: 10.1109/ICCAD.2015.7372548
+Keywords: actuators ;cyber-physical systems; sensors; statistical analysis; system-on-chip; SoC adaptation; communication infrastructure; computing infrastructure; control infrastructure; cross layer sensing; cross-layer actuation; dynamic operational behaviors; health monitoring; intelligent codesign; physical environment; quality-of-service; self-aware SoC; self-aware cyber-physical system-on-chip; sensor-actuator rich fabric; statistical model-building; system behavior; ubiquitous actuation; ubiquitous sensing; workload variabilities; Computational modeling; Computer architecture; Context; Predictive models; Sensors; Software; System-on-chip (ID#: 16-9605) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7372548&isnumber=7372533
+
+Title: "Impact of Wind Turbine Generator Type in Large-Scale Offshore Wind Farms on Voltage Regulation in Distribution Feeders," 
+DOI: 10.1109/ISGT.2015.7131785
+Keywords: offshore installations; power distribution control; static VAr compensators; voltage control; wind power plants; wind turbines; GE wind machines; General Electric wind machines; POI; SVC; distribution feeders; distribution system models; interconnected power system; large-scale offshore wind farms; points of interconnection; static VAr compensator; transmission system models; voltage regulation; wind turbine generator; Generators; Indexes; Power system stability; Static VAr compensators; Voltage control; Wind farms; Wind power generation; DFIG; Induction Machine; Offshore Wind; Synchronous Machine; Voltage Regulation; Wind Integration (ID#: 16-9606) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7131785&isnumber=7131775
+
+Title: "Panel 2: Connected Electrified Vehicles and Cybersecurity," 
+DOI: 10.1109/ITEC.2015.7165725
+Keywords: (not provided) (ID#: 16-9607) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7165725&isnumber=7165721
+
+Title: "Cloud Storage Infrastructure Optimization Analytics," 
+DOI: 10.1109/IC2E.2015.83
+Keywords: cloud computing; data analysis; optimisation; Analytics as a Service; OpenStack based platform; SaaS model; Software as a Service; cloud computing; cloud delivery models; cloud storage infrastructure optimization analytics; data analytical capabilities; data analytics; data planes; management metric data system; management platform system; operational enterprise data center; performance optimizations; software defined environments; value proposition; Big data; Cloud computing; Computer science; Conferences; Optimization; Software as a service; Storage management (ID#: 16-9608) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7092904&isnumber=7092808
+

@@ -1,0 +1,200 @@
+Title: "Web Bots that Mimic Human Browsing Behavior on Previously Unvisited Web-Sites: Feasibility Study and Security Implications," 
+DOI: 10.1109/CNS.2015.7346921
+Keywords: Internet; Poisson distribution; Web sites; Poisson distribution; Web bots; Web-sites; Zipf distribution; human-like browsing behavior; interest-driven process; Computer hacking; Electronic mail; History; Internet; Software; Web pages; bot modeling; interest-driven human browsing (ID#: 16-9609) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7346921&isnumber=7346791
+
+Title: "Integrating Human Behavior Into the Development of Future Cyberterrorism Scenarios," 
+DOI: 10.1109/ARES.2015.105
+Keywords: computer crime; human factors; terrorism; cyber threats; cyberterrorism scenarios; digital technologies; human behavior; psychological force; social force; Computer crime; Computer hacking; Organizations; Predictive models; Psychology; Terrorism; cyberterrorism; motivation; psychological; scenario; social (ID#: 16-9610) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7299981&isnumber=7299862
+
+Title: "Sentences and Circumplexes: Prediction of Human Behaviour and Human Emotional States in Social Media," 
+DOI: 10.1109/ICGCIoT.2015.7380508
+Keywords: Internet; behavioural sciences computing; computer games; mobile computing; social networking (online);Internet services; artificial intelligence; emotional state; human behaviour prediction; human emotional states; mobile application; social media; video games; Predictive models; Circumplex; emotional granularity; facial recognition; optical character recognition; social trends; voice recognition (ID#: 16-9611) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7380508&isnumber=7380415
+
+Title: "Mining Minds: An Innovative Framework for Personalized Health and Wellness Support," 
+DOI: 10.4108/icst.pervasivehealth.2015.259083
+Keywords: Big Data; Internet of Things; cloud computing; data mining; health care; Internet of Things; Mining Minds; big data; cloud computing; context-awareness; digital health and wellness paradigms; digital technologies; domain-specific contributions; health and wellness care; knowledge analytics; knowledge bases; personalized health and wellness support; traditional care procedures; wearables; Biomedical monitoring; Data mining; Medical services; Mobile communication; Monitoring ;Privacy; Security; big data; cloud computing; context-awareness; digital health; human behavior; knowledge bases; quantified-self; user experience (ID#: 16-9612) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7349350&isnumber=7349344
+
+Title: "Protecting Critical Cloud Infrastructures with Predictive Capability," 
+DOI: 10.1109/CLOUD.2015.165
+Keywords: cloud computing; critical infrastructures; data protection; inference mechanisms; security of data; Nash equilibrium; adversarial models; critical cloud infrastructures; cyber system security breaches; game theory; intelligent cyber defense approaches; predictive defense; proactive protection approaches; probabilistic human behaviors; probabilistic reasoning; Accuracy; Bayes methods; Game theory; Measurement; Organizations; Probabilistic logic; Security; Critical cloud infrastructures; predictive defense; pro-active protection; probabilistic human behaviors; probabilistic reasoning; security breaches (ID#: 16-9613) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7214175&isnumber=7212169
+
+Title: "Next Generation of Impersonator Bots: Mimicking Human Browsing on Previously Unvisited Sites," 
+DOI: 10.1109/CSCloud.2015.93
+Keywords: Internet; Poisson distribution; Web sites; computer crime; invasive software; IDS; Poisson distribution; Web bots; Web-site; Zipf distribution; human behavior; human browsing behavior; human-like behaving bots; human-like browsing behavior; impersonator bot; intrusion detection system; network protection; next generation; random crawling strategy; security defender; security spectrum-malicious hacker; system protection; unvisited site; Computer hacking; History; Internet; Predictive models; Web pages; bot modeling; interest-driven human browsing (ID#: 16-9614) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7371507&isnumber=7371418
+
+Title: "An Immersive Collaborative Virtual Environment of a University Campus for Performing Virtual Campus Evacuation Drills and Tours for Campus Safety," 
+DOI: 10.1109/CTS.2015.7210404
+Keywords: educational institutions; groupware; helmet mounted displays; multi-agent systems; safety; virtual reality; Oculus Rift head mounted displays; VR environment; autonomous agents; campus safety; computer simulated agents; crowd behavior control; emergency response; experimental design approach; human behavior; immersive VR head set; immersive collaborative virtual reality environment; multiuser virtual reality environment; university campus; virtual campus evacuation drills; virtual campus evacuation tours; virtual online campus tours; Buildings; Computational modeling; Computers; Servers; Solid modeling; Three-dimensional displays; Virtual reality; behavior simulation; collaborative virtual environment; evacuation; virtual reality (ID#: 16-9615) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7210404&isnumber=7210375
+
+Title: "Gesture Recognition Toolkit Using a Kinect Sensor," 
+DOI: 10.1109/ICCP.2015.7312678
+Keywords: Bayes methods; computer vision; gesture recognition; human computer interaction image classification; Bayesian classifier; Kinect sensor; computer vision; dynamic time warping algorithm; gesture recognition toolkit; human behavior; human computer interaction; Face; Gesture recognition; Heuristic algorithms; Joints; Thumb; Yttrium; Kinect; Na�ve Bayes classifier; depth map; dynamic time warping; gesture recognition; human computer interaction (ID#: 16-9616) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7312678&isnumber=7312586
+
+Title: "Reality Mining Based on Social Network Analysis," 
+DOI: 10.1109/ICCICT.2015.7045752
+Keywords: data mining; feature extraction; mobile handsets; sensor fusion; social networking (online);spatiotemporal phenomena; Facebook; Gephi tools; Netviz tools; RFID readers; Weka tools; hidden predictive information extraction; human physical activity; human social activity; human social behavior; mobile phone sensed data; reality mining; security cameras; social network analysis; spatiotemporal data mining; Computers; Data mining; Educational institutions; Facebook; Mobile handsets; Spatial databases; Data Mining; Reality Mining; Social Network Analysis (ID#: 16-9617) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7045752&isnumber=7045627
+
+Title: "The Human Threat," 
+DOI: 10.1049/ic.2015.0056
+Keywords: organisational aspects; security; QinetiQ; human behaviour; human threat; organisational factors; security-related outcomes (ID#: 16-9618) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7329640&isnumber=7202761
+
+Title: "Facial Stereotypes and Perceived Mental Illness," 
+DOI: 10.1109/EST.2015.25
+Keywords: image representation; medical disorders; psychology; EvoFIT facial-composite system; computer-based rating scale; criminal types; facial stereotypes; human behaviour; human perception; inflated PMI scale; perceived mental illness; synthetic faces; synthetic male faces; three-stage face-perception; veridical faces; Face; Law enforcement; Psychology; Security; Shape; Sociology; Statistics; perceived mental illness; stereotype; victimisation; serious crime; EvoFIT (ID#: 16-9619) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7429272&isnumber=7429252
+
+Title: "Analysis on Urban Collective Call Behavior to Earthquake," 
+DOI: 10.1109/HPCC-CSS-ICESS.2015.71
+Keywords: earthquakes; mobile handsets; socio-economic effects; calling center services; complex socioeconomic phenomena; degree distribution method; disease control; earthquake; information recommendation; mobile phone characteristics; pattern difference; public opinion monitoring; ratio analysis; transportation system; urban collective call behavior analysis; Cities and towns; Earthquakes; Embedded systems; Indexes; Mobile communication; Mobile handsets; Probability distribution; Emergency; calling behavior; degree distribution; ratio (ID#: 16-9620) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7336347&isnumber=7336120
+
+Title: "Behavior tracking model in dynamic situation using the risk ratio EM," 
+DOI: 10.1109/ICOIN.2015.7057942
+Keywords: behavioural sciences computing; closed circuit television; expectation-maximisation algorithm; feature extraction; object detection; object recognition; object tracking; CCTV system; Viterbi algorithm; abnormal behavioral tracking model; abnormal situation prediction; closed circuit television; decision making; expectation maximization algorithm; feature extraction; knowledge update; location information; object detection; risk rate maximisation; risk ratio EM algorithm; Computational modeling ;Decision making; Event detection; Meteorology; Safety; Trajectory; Videos; CCTV; Expectation Maximization (EM); Tracking Abnormal behavior (ID#: 16-9621) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7057942&isnumber=7057846
+
+Title: "A Hierarchical Approach for Identifying User Activity Patterns from Mobile Phone Call Detail Records," 
+DOI: 10.1109/NSysS.2015.7043535
+Keywords: mobile handsets; telecommunication network planning; Dhaka city; mobile devices; mobile operator; mobile phone call detail records; traffic monitoring; transportation planning; urban planning; Analytical models; Cities and towns; Data models; Employment Mobile handsets; Poles and towers; Transportation (ID#: 16-9622) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7043535&isnumber=7042935
+
+Title: "Liar, Liar, IM on Fire: Deceptive Language-action Cues in Spontaneous Online Communication," 
+DOI: 10.1109/ISI.2015.7165960
+Keywords: Internet; computer games; computer mediated communication; interactive systems; regression analysis; CMC; computer mediated communication; intentional deception identification; interactive online game; language-action cue; linear regression analysis; online communication; Computer mediated communication; Computer science; Detectors; Games; Linear regression; Media; Pragmatics; computer-mediated communication; interpersonal deception theory; language-action features; regression analysis (ID#: 16-9623) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7165960&isnumber=7165923
+
+Title: "Identifying Gaps in IT Retail Information Security Policy Implementation Processes," 
+DOI: 10.1109/InfoSec.2015.7435517
+Keywords: Collaboration; Companies; Computer hacking; Human factors; Industries; ability; acceptance; accountability; benevolence; collaboration; communication; human factor; integrity; knowledge; management workflows; organizational aspects; policies; procedures; retail industry; security awareness; social engineering; technological controls; training; transparency; trust; trust factors; understanding; visibility (ID#: 16-9624) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7435517&isnumber=7435496
+
+Title: "Interacting Multiple Model-Based Human Motion Prediction for Motion Planning of Companion Robots," 
+DOI: 10.1109/SSRR.2015.7443013
+Keywords: Computational modeling; Hidden Markov models; Mathematical model; Planning; Predictive models; Robot sensing systems (ID#: 16-9625) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443013&isnumber=7442936
+
+Title: "Twitter Fingerprints as Active Authenticators," 
+DOI: 10.1109/ICDMW.2015.223
+Keywords: authorisation; data analysis; data mining; learning (artificial intelligence);social networking (online); F-score; Reddit; Twitter fingerprints; Twitter-specific behavioral features; Web analytics; Web browsing behavior; active authentication; cognitive fingerprints; data mining technique; machine learning technique; user behavior aggregation; user interaction; Conferences; Data mining; active authentication; cognitive fingerprints; web analytics (ID#: 16-9626) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7395653&isnumber=7395635
+
+Title: "Awareness, Behaviour and Culture: The ABC in Cultivating Security Compliance," 
+DOI: 10.1109/ICITST.2015.7412064
+Keywords: cultural aspects; security of data; ABC; confidentiality; organization productivity; organizational assets; security aware individuals; security awareness; security breaches; security compliance; security compliant; security controls; security culture tools; Computers; Current measurement; Education; Information security; Internet; Organizations; Security awareness; organisational culture; security behaviour; security culture (ID#: 16-9627) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7412064&isnumber=7412034
+
+Title: "Dominant Behavior Identification of Load Data," 
+DOI: 10.1109/CCAA.2015.7148361
+Keywords: Internet; program testing; IP address; Web applications; load data; load testing problems; performance testing; Automation; Conferences; IP networks; Load modeling; Software; Stress; Testing; IP address; dominant behavior; load data; logs (ID#: 16-9628) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7148361&isnumber=7148334
+
+Title: "BioAIM: Bio-inspired Autonomous Infrastructure Monitoring," 
+DOI: 10.1109/MILCOM.2015.7357539
+Keywords: Markov processes; autonomous aerial vehicles; fault diagnosis; radio networks; BioAIM; Markov Chain; anomalous behavior; bio-inspired artificial intelligence reconfiguration system; bio-inspired autonomous infrastructure monitoring; natural interference; natural weather phenomena; unmanned airborne nodes; wireless communication network; Biological system modeling; Biosensors; Maintenance engineering; Measurement; Monitoring; Predictive models; Adaptive systems; Cognition; Command and control systems; Communication networks; Cyber Security; Fault detection; Fault tolerant systems; Intelligent control; Unmanned Aerial Vehicles (ID#: 16-9629) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7357539&isnumber=7357245
+
+Title: "Decoding, Hacking, And Optimizing Societies: Exploring Potential Applications of Human Data Analytics in Sociological Engineering, Both Internally and as Offensive Weapons," 
+DOI: 10.1109/SAI.2015.7237195
+Keywords: Big Data; computer crime; data analysis; social sciences computing; Big Data; forecasting behavior; governmental control; human data analytics; human function dynamics; offensive weapons; personal information extrapolation; predictive models; society decoding; society hacking; society optimization; sociological engineering; Accuracy; Facebook; Forecasting; Government; Media; Prediction algorithms; Predictive models; big data; cognitive security; computational sociology; machine learning; privacy; sentiment analysis; surveillance (ID#: 16-9630) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7237195&isnumber=7237120
+
+Title: "An Autonomic Approach to Extend the Business Value of a Legacy Order Fulfillment System," 
+DOI: 10.1109/SYSCON.2015.7116816
+Keywords: enterprise resource planning; service-oriented architecture; software maintenance; ERP systems; autonomic approach; autonomic behavior; autonomic control loop design; autonomic software component; business value; error-prone manual process; human error; human monitoring; hybrid systems; legacy multichannel commerce enterprise resource planning system; legacy order fulfillment system; legacy software systems; order fulfillment workflow; retailing industry; service-oriented architecture; software applications; software engineering; third party security screening provider; Business; Complexity theory; Databases; Manuals; Monitoring; Software systems; autonomic computing; legacy software systems; self-adaptive systems; self-managing systems; service-oriented architecture; software evolution; software maintenance; systems interoperability; systems of systems (ID#: 16-9631) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7116816&isnumber=7116715
+
+Title: "Ecology-Inspired Cyber Risk Model for Propagation of Vulnerability Exploitation in Tactical Edge," 
+DOI: 10.1109/MILCOM.2015.7357465
+Keywords: human factors; military communication; mobile ad hoc networks; multi-agent systems; telecommunication computing; telecommunication network reliability; time-varying systems; dynamic adaptive ecosystem-inspired model; ecology-inspired cyber risk model; human-machine systems; mobile systems; mobile users; multiagent epidemic model; nonphysical influence propagation; risk flow; risk propagation; socio-technical system complexity; synthetic battlefield simulation; tactical cyber assurance; tactical edge; tactical network; time-varying parameter; user-behavior; vulnerability exploitation propagation; Biological system modeling; Computational modeling; Computer security; Ecosystems; Risk management; Timing; Unified modeling language; Agent-based simulation; Ecological modeling; Epidemic system; Risk propagation; Tactical edge network (ID#: 16-9632) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7357465&isnumber=7357245
+
+Title: "Face Image CAPTCHA Generation Using Particle Swarm Optimization Approach," 
+DOI: 10.1109/ICETECH.2015.7275016
+Keywords: face recognition; genetic algorithms; particle swarm optimisation; security of data; PSO; bionic algorithm; face image captcha generation; fake images; genetic algorithm; local convergence problem; particle swarm optimization approach; social behavior; Authentication; CAPTCHAs; Distortion; Face; Feature extraction; Particle swarm optimization; CAPTCHA; Distorted Image; Face Images; Particle Swarm Optimization (ID#: 16-9633) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7275016&isnumber=7274993
+
+Title: "Understanding and Monitoring Embedded Web Scripts," 
+DOI: 10.1109/SP.2015.57
+Keywords: Internet; data privacy; online front-ends; security of data; Policy Generator; Script Inspector; Visualizer tool; Web application; Web browser; Web script; critical resource access; private user information; security policy; third-party script; Advertising; Browsers; Monitoring; Privacy; Robustness; Security; Visualization; Anomaly Detection; Security and Privacy Policy; Web security and Privacy (ID#: 16-9634) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7163064&isnumber=7163005
+
+Title: "A First Simulation on Optimizing EDS for Cabin Baggage Screening Regarding Throughput," 
+DOI: 10.1109/CCST.2015.7389657
+Keywords: X-ray imaging; airports; discrete event simulation; explosive detection; national security; parameter estimation; EDS optimization; ETD; X-ray images; X-ray screeners; airport security screening; alarm resolution durations; cabin baggage screening process; discrete event simulation; explosive detection systems; explosives trace detection; false alarm rates; human-machine interaction; model parameter estimation; secure air transportation; work analysis; Explosives; Image resolution; Manuals; Security; Throughput; Training; X-ray imaging; aviation security; discrete event simulation; explosive detection systems (EDS);human factors; throughput (ID#: 16-9635) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7389657&isnumber=7389647
+
+Title: "Extending Manual GUI Testing Beyond Defects by Building Mental Models of Software Behavior," 
+DOI: 10.1109/ASEW.2015.17
+Keywords: Android (operating system); graphical user interfaces; program testing; software quality; Android apps; manual GUI testing; mental models; security assessment; software behavior; software defects; software development process; software quality assurance activities; Androids; Cognitive science; Graphical user interfaces; Humanoid robots; Security; Software; Testing (ID#: 16-9636) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7426634&isnumber=7426613
+
+Title: "Investigation Of Security Awareness on E-Learning System Among Lecturers and Students in Higher Education Institution," 
+DOI: 10.1109/I4CT.2015.7219569
+Keywords: Internet; computer aided instruction; further education; security of data; International Islamic University Malaysia; Internet technologies; e-learning system; higher education; information security; lecturers; security awareness; students; Computers; Electronic learning; Electronic mail; Information security; Internet; awareness; behaviors; e-learning; security; students; threats (ID#: 16-9637) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7219569&isnumber=7219513
+
+Title: "Studying Resilient Cyber Incident Management from Large-Scale Cyber Security Training," 
+DOI: 10.1109/ASCC.2015.7244713
+Keywords: human factors; risk management; security of data; ENCS; European Network for Cyber Security; NL; The Hague; cyber crisis management; cyber incident management; cyber resilience; cyber security risk management; human-factor; large-scale cyber security hands-on training; resilience-engineering framework; Computer security; Games; Monitoring; Organizations; Resilience; Training; critical infrastructure; cyber security; management; resilience engineering (ID#: 16-9638) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7244713&isnumber=7244373
+
+Title: "Suspicious Face Detection Based on Eye and other Facial Features Movement Monitoring," 
+DOI: 10.1109/AIPR.2015.7444523
+Keywords: Face; Feature extraction; Iris recognition; Monitoring; Nose; Tracking; Visualization (ID#: 16-9639) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7444523&isnumber=7444521
+
+Title: "Classification of Unconscious Like/Dislike Decisions: First Results Towards a Novel Application for BCI Technology," 
+DOI: 10.1109/EMBC.2015.7318860
+Keywords: bioelectric potentials; brain-computer interfaces; electroencephalography; human computer interaction; neurophysiology; signal classification; EEG-based BCI technology; ERP analysis; arbitrary brain activity; brain-computer interface; car stimuli; human-machine interaction ;linear discriminant analysis; mental state; neuromarketing research; offline BCI; passive BCI; shrinkage LDA classification; unconscious like-dislike decision classification; Automobiles; Brain; Brain-computer interfaces; Electrodes; Electroencephalography; Neuroscience; Physiology (ID#: 16-9640) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7318860&isnumber=7318236
+
+Title: "A Supervisory Control Method for Multi-Robot Task Allocation in Urban Search and Rescue," 
+DOI: 10.1109/SSRR.2015.7443000
+Keywords: Automata; Mathematical model; Resource management; Robot kinematics; Robot sensing systems; Supervisory control (ID#: 16-9641) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443000&isnumber=7442936
+
+Title: "A Real-Time Network Traffic Anomaly Detection System Based on Storm," 
+DOI: 10.1109/IHMSC.2015.152
+Keywords: IP networks; cloud computing; computer network security; distributed databases; social networking (online); HDFS; Hadoop distributed file system; Twitter Storm; abnormal network behavior detection; cloud computing platform; cluster system; compound session; personal information; real-time network traffic anomaly detection system; Downlink; Fasteners; Monitoring; Real-time systems; Storms; Telecommunication traffic; Uplink; Compound Session; Hadoop platform; Twitter Storm; enterprise user's behavior; host analytics (ID#: 16-9642) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7334673&isnumber=7334628
+
+Title: "Security vs. Safety: Why Do People Die Despite Good Safety?," 
+DOI: 10.1109/ICNSURV.2015.7121213
+Keywords: national security; protection; safety systems; security of data; sustainable development; authentication; cyber attacks; failure; national sustainability; protection; safety; system security principles; threat scanning; threat sustainable system; trust; Buildings; Control systems; Safety; Software; Terrorism; Transportation (ID#: 16-9643) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7121213&isnumber=7121207
+
+Title: "Comparison Between Mixed Binary Classification and Voting Technique for Active User Authentication Using Mouse Dynamics," 
+DOI: 10.1109/ICCNEEE.2015.7381378
+Keywords: behavioural sciences computing; government data processing; learning (artificial intelligence);mouse controllers (computers);pattern classification; security of data; support vector machines; FAR; SVM; active user authentication; behavioral biometrics; false acceptance rate; learning time; mixed binary classification; mouse dynamics; support vector machine; voting technique; Artificial neural networks; Biometrics (access control); active authentication; machine learning; mouse dynamics; pattern recognition; support vector machines (ID#: 16-9644) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7381378&isnumber=7381351
+
+Title: "Event Triggered Malware: A New Challenge to Sandboxing," 
+DOI: 10.1109/INDICON.2015.7443327
+Keywords: Browsers; Malware; Monitoring; Operating systems; Organizations; Security; Virtual machining; anubis; cuckoo; dynamic analysis; malware analysis; malwr; sandbox; static analysis (ID#: 16-9645) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7443327&isnumber=7443105
+
+Title: "A New Method for Human Action Recognition: Discrete HMM with Improved LBG Algorithm," 
+DOI: 10.1109/ICASID.2015.7405672
+Keywords: gesture recognition; hidden Markov models; simulated annealing; vector quantisation; video coding; HMM algorithm; LBG algorithm; VQ algorithm; discrete HMM; empty cavity processing algorithm; global optimal codebook; hidden Markov model algorithm; human action recognition; multiframes video; simulated annealing algorithm; speech recognition; vector quantization algorithm; HMM; LBG; action recognition; codebook; empty cavity split; simulated annealing; vector quantitation (ID#: 16-9646) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7405672&isnumber=7405648
+
+Title: "A Detection System to Counter Identity Deception in Social Media Applications," 
+DOI: 10.1109/ICCPCT.2015.7159321
+Keywords: groupware; social networking (online); Internet; Wikipedia; collaborative Web sites; collaborative project; collaborative sites; human deception detection; identity deception detection; nonverbal behavior; post examination; social media applications; social media services; social networking sites; sockpuppet; Accuracy; Collaboration; Electronic publishing; Encyclopedias; Internet; Media; Deception; accuracy; nonverbal and verbal behavior; security; sockpuppet (ID#: 16-9647) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7159321&isnumber=7159156
+
+Title: "Maritime Situation Analysis Framework: Vessel Interaction Classification and Anomaly Detection," 
+DOI: 10.1109/BigData.2015.7363883
+Keywords: data analysis; hidden Markov models; learning (artificial intelligence); marine engineering; marine vehicles; pattern classification; probability; security; support vector machines; surveillance; traffic engineering computing; anomaly detection; complex vessel trajectory analysis; contextual information; data fusion; geospatial features; information fusion; innovative intelligent systems; interactive situation analysis; kinematic features; left-to-right hidden Markov models; machine learning; marine traffic data analysis; maritime domain awareness; maritime domain knowledge; maritime situation analysis framework; pattern classification; pattern representation; probabilistic processes; routine surveillance operations; security; support vector machines; vessel engagement; vessel interaction classification; vessel tracking data; Geospatial analysis; Hidden Markov models; Kinematics; Security; Surveillance; Time series analysis; Trajectory; Anomaly Detection; Big Data; Critical Infrastructure Protection; Intelligent Systems; Machine Learning; Maritime Domain Awareness (ID#: 16-9648) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7363883&isnumber=7363706
+

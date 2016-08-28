@@ -1,0 +1,240 @@
+﻿Title: "Estimation of Aboveground Biomass from Satellite Data Using Quaternion-Based Texture Analysis of Multi Chromatic Images," 
+DOI: 10.1109/SITIS.2015.97
+Keywords: Fourier transforms; chromatography; forestry; geophysical techniques; regression analysis; rocks; support vector machines; Cameroonian forest; aboveground biomass estimation; classical Fourier texture ordination model; color images; color texture indices; forest carbon stocks; multichromatic satellite data; multichromatic satellite images; quaternion Fourier transform; quaternion numbers; quaternion wavelets; quaternion-based texture analysis; radial spectrum; support vector regression method; texture-color descriptor; Biological system modeling; Biomass; Color;Estimation; Fourier transforms; Quaternions; Satellites; aboveground biomass; color image; color-texture; discrete quaternion Fourier transform; multi chromatic satellite image (ID#: 16-9848) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7400547&isnumber=7400513
+
+Title: "Applebaum Adaptive Array Apertures with 2-D IIR Space-Time Circuit-Network Resonant Pre-Filters," 
+DOI: 10.1109/RADAR.2015.7131070
+Keywords: IIR filters; MIMO communication; adaptive signal processing; array signal processing; signal denoising; two-dimensional digital filters; 2D IIR space-time circuit-network resonant pre-filters; MIMO system; RF electronics; angle-dependent levels; applebaum adaptive array apertures; applebaum adaptive beamformer; complex-manifolds; digital signal processor; directional receive mode beamforming; improved noise rejection; interference rejection; low complexity space-time network-resonant IIR beamfiler; multiple input multiple output linear multidimensional recursive discrete system; output SINR; spatial selectivity; zero-manifold-only transfer function; Adaptive arrays; Array signal processing; Arrays; Interference; Signal to noise ratio; Transfer functions;2-D IIR beamfilter; Antenna arrays; Applebaum beamformer; SINR improvement (ID#: 16-9849) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7131070&isnumber=7130933
+
+Title: "From Antennas to Multi-Dimensional Data Cubes: The SKA Data Path," 
+DOI: 10.1109/ICASSP.2015.7179052
+Keywords: antenna arrays; array signal processing; astronomy computing; data handling; radioastronomical techniques; SDP element; SKA data path; multidimensional data cubes; online HPC data reduction; radio antenna arrays; radio astronomy; science data processor element; Array signal processing; Arrays; Australia; Correlators; Pipelines; Radio astronomy; Standards; Radio Astronomy; Square Kilometre Array; data management; data processing (ID#: 16-9850) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7179052&isnumber=7177909
+
+Title: "Quadrature-Based Credible Set Estimation for Radar Feature Extraction," 
+DOI: 10.1109/RADAR.2015.7131145
+Keywords: Gaussian processes; decision making; feature extraction; maximum likelihood estimation; radar target recognition; signal sampling; synthetic aperture radar; vectors; ATR algorithm; Gaussian quadrature; MAP estimation; QBCSE scheme; automatic target recognition; call credible sets; canonical shape feature models; confidence values; decision-making; feasible parameter values; maximum a posteriori estimation; multidimensional posteriors; multimodal posteriors; physically-relevant features; probability mass functions; probability space; quadrature-based credible set estimation; radar feature extraction; sampling methods; single parameter value; synthetic aperture radar phase history; vector; zoom-in approach; Accuracy; Estimation; Feature extraction; Graphics processing units; Probability density function; Radar; Shape; Bayesian estimation; automatic target recognition; credible set; quadrature; radar feature extraction (ID#: 16-9851) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7131145&isnumber=7130933
+
+Title: "Parallel Software Implementation of Recursive Multidimensional Digital Filters for Point-Target Detection in Cluttered Infrared Scenes," 
+DOI: 10.1109/ICASSP.2015.7178137
+Keywords: filtering theory; image sequences; object detection; 3D autocorrelation function; CPU; GPU; cluttered infrared scenes; finite impulse responses; graphical processing unit; high-pass velocity-selective spatiotemporal filters; local 3D spectrum; local velocity estimates; multicore central processing unit; optical flow-field; point-target detection; recursive multidimensional digital filters; Central Processing Unit; Digital filters; Discrete Fourier transforms; Filter banks; Graphics processing units; Optical filters; Spatiotemporal phenomena; Digital filter; Image processing; Multithreading; Optical flow; Recursive spectrum; Whitening (ID#: 16-9852) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178137&isnumber=7177909
+
+Title: "Improved Spectral Sensing in Cognitive Radios using Photonic-Based Principal Component Analysis," 
+DOI: 10.1109/ICSPCS.2015.7391750
+Keywords: cognitive radio; microwave photonics; principal component analysis; radio spectrum management; signal processing; 8-channel signals; cognitive radios; interchannel correlations; microwave photonic system; partially correlated signals; photonic-based principal component analysis; spectral sensing; Bandwidth; Correlation; Microwave communication; Microwave filters; Microwave photonics; Principal component analysis; Analog Signal Processing; Microwave Photonics; RF Photonics (ID#: 16-9853) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7391750&isnumber=7391710
+
+Title: "Bayesian identification of LPV Box-Jenkins models," 
+DOI: 10.1109/CDC.2015.7402087
+Keywords: Bayes methods; Gaussian processes; asymptotic stability; autoregressive moving average processes; linear parameter varying systems; parameter estimation; random processes; signal denoising; transient response; ARX noise structure; Bayesian identification; IIR subpredictor identification; LPV Box-Jenkins models; LPV-ARX simulation example; LPV-BJ simulation example; Monte Carlo study; asymptotic infinite impulse response model stability; covariance function; empirical Bayes approach; general LPV-BJ structures; impulse response; input signals; linear parameter-varying input-output models; multidimensional Gaussian kernel; nonparametric approach; one-step-ahead predictor model; output signals; time evolution; unknown hyperparameters; zero-mean Gaussian random field; Asymptotic stability; Bayes methods; Computational modeling; Estimation; Kernel; Optimization; Predictive models (ID#: 16-9854) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7402087&isnumber=7402066
+
+Title: "Superpixel Regions Extraction for Target Detection," 
+DOI: 10.1109/ICSPCC.2015.7338955
+Keywords: feature extraction; image resolution; image segmentation; iterative methods; military systems; object detection; remote sensing; complex background interference; computer vision; data dimensionality reduction; false probability; high-resolution remote sensing images; local feature; multidimensional description vector; pixel-level target detection; search space; simple linear iterative clustering ;superpixel regions extraction; superpixel segmentation; superpixel-level; target region detection target rotation; traditional sliding windows search algorithm; visual saliency map detection; Aircraft; Feature extraction; Image color analysis; Image segmentation; Object detection; Remote sensing; Shape; Remote sensing images; feature extraction; superpixel segmentation; target detection; visual saliency (ID#: 16-9855) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7338955&isnumber=7338753
+
+Title: "Quantized Feedback Control for a Class of 2-D Systems with Missing Measurements," 
+DOI: 10.1109/ChiCC.2015.7260113
+Keywords: H8 control; closed loop systems; control system synthesis; feedback; linear matrix inequalities; multidimensional systems; networked control systems; stability; stochastic processes; uncertain systems; Bernoulli distributed stochastic variable; Roesser model; closed-loop system; data missing phenomenon; linear matrix inequalities technique; logarithmic quantizer; missing measurement; network-based 2D system; quantized H8 control problem; quantized feedback control problem; quantized feedback controller design; sector-bounded uncertainties; stochastic stability; sufficient condition; Asymptotic stability; Closed loop systems; Feedback control; Quantization (signal); Sufficient conditions; Symmetric matrices;2-D systems; H8 control; missing measurements; networked control systems; quantized control (ID#: 16-9856) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7260113&isnumber=7259602
+
+Title: "Feature Reduction of Multi-scale LBP for Texture Classification," 
+DOI: 10.1109/IIH-MSP.2015.79
+Keywords: feature extraction; image classification; image texture; CURet; MS-LBP generation; Outex; feature reduction method; high-feature dimension; joint MS-LBP histogram; local binary pattern; local neighborhood; low-feature dimension; multidimensional histogram; multiscale LBP; neighborhood radii; one-dimensional histogram; pixel relationship; texture classification; texture descriptor modeling; Correlation; Databases; Feature extraction; Hamming distance; Histograms; Lighting; Robustness; Local binary pattern (LBP);feature reduction; multi-scale LBP (MSLBP);texture classification (ID#: 16-9857) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7415840&isnumber=7415733
+
+Title: "Improved Estimation of Canonical Vectors in Canonical Correlation Analysis," 
+DOI: 10.1109/ACSSC.2015.7421463
+Keywords: data analysis; statistical analysis; vectors; CCA; canonical correlation analysis; canonical vectors estimation; numerical simulation; random matrix theory; sample deficient regime; Correlation; Covariance matrices; Data models; Matrices; Signal processing algorithms; Sociology (ID#: 16-9858) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7421463&isnumber=7421038
+
+Title: "Lyapunov Theory for Continuous 2D Systems with Variable Delays: Application to Asymptotic and Exponential Stability," 
+DOI: 10.1109/ICoSC.2015.7153308
+Keywords: Lyapunov methods; asymptotic stability; delay systems; linear matrix inequalities; multidimensional systems; 2D Roesser-like model; Lyapunov theory; Lyapunov-Krasovskii functional; asymptotic stability; continuous 2D system; exponential stability; linear matrix inequality; sufficient condition; two dimensional system; variable delay; variable independent delay; Asymptotic stability; Boundary conditions; Control theory; Delays; Signal processing; Stability analysis;2D systems; Lyapunov-Krasovskii functional; Roesser model; variable delays (ID#: 16-9859) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7153308&isnumber=7152706
+
+Title: "High Frequency HEMT Modeling Using Artificial Neural Network Technique," 
+DOI: 10.1109/NEMO.2015.7415085
+Keywords: electronic engineering computing; equivalent circuits; high electron mobility transistors; neural nets; semiconductor device models; ANN modeling techniques; FET; HEMT modeling; MLP; RFIC design; artificial neural network modeling techniques; artificial neural network technique; computer-aided radio frequency integrated circuit design; differential techniques; equivalent circuit modeling; field effect transistor; integration techniques microwave diodes; microwave transistors; multilayer perceptrons; space-mapped neuromodeling techniques; Artificial neural networks; Computational modeling; HEMTs; Integrated circuit modeling; Microwave circuits; Microwave transistors; ANN; device; modeling (ID#: 16-9860) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7415085&isnumber=7414988
+
+Title: "An Analysis Model for Spatial Information in Multi-scales," 
+DOI: 10.1109/SIP.2015.15
+Keywords: data analysis; regression analysis; spatial data structures; data structure; multidimensional spatial analysis; multilevel integrated analysis model; regression model; spatial dependence; spatial heterogeneity; spatial information; spatial scale effect; Analytical models; Correlation; Data models; Economics; Information science; Mathematical model; Urban areas; Multi-Level Integrated analysis model; spatial dependence; spatial scale effect (ID#: 16-9861) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7433010&isnumber=7432994
+
+Title: "Generalized Sidelobe Cancellers for Multidimensional Separable Arrays," 
+DOI: 10.1109/CAMSAP.2015.7383769
+Keywords: antenna arrays; antenna arrays; computational complexity; generalized sidelobe cancellers; multidimensional separable arrays; signal to interference and noise ratio; Antenna arrays; Array signal processing; Arrays; Interference; Signal to noise ratio; Tensile stress; Transmission line matrix methods (ID#: 16-9862) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7383769&isnumber=7383717
+
+Title: "Anomaly Detecting in Hyperspectral Imageries Based on Tensor Decomposition with Spectral and Spatial Partitioning," 
+DOI: 10.1109/CISP.2015.7407975
+Keywords: algebra; hyperspectral imaging; CANDECOMP/PARAFAC decomposition; CPD;HSI anomaly detection; anomaly detection algorithm; finite algorithm; hyperspectral imageries; multiway arrays; spatial partitioning; spectral partitioning; tensor algebra; tensor decomposition; Algebra; Correlation; Hyperspectral imaging; Memory management; Spectral analysis; Tensile stress; CANDECOMP/PARAFAC decomposition (CPD);anomaly detection; hyperspectral image (HSI); spectral and spatial partitioning; tensor algebra (ID#: 16-9863) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7407975&isnumber=7407837
+
+Title: "Research on Multi-Dimensional N-Back Task Induced EEG Variations," 
+DOI: 10.1109/EMBC.2015.7319554
+Keywords: bioelectric potentials; electroencephalography; entropy; medical signal processing; neurophysiology; average EEG power; brain areas; brain resources; deep brain fatigue; matching task; mental fatigue; multidimensional N-back task induced EEG variations; one dimensional N-back task; power spectrum entropy; Electroencephalography; Entropy; Fatigue; Image color analysis; Instruments; Mutual information; Yttrium (ID#: 16-9864) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7319554&isnumber=7318236
+
+Title: "The Study Of CDM-BSC-Based Data Mining Driven Fishbone Applied for Data Processing," 
+DOI: 10.1109/ICSPCC.2015.7338909
+Keywords: cause-effect analysis; data mining; CDM-BSC; CRISP-DM; DMDF; data classification; data management; data mining driven fishbone; data processing methodology; mixed methodology; multidimensional-data flow; Cause effect analysis; Data mining; Data preprocessing; Metadata; CDM-BSC (CRISP-DM applied with Balance Scorecard);DMDF (data mining driven fishbone);Data mining; Data mining process; Data processing (ID#: 16-9865) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7338909&isnumber=7338753
+
+Title: "Design of a Millimeter-Wave Dish-Antenna based 3-D IIR Radar Digital Velocity Filter," 
+DOI: 10.1109/NDS.2015.7332657
+Keywords: AWGN;IIR filters; electromagnetic fields; focal planes; millimetre wave antennas; object tracking; radar signal processing; radiofrequency interference; 3D IIR radar digital velocity filter; FPA processor; FPA-fed parabolic dish antenna; SINR; additive Gaussian noise; antenna elements; electric field intensity; electromagnetic field simulator; focal plane array processor; frequency 90 GHz; millimeter wave dish antenna; mm-wave RF energy; network resonant multidimensional recursive digital velocity filter; object traveling; radar signatures; radio frequency beams; signal to interference and noise ratio; Antenna arrays; Arrays; Interference; Radar; Radar antennas; Radio frequency (ID#: 16-9866) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7332657&isnumber=7332630
+
+Title: "The Model Optimized of Mini Packaging for Quantum Dots Photodetector Readout," 
+DOI: data acquisition; elemental semiconductors; packaging; photodetectors; quantum dots; readout electronics; silicon; wireless LAN;PC software; PCB; Si; Wi-Fi interface; ceramic interposers; crosstalk; data acquisition; digital filtering; equivalent circuit model; genetic algorithms; human-computer interaction; mini packaging; network communication; optimized model; quantum dots photodetector array; readout model; readout noise; readout photoelectric response signal; silicon interposer; spectral display; substrate materials; via-with-four-line silicon interposer; via-with-one-line silicon interposer; Arrays; Integrated circuit modeling; Noise; Packaging; Photodetectors; Quantum dots; Silicon; genetic algorithms; mini packaging; miniature spectrometer; optimization model; photodetector (ID#: 16-9867) 
+Keywords: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7111081&isnumber=7110993
+URL: "On the Impact of Correlated Sampling Processes in WSNs with Energy-Neutral Operation," 
+
+Title: 10.1109/ICC.2015.7248331
+DOI: correlation methods; mean square error methods; multidimensional digital filters; sensor fusion; signal sampling; wireless sensor networks; WSN; communication scenario; correlated sampling processes; energy-harvesting; energy-neutral operation; fusion center; intertwined correlation; mean square error minimization; multidimensional linear filter; multiple EH sensor nodes; random correlation; random field; random sampling processes; resulting distortion; spatially correlation; wireless sensor networks; Batteries; Correlation; Distortion; Energy harvesting; Noise; Numerical models; Wireless sensor networks (ID#: 16-9868) 
+Keywords: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7248331&isnumber=7248285
+URL: "Voice Pathology Detection with MDVP Parameters using Arabic Voice Pathology Database," 
+
+Title: medical signal detection; signal classification; speech recognition; support vector machines; AVPD; Arabic voice pathology database; MDVP parameters; SVM classifier; acoustic features; automatic speech recognition; commercial software; multidimensional voice program; speech database; support vector machine; voice pathology detection; Accuracy; Acoustics; Databases; Pathology; Speech; Speech recognition; Support vector machines; AVPD; MDVP; MEEI; SVM; voice pathology detection (ID#: 16-9869) 
+DOI: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7176431&isnumber=7176382
+Keywords: "A Simple Method for DOA Estimation in the Presence of Unknown Nonuniform Noise," 
+URL: 10.1109/ICASSP.2015.7178479
+
+Title: covariance matrices; direction-of-arrival estimation; iterative methods; search problems; DOA estimation; arbitrary diagonal noise covariance matrix model; direction-of-arrival estimation; iterative procedure; multidimensional search; signal subspace; unknown nonuniform noise handling problem; Direction-of-arrival estimation; Direction-of-arrival (DOA) estimation; nonuniform noise; subspace estimation (ID#: 16-9870) 
+DOI: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178479&isnumber=7177909
+Keywords: "Study on Brain-Computer Interface Based on Mental Tasks," 
+URL: 10.1109/CYBER.2015.7288053
+
+Title: brain-computer interfaces; electroencephalography; medical signal processing; statistical analysis; EEG signal; Fisher distance criterion; Fisher index; Hilbert time-frequency amplitude spectrum; PZ electrode; brain computer interface; brain-computer interface technology; central parieto-occipital region; characteristic vector set; different time-frequency bands; digital EEG device; electroencephalogram signal; mental tasks; multidimensional feature vector; relaxation meditation; robot control; statistical properties; tension imagination; Accuracy; Brain-computer interfaces; Electrodes; Electroencephalography; Feature extraction; Time-frequency analysis; Transforms; EEG-based brain-computer interface (BCI); Hilbert-Huang transform; feature extraction; mental task of relaxation-meditation; mental task of tension-imagination; pattern classification (ID#: 16-9871) 
+DOI: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7288053&isnumber=7287893
+Keywords: "Soundfield Control for Consumer Device Testing," 
+URL: acoustic field; loudspeakers; microphone arrays; telecommunication equipment testing; test equipment; channel dodecahedral speaker array; consumer device testing; multidimensional system performance; pragmatic dodecahedral speaker geometry; rigid sphere microphone array; soundfield control; spatial soundfield acoustic reconstruction; spatial soundfield capture; Arrays; Couplings; Geometry; Harmonic analysis; Loudspeakers; Microphones; Testing; acoustic testing; microphone array; sound field; spatial sound; speaker array (ID#: 16-9872) 
+
+Title: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7391774&isnumber=7391710
+DOI: "Unsupervised Subjects Classification Using Insulin and Glucose Data for Insulin Resistance Assessment," 
+Keywords: diseases; medical computing; pattern classification; pattern clustering; unsupervised learning; HOMA-IR index; K-means clustering algorithm; Matsuda index; disease; glucose data; insulin data; insulin resistance assessment; unsupervised subject classification; Clustering algorithms; Diseases; Immune system; Indexes; Insulin; Sugar; Unsupervised learning (ID#: 16-9873) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7330444&isnumber=7330388
+
+Title: "2D GPR Monitoring without a Source by Interferometry in a 3D World," 
+DOI: 10.1109/IWAGPR.2015.7292612
+Keywords: array signal processing; finite difference time-domain analysis; ground penetrating radar; radar interferometry; radar signal processing;2D GPR monitoring;3D world; MDD ;finite difference time-domain solver; low-dissipative media; mobile phone radiation; multidimensional deconvolution; receiving antennas; seismic interferometry; transmitting antenna; Deconvolution; Ground penetrating radar; Interferometry; Noise; Receiving antennas; Three-dimensional displays; GPR; cross-correlation; multi-dimensional deconvolution; passive interferometry (ID#: 16-9874) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7292612&isnumber=7292607
+
+Title: "Tensor MUSIC in Multidimensional Sparse Arrays," 
+DOI: 10.1109/ACSSC.2015.7421458
+Keywords: array signal processing; parameter estimation; tensors; array processing; coprime arrays; high-order singular value decomposition; multidimensional sparse arrays; nested arrays; parameter estimation; tensor MUSIC; Covariance matrices; Multiple signal classification; Sensor arrays; Smoothing methods; Tensile stress; CANDE-COMP/PARAFAC (CP);MUSIC algorithm; Sparse arrays; high-order singular value decomposition (HOSVD) (ID#: 16-9875) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7421458&isnumber=7421038
+
+Title: "Design of Multidimensional Sensor Fusion System for Road Pavement Inspection," 
+DOI: 10.1109/IWSSIP.2015.7314236
+Keywords: ground penetrating radar; infrared imaging; radar detection; roads; sensor fusion; ultrasonics; ACU; FP7 RPB HealTec; GIS map; GPR; HDV; IRT; decision level sensor fusion; detected defects; multidimensional assessment; post processing sensor fusion system; road pavement inspection system; road pavement quality condition; road surface; Europe; Feature extraction; Ground penetrating radar; Inspection; Roads; Sensor fusion; Surface treatment; Air-Coupled Ultrasound; Ground Penetrating Radar; Infrared Thermography; Non-destructive testing; Sensor fusion (ID#: 16-9876) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7314236&isnumber=7313917
+
+Title: "Hard Decision Decoding of Single Parity Turbo Product Code with N-Level Quantization," 
+DOI: 10.1109/TSP.2015.7296433
+Keywords: AWGN channels; decoding; parity check codes; product codes; quantisation (signal); turbo codes; N-level quantization; additive white Gaussian noise channel; iterative hard decision decoding algorithm; multidimensional turbo product codes; single parity codes; single parity turbo product code; Bit error rate; Decoding ;Encoding; Iterative decoding; Product codes; Quantization (signal);HIHO decoder; N-level quantization decision; code component; iterative decoding; performance; single parity turbo product code (ID#: 16-9877) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7296433&isnumber=7296206
+
+Title: "Optimization of the Distributed K-Means Clustering Algorithm Based on Set Pair Analysis," 
+DOI: 10.1109/CISP.2015.7408139
+Keywords: data handling; optimisation; parallel programming; pattern clustering; Euclidean distance; Hadoop distributed platform; SPAB-DKMC; distributed K-means cluster algorithm; iterative method; set pair analysis; Algorithm design and analysis; Classification algorithms; Clustering algorithms; Convergence; Distributed databases; Euclidean distance; Signal processing algorithms; K-means clustering; MapReduce model; distributed algorithm; set pair analysis; similarity degree computation (ID#: 16-9878) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7408139&isnumber=7407837
+
+Title: "A Novel Computational Scheme for Low Multi-Linear Rank Approximations Of Tensors," 
+DOI: 10.1109/ECC.2015.7330994
+Keywords: Jacobian matrices; approximation theory; tensors; Jacobi iteration; multidimensional signal; multilinear functional; multilinear rank approximation; tensor approximation; Approximation methods; Convergence; Eigenvalues and eigenfunctions ;Jacobian matrices; Standards; Tensile stress; Jacobi iterations; Tensor decompositions; singular value decompositions (ID#: 16-9879) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7330994&isnumber=7330515
+
+Title: "Wavelet Frames Generated by Bandpass Prolate Functions," 
+DOI: 10.1109/SAMPTA.2015.7148863
+Keywords: eigenvalues and eigenfunctions; multidimensional systems; signal processing; wavelet transforms; BPP; bandpass prolate functions; bandpass prolates; eigenfunctions; finite dimensional analogues; frequency band; square-integrable functions; wavelet frames; Baseband; Discrete Fourier transforms; Eigenvalues and eigenfunctions; Generators; Kernel; Redundancy; Wave functions (ID#: 16-9880) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7148863&isnumber=7148833
+
+Title: "Keyword Spotting System for Tamil Isolated Words using Multidimensional MFCC and DTW Algorithm," 
+DOI: 10.1109/ICCSP.2015.7322545
+Keywords: data mining; feature extraction; indexing; speaker recognition; 12D MFCC feature vector; 26D MFCC feature vector;39D MFCC feature vector; DTW algorithm; TLAB environ; Tamil isolated word; audio document indexing; audio mining; data mining; feature extraction; isolated Tamil utterance; keyword spotting system; multidimensional MFCC; multidimensional Mel frequency cepstral coefficient feature vector; speaker independent speech processing technique; Accuracy; Algorithm design and analysis; Frequency conversion; Indexes; Mel frequency cepstral coefficient; Pattern matching; Audio mining; DTW algorithm; Keyword spotting; MFCC Feature vectors; Speech processing (ID#: 16-9881) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322545&isnumber=7322423
+
+Title: "FPGA-Based Network-Resonance Applebaum Adaptive Arrays for Directional Spectrum Sensing," 
+DOI: 10.1109/MWSCAS.2015.7282165
+Keywords: array signal processing; cognitive radio; correlation methods; feature extraction; field programmable gate arrays; filtering theory; interference suppression; modulation; radio spectrum management; radiofrequency interference; signal detection;2D planar-resonant beam filter; FPGA; RF beam direction; SNR; Xilinx Virtex-6;clock frequency; cognitive radio; cyclostationary feature detection; directional receive mode wideband beamforming; field programmable gate array ;frequency 100.9 MHz; linear array Applebaum beamformer; multidimensional filter theory; network-resonance Applebaum adaptive arrays; network-resonant Applebaum array; noise suppression capability; radio sources; signal to noise ratio; spatial selectivity; spatiotemporal directional spectrum sensing; spectral correlation function; Adaptive arrays; Feature extraction; Frequency modulation; Interference; Sensors; Signal to noise ratio (ID#: 16-9882) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282165&isnumber=7281994
+
+Title: "Distributed Sensor Network Localization Using Combination and Diffusion Scheme," 
+DOI: 10.1109/ICDSP.2015.7252061
+Keywords: diffusion; wireless sensor networks; anchor nodes; centralized processing; combination scheme; coordinate estimation; diffusion scheme; distributed MDS algorithm; distributed sensor network localization algorithm; local MDS algorithm; local multidimensional scaling algorithm; measurement noise; sensor coordinate determination; Ad hoc networks; Distance measurement; Electronic mail; Nickel; Noise; Optimization; Wireless sensor networks; Diffusion scheme; distributed localization; multidimensional scaling (MDS) algorithm; sensor network (ID#: 16-9883) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7252061&isnumber=7251315
+
+Title: "Simulation of InAlAs/InGaAs/InAs Quantum Dots — Quantum Well Near-infrared Detector," 
+DOI: 10.1109/NUSOD.2015.7292842
+Keywords: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7292842&isnumber=7292786
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7292842&isnumber=7292786 
+
+Title: "Distributed Disturbance Estimator and Application to Stabilization of Multi-Dimensional Kirchhoff Equation," 
+DOI: 10.1109/CDC.2015.7402584
+Keywords: active disturbance rejection control; parameter estimation; signal processing; ADRC; active disturbance rejection control; distributed disturbance estimator; linear disturbance estimator; multidimensional Kirchhoff equation; stabilization; time-varying gain; velocity signal extraction; Convergence; Distributed parameter systems; Hilbert space; Numerical simulation; Observers; Robust control; Uncertainty (ID#: 16-9885) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7402584&isnumber=7402066
+
+Title: "Linear Array Synthesis with Minimum Side Lobe Level and Null Control using Wind Driven Optimization," 
+DOI: 10.1109/SPACES.2015.7058246
+Keywords: antenna radiation patterns; evolutionary computation; iterative methods; linear antenna arrays; particle swarm optimisation; PSO; SLL suppression; WDO algorithm; convergence graph show; evolutionary algorithm; iterative heuristic global optimization algorithm; linear array synthesis; minimum sidelobe level suppression; multimodal problems; null control; particle swarm optimization; radiation pattern; wind driven optimization; Algorithm design and analysis; Arrays; Electromagnetics; Linear antenna arrays; Optimization; Particle swarm optimization; Antenna array; comprehensive learning particle swarm optimization (CLPSO);evolutionary programming; interference; linear array design; null control; particle swarm optimization (PSO); sidelobe level suppression (SLL); wind driven optimization (WDO) (ID#: 16-9886) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7058246&isnumber=7058196
+
+Title: "Capacity Analysis for Non-Orthogonal Overloading Transmissions under Constellation Constraints," 
+DOI: 10.1109/WCSP.2015.7341294
+Keywords: AWGN channels; code division multiple access; AWGN channel; SCMA scheme; code division multiple access; constellation constraint; low density spreading; multidimensional modulation; nonorthogonal multiple access scheme link performance; nonorthogonal overloading transmission capacity analysis; resource element; sparse code multiple access scheme;5G mobile communication; AWGN channels; Modulation; Multiaccess communication; Nickel; Simulation; Sparse matrices; Constellation Constrained capacity; IrLDS; LDS; Non-orthogonal multiple access; SCMA (ID#: 16-9887) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7341294&isnumber=7340966
+
+Title: "Auto-Encoder Based Modeling of Combustion System for Circulating Fluidized Bed Boiler," 
+DOI: 10.1109/ICSPCC.2015.7338946
+Keywords: boilers; combustion; fluidised beds; radial basis function networks; CFBB; auto-encoder based modeling; circulating fluidized bed boiler; combustion system;data dimension; radial basis function neutral network; Combustion; Computational modeling; Data models; Mathematical model; Neural networks; Testing; Training; Circulating fluidized bed boiler (CFBB); auto-encoders; combustion system; modeling (ID#: 16-9888) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7338946&isnumber=7338753
+
+Title: "Multidimensional Ramanujan-Sum Expansions on Nonseparable Lattices," 
+DOI: 10.1109/ICASSP.2015.7178655
+Keywords: signal representation; finite duration sequences; integer computations; multidimensional Ramanujan-sum expansions; multidimensional signals; nonseparable lattices; Dictionaries; Discrete Fourier transforms; Finite impulse response filters; Lattices; Matrix decomposition; Tensile stress; Ramanujan-sum on lattices; integer basis; periodic subspaces; periodicity lattices (ID#: 16-9889) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178655&isnumber=7177909
+
+Title: "Tensor Object Classification Via Multilinear Discriminant Analysis Network," 
+DOI: 10.1109/ICASSP.2015.7178315
+Keywords: feature extraction; image classification; image coding; learning (artificial intelligence); object recognition; principal component analysis; tensors; LDANet; MLDANet; PCANet; UCF11 database; binary hashing; binary histogram; deep learning algorithms; feature pooling; features maps ;linear discriminant analysis network; multidimensional object recognition; multilinear discriminant analysis network; principal component analysis network; tensor object classification; Erbium; Deep learning; LDANet; MLDANet; PCANet; tensor object classification (ID#: 16-9890) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178315&isnumber=7177909
+
+Title: "SPLATT: Efficient and Parallel Sparse Tensor-Matrix Multiplication," 
+DOI: 10.1109/IPDPS.2015.27
+Keywords: C language; cache storage; data structures; matrix multiplication; shared memory systems; software libraries; sparse matrices; tensors; C library; Khatri-Rao product; SPLATT; cache tiling; cache-friendly reordering; data structure; matricide tensor multiplication; multidimensional arrays; parallel sparse tensor-matrix multiplication; shared-memory parallelism; sparse tensor factorization; three-mode tensors; Algorithm design and analysis; Context; Data structures; Memory management; Parallel processing; Sparse matrices; Tensile stress; CANDECOMP; CPD; PARAFAC; Sparse tensors; parallel (ID#: 16-9891) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7161496&isnumber=7161257
+
+Title: "A Study of Memory Consumption and Execution Performance of the cuFFT Library," 
+DOI: 10.1109/3PGCIC.2015.66
+Keywords: fast Fourier transforms; graphics processing units; libraries; mathematics computing; Nvidia cuFFT library; Nvidia graphics processing units; execution performance; execution time; fast Fourier transform; input data layout; memory consumption; multidimensional FFT decomposition; output data layout; Fast Fourier transforms; Graphics processing units; Layout; Libraries; Memory management; Signal processing algorithms; CUDA; cuFFT (ID#: 16-9892) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7424583&isnumber=7424499
+
+Title: "Stochastic Decomposition into Low Rank and Sparse Tensor for Robust Background Subtraction," 
+DOI: 10.1049/ic.2015.0105
+Keywords: computational complexity; computer vision; image sequences; iterative methods; optimisation; principal component analysis; stochastic processes; tensors; video signal processing; BG sequence; HORPCA based robust tensor decomposition; HORPCA based robust tensor recovery; batch optimization methods; computational complexity reduction; computer vision applications; foreground mask; high dimensional data; higher-order robust principal component analysis; iterative multidimensional tensor data optimization scheme; low rank tensor; memory complexity reduction; robust background subtraction; robust low-rank error separation; sparse error separation; sparse tensor; stochastic decomposition; stochastic optimization; video analysis; Background/Foreground Separation; Low-rank tensor; Stochastic optimization; Tensor decomposition (ID#: 16-9893) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7317993&isnumber=7244054
+
+Title: "VLSI Architectures for the 4-Tap and 6-Tap 2-D Daubechies Wavelet Filters Using Pipelined Direct Mapping Method," 
+DOI: 10.1109/ICIIECS.2015.7193010
+Keywords: VLSI; data compression; digital signal processing chips; discrete wavelet transforms; image coding; image filtering; image retrieval; medical image processing; pipeline arithmetic; 2D Daubechies wavelet filters; 2D Daubechies wavelet transform; 2D discrete wavelet transform lifting scheme algorithm; FDWT; IDWT; MATLAB program; PSNR; VLSI architectures; forward Daubechies wavelet transform; image compression; inverse Daubechies wavelet transform; multidimensional Daubechies; peak signal to noise ratio; pipelined direct mapping method; Biomedical imaging; Computer architecture; Conferences; Discrete wavelet transforms; Image coding; Daubechies wavelet filter; MATLAB; pipelined direct mapping method (ID#: 16-9894) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7193010&isnumber=7192777
+
+Title: "Learning Set Cardinality in Distance Nearest Neighbours," 
+DOI: 10.1109/ICDM.2015.17
+Keywords: data analysis; learning (artificial intelligence); query processing; ML model; SCP problem; dNN query; data access; distance-based nearest neighbour query; exploratory data analytics; learning set cardinality; machine learning model; query pattern space; set cardinality prediction problem; Adaptation models; Estimation; Histograms; Prototypes; Quantization (signal);Solid modeling; Yttrium; Query-driven set cardinality prediction; distance nearest neighbors analytics; hetero-associative competitive learning; local regression vector quantization (ID#: 16-9895) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7373374&isnumber=7373293
+
+Title: "Approximate Controllability of a Second Order Delayed Semilinear Stochastic System with Nonlocal Conditions," 
+DOI: 10.1109/ISPCC.2015.7375031
+Keywords: controllability; delay systems; multidimensional systems; stochastic systems; Sadovskii fixed point theorem; approximate controllability; infinite dimensional controllability operator; nonlocal conditions; second order delayed semilinear stochastic system; sufficient conditions; Aerospace electronics; Controllability; Generators; Hilbert space; Stochastic systems; Yttrium; Approximate Controllability; Delayed System; Sadovskii's Fixed Point Theorem; Semilinear Systems; Stochastic Control System (ID#: 16-9896) 
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7375031&isnumber=7374979
+
